@@ -12,7 +12,6 @@ Wrote my first physics paper that presents the logic and analysis of a python do
 ## Education
 - BSc | Crime and Security Science | University College London
 - IFP | Computer Science | University of Warwick 
-- HS | IGCSE | St Joseph Institution International School
   
 ## Personal Interests
 * Quantum computing
