@@ -4,7 +4,8 @@
 2. IFP, Computer Science | University of Warwick (_September 2022 - June 2023_)
 3. HS, IGCSE | St Joseph Institution International School of Malaysia (_April 2019 - June 2022_)
 
-### Personal Interests: Quantum computing, Quantum information theory, Quantum field theory, Quantum physics, Plasma physics, Fluid physics, Rocket physics, Particle physics, Nuclear physics, Condensed matter physics, Computational physics, Semiconductor physics, Computation theory, Information theory, Cybersecurity, Linear Algebra, Single variable calculus, Multivariable calculus, Football, Aikido, Security technologies, Quantum technologies, Forensic science
+## Personal Interests
+Quantum computing, Quantum information theory, Quantum field theory, Quantum physics, Plasma physics, Fluid physics, Rocket physics, Particle physics, Nuclear physics, Condensed matter physics, Computational physics, Semiconductor physics, Computation theory, Information theory, Cybersecurity, Linear Algebra, Single variable calculus, Multivariable calculus, Football, Aikido, Security technologies, Quantum technologies, Forensic science
 
 ## Published Computational Physics Paper
 ### Computational Double Pendulum Physics
