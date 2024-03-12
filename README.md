@@ -1,6 +1,4 @@
 
-# UCL Undergraduate Student 
-
 #### Technical Skills
 Python, MATLAB, R, MS office suite, LaTex, C# 
 
@@ -45,21 +43,30 @@ Wrote my first physics paper that presents the logic and analysis of a python do
 
 **Python**
 
-**Warwick/UCL** 
+**Warwick/UCL**
 Snake game, Caesar cipher algorithm, Data collection survey, Crime survey dataset analysis
+
 **Graph theory**
 A* algorithm, Dijkstra algorithm, Bellman and Ford's algorithm, Floyd and Warshall's algorithm, Breadth first search algorithm, Depth first search algorithm
+
 Libraries: Numpy, Matplotlib, SciPy, CSV, JSON, Pickle, Requests, Pandas, Seaborn, Pygame
 
 **MATLAB**
 
-**Linear algebra**: Gaussian elimination, Gauss - Jordan elimination, Solving Ax = 0 homogenous equation, Solving A = LU decomposition method
-**Single variable calculus**: Product rule, Quotient rule, Chain rule, Implicit differentiation, Limits evaluation of functions, Finding roots of polynomial equations, Graph sketching, Solving piecewise functions, Newton - Raphson method, Mean value theorem
+**Linear algebra**
+Gaussian elimination, Gauss - Jordan elimination, Solving Ax = 0 homogenous equation, Solving A = LU decomposition method
+
+**Single variable calculus** 
+Product rule, Quotient rule, Chain rule, Implicit differentiation, Limits evaluation of functions, Finding roots of polynomial equations, 
+Graph sketching, Solving piecewise functions, Newton - Raphson method, Mean value theorem
 
 **R**
 
 **UCL** 
-KDE map of thefts from vehicles in Vancouver in 2020, Density map of fatal shootings in New York City in 2019, Incidence rate map of stalking in Queensland in 2018, KDE map of anti-social behaviour concentration in Northumbria in 2022, Incidence rate map of anti-social behaviour incidents in Northumbria in 2022,  Hotspots map of anti-social behaviour within the single local authority district within Northumbria in 2022
+KDE map of thefts from vehicles in Vancouver in 2020, Density map of fatal shootings in New York City in 2019, 
+Incidence rate map of stalking in Queensland in 2018, KDE map of anti-social behaviour concentration in Northumbria in 2022, 
+Incidence rate map of anti-social behaviour incidents in Northumbria in 2022, Hotspots map of anti-social behaviour within the single local authority district within Northumbria in 2022
+
 Libraries: ggspatial, sf, sfhotspot, tidyverse, readxl
 
 ## Hobbies
