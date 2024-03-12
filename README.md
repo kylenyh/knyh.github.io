@@ -2,6 +2,12 @@
 #### Technical Skills
 Python, MATLAB, R, MS office suite, LaTex, C# 
 
+## Published Computational Physics Paper
+### Computational Double Pendulum Physics
+[Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
+
+Wrote my first physics paper that presents the logic and analysis of a python double pendulum system model, created using **Python** and **Physics** principles to simulate and illustrate the complex and chaotic behavior. It explores how slight variations in initial conditions can lead to significantly different trajectories, highlighting the intricate and unpredictable nature of chaotic systems.
+
 ## Education
 * BSc, Crime and Security Science, UCL, (_September 2023 - Present_)
 * IFP, Computer Science, University of Warwick, (_September 2022 - June 2023_)
@@ -33,12 +39,6 @@ Python, MATLAB, R, MS office suite, LaTex, C#
 * Quantum technologies
 * Forensic science
 
-## Published Computational Physics Paper
-### Computational Double Pendulum Physics
-[Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
-
-Wrote my first physics paper that presents the logic and analysis of a python double pendulum system model, created using **Python** and **Physics** principles to simulate and illustrate the complex and chaotic behavior. It explores how slight variations in initial conditions can lead to significantly different trajectories, highlighting the intricate and unpredictable nature of chaotic systems.
-
 ## Notable Coding Projects
 
 #### Python Projects
@@ -54,7 +54,6 @@ Wrote my first physics paper that presents the logic and analysis of a python do
   - Floyd and Warshall's algorithm
   - Breadth-first search algorithm
   - Depth-first search algorithm
-Libraries: Numpy, Matplotlib, SciPy, CSV, JSON, Pickle, Requests, Pandas, Seaborn, Pygame
 
 #### MATLAB Projects
 - **Linear Algebra**:
@@ -73,8 +72,11 @@ Libraries: Numpy, Matplotlib, SciPy, CSV, JSON, Pickle, Requests, Pandas, Seabor
   - Newton-Raphson method
 
 #### R Projects
-- **UCL**: KDE map of thefts, Density map of fatal shootings, Incidence rate map of stalking
-Libraries: ggspatial, sf, sfhotspot, tidyverse, readxl
+- **UCL**:
+  - KDE map of thefts
+  - Density map of fatal shootings
+  - Incidence rate map of stalking
+  - Hotspot map of anti-social behaviour
 
 ## Hobbies:
 * Coding
