@@ -41,39 +41,48 @@ Wrote my first physics paper that presents the logic and analysis of a python do
 
 ## Notable Coding Projects
 
-**Python**
-
-**Warwick/UCL**
-Snake game, Caesar cipher algorithm, Data collection survey, Crime survey dataset analysis
-
-**Graph theory**
-A* algorithm, Dijkstra algorithm, Bellman and Ford's algorithm, Floyd and Warshall's algorithm, Breadth first search algorithm, Depth first search algorithm
-
+#### Python Projects
+- **Warwick/UCL**:
+  - Snake game
+  - Caesar cipher algorithm
+  - Data collection survey
+  - Crime survey dataset analysis
+- **Graph Theory**:
+  - A* algorithm
+  - Dijkstra algorithm
+  - Bellman and Ford's algorithm
+  - Floyd and Warshall's algorithm
+  - Breadth-first search algorithm
+  - Depth-first search algorithm
 Libraries: Numpy, Matplotlib, SciPy, CSV, JSON, Pickle, Requests, Pandas, Seaborn, Pygame
 
-**MATLAB**
+#### MATLAB Projects
+- **Linear Algebra**:
+  - Gaussian elimination
+  - Gauss-Jordan elimination,
+  - Solving A = LU decomposition method
+  - Solving Ax = 0 homogenous equation
+- **Single Variable Calculus**:
+  - Product rule
+  - Quotient rule
+  - Chain rule
+  - Graph sketching
+  - Limits evaluation of functions
+  - Finding roots of polynomial equations
+  - Implicit differentiation
+  - Newton-Raphson method
 
-**Linear algebra**
-Gaussian elimination, Gauss - Jordan elimination, Solving Ax = 0 homogenous equation, Solving A = LU decomposition method
-
-**Single variable calculus** 
-Product rule, Quotient rule, Chain rule, Implicit differentiation, Limits evaluation of functions, Finding roots of polynomial equations, 
-Graph sketching, Solving piecewise functions, Newton - Raphson method, Mean value theorem
-
-**R**
-
-**UCL** 
-KDE map of thefts from vehicles in Vancouver in 2020, Density map of fatal shootings in New York City in 2019, 
-Incidence rate map of stalking in Queensland in 2018, KDE map of anti-social behaviour concentration in Northumbria in 2022, 
-Incidence rate map of anti-social behaviour incidents in Northumbria in 2022, Hotspots map of anti-social behaviour within the single local authority district within Northumbria in 2022
-
+#### R Projects
+- **UCL**: KDE map of thefts, Density map of fatal shootings, Incidence rate map of stalking
 Libraries: ggspatial, sf, sfhotspot, tidyverse, readxl
 
-## Hobbies
-Coding, Physics, Watching documentaries/Football, Traveling 
+## Hobbies:
+* Coding
+* Physics
+* Watching documentaries/Football
+* Traveling
 
-## Achievements 
-* IGCSE Science Award, St Joseph Institution International School of Malaysia, (_July 2022_) 
-Awarded for outstanding achievements throughout the IGCSE programme.
-* UCMAS (Universal Concept of Mental Arithmetic System), Mental Math Competitions, (April 2010 - April 2014)
-Competed at global and regional competitions held, across various levels of competency from basic to masters.
+## Achievements:
+* IGCSE Science Award, St Joseph Institution International School of Malaysia, (_July 2022_)
+* UCMAS, Mental Math Competitions, (_April 2010 - April 2014_)
+
