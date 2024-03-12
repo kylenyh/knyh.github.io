@@ -41,7 +41,7 @@ Wrote my first physics paper that presents the logic and analysis of a python do
 
 ## Notable Coding Projects
 
-#### Python Projects
+#### Python
 - **Warwick/UCL**:
   - Snake game
   - Caesar cipher algorithm
@@ -55,7 +55,7 @@ Wrote my first physics paper that presents the logic and analysis of a python do
   - Breadth-first search algorithm
   - Depth-first search algorithm
 
-#### MATLAB Projects
+#### MATLAB
 - **Linear Algebra**:
   - Gaussian elimination
   - Gauss-Jordan elimination,
@@ -71,20 +71,20 @@ Wrote my first physics paper that presents the logic and analysis of a python do
   - Implicit differentiation
   - Newton-Raphson method
 
-#### R Projects
+#### R
 - **UCL**:
   - KDE map of thefts
   - Density map of fatal shootings
   - Incidence rate map of stalking
   - Hotspot map of anti-social behaviour
 
-## Hobbies:
+## Hobbies
 * Coding
 * Physics
 * Watching documentaries/Football
 * Traveling
 
-## Achievements:
+## Achievements
 * IGCSE Science Award, St Joseph Institution International School of Malaysia, (_July 2022_)
 * UCMAS, Mental Math Competitions, (_April 2010 - April 2014_)
 
