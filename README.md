@@ -86,6 +86,6 @@ Wrote my first physics paper that presents the logic and analysis of a python do
 * Traveling
 
 ## Achievements
-* IGCSE, Science Award | St Joseph Institution International School of Malaysia | (_July 2022_)
-* UCMAS (Universal Concept of Mental Arithmetic System) | Mental Math Competitions | (_April 2010 - April 2014_)
+* IGCSE, Science Award | St Joseph Institution International School at Malaysia (_July 2022_)
+* UCMAS (Universal Concept of Mental Arithmetic System) | Mental Math Competitions at Malaysia (_April 2010 - April 2014_)
 
