@@ -3,7 +3,7 @@
 Python, MATLAB, R, MS office suite, LaTex, C# 
 
 
-## Published Computational Physics Paper
+## Published Physics Paper
 
 #### Computational Double Pendulum Physics (1<sup>st</sup>)
 [Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
