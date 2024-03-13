@@ -1,6 +1,6 @@
 
 
-Currently studying  Crime and Security Science at [UCL](https://www.ucl.ac.uk/), my academic path began at St Joseph Institution International School in Malaysia, through an IGCSE programme, before advancing to an accelerated foundation in Computer Science at the [University of Warwick](https://warwick.ac.uk/). My academic and professional interests converge at the nexus of physics, cybersecurity, and computer science, exploring how technological advancements can bolster security measures and strategies against crime. Beyond academics, I delve into coding, physics, documentaries, and football, with travel broadening my understanding of global cultures and settings.
+Currently studying  Crime and Security Science at [UCL](https://www.ucl.ac.uk/), my academic path began at [St Joseph Institution International School in Malaysia](https://www.sji-international.edu.my/), through an IGCSE programme, before advancing to an accelerated foundation in Computer Science at the [University of Warwick](https://warwick.ac.uk/). My academic and professional interests converge at the nexus of physics, cybersecurity, and computer science, exploring how technological advancements can bolster security measures and strategies against crime. Beyond academics, I delve into coding, physics, documentaries, and football, with travel broadening my understanding of global cultures and settings.
 
 #### Technical Skills
 Python, MATLAB, R, MS office suite, LaTex, C# 
