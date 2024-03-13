@@ -99,7 +99,7 @@ Developed a **MATLAB** algorithm, which focuses on solving homogeneous linear eq
 
 #### A Density Map Of Thefts - Associated with UCL (1<sup>st</sup>)
 
-Used **R** and the **ggplot()** library to make a density map of thefts from vehicles in Vancouver in 2020.
+Used **R** and the **ggplot** library to make a density map of thefts from vehicles in Vancouver in 2020.
 
 #### A Density Map Of Fatal Shootings - Associated with UCL (2<sup>nd</sup>)
 
@@ -107,7 +107,7 @@ Used **R** and the **ggplot** library to make a density map of thefts from vehic
 
 #### Incidence Rate Map Of Stalking Incidents - Associated with UCL (3<sup>rd</sup>)
 
-Used **R** and the **leaflet** library to make an incidence rate map of stalking incidents in 2018 in each police division in Queensland.
+Used **R** and the **leaflet** library to make an incidence rate map of stalking incidents in each police division in Queensland in 2018.
 
 
 ## Certifications
@@ -136,16 +136,16 @@ Used **R** and the **leaflet** library to make an incidence rate map of stalking
 #### MIT OpenCourseWare
 
 **Physics**
-* Quantum Physics I, Spring 2013 - Part I (Completed)
-* Quantum Physics I, Spring 2013 - Part II (Ongoing)
+* Quantum Physics I, Spring 2013: Part I (Completed)
+* Quantum Physics I, Spring 2013: Part II (Ongoing)
 
 **Mathematics**
-* Linear Algebra, Fall 2011 - Unit I (Completed)
-* Linear Algebra, Fall 2011 - Unit II (Completed)
-* Linear Algebra, Fall 2011 - Unit III (Ongoing)
-* Single Variable Calculus, Fall 2010 - Part I (Completed)
-* Single Variable Calculus, Fall 2010 - Part II (Completed)
-* Single Variable Calculus, Fall 2010 - Part III (Ongoing)
+* Linear Algebra, Fall 2011: Unit I (Completed)
+* Linear Algebra, Fall 2011: Unit II (Completed)
+* Linear Algebra, Fall 2011: Unit III (Ongoing)
+* Single Variable Calculus, Fall 2010: Part I (Completed)
+* Single Variable Calculus, Fall 2010: Part II (Completed)
+* Single Variable Calculus, Fall 2010: Part III (Ongoing)
 
 **Computer Science**
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
@@ -154,14 +154,14 @@ Used **R** and the **leaflet** library to make an incidence rate map of stalking
 #### Khan Academy
 
 **Physics**
-* AP College Physics - Units 1 to 4 (Completed)
-* AP College Physics - Units 5 to 9 (Completed)
-* AP College Physics - Units 10 to 14 (Ongoing)
+* AP College Physics: Units 1 to 4 (Completed)
+* AP College Physics: Units 5 to 9 (Completed)
+* AP College Physics: Units 10 to 14 (Ongoing)
        
 **Mathematics**
-* Statistics and Probability - Units 1 - 5 (Completed)
-* Statistics and Probability - Units 6 - 10 (Completed)
-* Statistics and Probability - Units 10 - 16(Completed)
+* Statistics and Probability: Units 1 - 5 (Completed)
+* Statistics and Probability: Units 6 - 10 (Completed)
+* Statistics and Probability: Units 10 - 16(Completed)
 
 
 ## Hobbies
