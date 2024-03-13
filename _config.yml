@@ -1,4 +1,9 @@
 
 title: Kyle Ng 
-#show_downloads: true
 theme: jekyll-theme-minimal
+date_format: "%B, %d, $Y"
+
+external: 
+  - {title: Mail, icon: envelope, url: "mailto:kylenyh@gmail.com"}
+  - {title: Github, icon: envelope, url: "https://instagram.com/kyleng888"}
+  - {title: Instagram, icon: envelope, url: "https://github.com/kylenyh" }
