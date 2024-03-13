@@ -2,21 +2,25 @@
 #### Technical Skills
 Python, MATLAB, R, MS office suite, LaTex, C# 
 
+
 ## Published Computational Physics Paper
 
-### Computational Double Pendulum Physics (1<sup>st</sup>)
+#### Computational Double Pendulum Physics (1<sup>st</sup>)
 [Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
 
 Wrote my first physics paper that presents the logic and analysis of a python double pendulum system model, created using **Python** and **Physics** principles to simulate and illustrate the complex and chaotic behavior. It explores how slight variations in initial conditions can lead to significantly different trajectories, highlighting the intricate and unpredictable nature of chaotic systems.
 
+
 ## Education
 - BSc | Crime and Security Science | University College London
 - IFP | Computer Science | University of Warwick 
+
   
 ## Personal Interests
 * Quantum computing
 * Quantum information theory
 * Quantum field theory
+* Quantum information processing
 * Quantum physics
 * Plasma physics
 * Fluid physics
@@ -24,10 +28,12 @@ Wrote my first physics paper that presents the logic and analysis of a python do
 * Particle physics
 * Nuclear physics
 * Condensed matter physics
+* Nanomaterials physics
 * Computational physics
 * Semiconductor physics
 * Laser physics
 * Computation theory
+* Graph theory
 * Information theory
 * Cybersecurity
 * Linear algebra
@@ -39,68 +45,89 @@ Wrote my first physics paper that presents the logic and analysis of a python do
 * Quantum technologies
 * Forensic science
 
-## Coding Projects
 
-#### Python
-- **Warwick/UCL**:
-  - Snake game
-  - Caesar cipher algorithm
-  - Data collection survey
-  - Crime survey dataset analysis
-- **Graph Theory**:
-  - A* algorithm
-  - Dijkstra algorithm
-  - Bellman and Ford's algorithm
-  - Floyd and Warshall's algorithm
-  - Breadth-first search algorithm
-  - Depth-first search algorithm
+## Notable Projects
 
-#### MATLAB
-- **Linear Algebra**:
-  - Gaussian elimination
-  - Gauss-Jordan elimination,
-  - Solving A = LU decomposition method
-  - Solving Ax = 0 homogenous equation
-- **Single Variable Calculus**:
-  - Product rule
-  - Quotient rule
-  - Chain rule
-  - Graph sketching
-  - Limits evaluation of functions
-  - Finding roots of polynomial equations
-  - Implicit differentiation
-  - Newton-Raphson method
+### Python
 
-#### R
-- **UCL**:
-  - KDE map of thefts
-  - Density map of fatal shootings
-  - Incidence rate map of stalking
-  - Hotspot map of anti-social behaviour
+#### Snake Game - Associated with University of Warwick (1<sup>st</sup>)
+
+Implemented through **Python**, this project involves implementing game logic to control the snake's movement, grow its length upon consuming food and causing the snake to die if its tail touches its body. It showcases programming skills in Python, focusing on loops, conditionals, and data structure manipulation. The development process includes designing a user interface with **Pygame**, creating game mechanics and incorporating a scoring system. 
+
+#### Crime Data Collection Survey - Associated with UCL (2<sup>nd</sup>)
+
+Implemented through **Python**, this project involves designing and implementing a phone snatching survey system to gather and analyze data from the survey. The project integrates various libraries to efficiently collect, store, and process survey responses, aiming to provide insights into crime trends, plots and patterns. Through a user-friendly interface, participants can submit information anonymously, contributing to a comprehensive database that supports academic research and helps inform public safety strategies.
+
+#### A* Algorithm - Personal (3<sup>rd</sup>)
+
+Implemented through **Python**, this project focuses on the A* algorithm, which finds the shortest path between two points, considering various obstacles and optimizing the path based on cost functions. The algorithm combines features of **Dijkstra's algorithm** for the shortest path and the **Greedy Best-First-Search algorithm** to prioritize paths that seem more promising. 
+
+#### Dijkstra Algorithm - Personal (4<sup>th</sup>)
+
+Implemented through **Python**, this project is a practical implementation of a famous algorithm used for finding the shortest paths between nodes in a graph. The algorithm showcases how to efficiently traverse a graph, represented as weighted edges between nodes, to find the minimum distance from a starting point to all other points in the graph. 
+
+#### Double Pendulum - Personal (5<sup>th</sup>)
+
+Implemented through **Python**, this project explore the principles and dynamics of a chaotic double pendulum system through simulation. Utilizing **Pygame** and **Physics**, it visualizes the unpredictable motion of a pendulum with two segments. This project not only demonstrates complex physics principles but also serves as a hands-on approach to learning about differential equations, energy conservation, and chaos theory
+
+
+### MATLAB
+
+#### Gaussian elimination - Personal (1<sup>st</sup>)
+
+Developed a **MATLAB** algorithm Gaussian elimination in solving systems of linear equations. It involves using row operations to transform the system's matrix into an upper triangular form, making it easier to solve for the variables through back substitution. It is also a procedure in matrix elimination to transform a matrix from its reduced echelon form to its row reduced ecehelon form. 
+
+#### Gauss-Jordan elimination - Personal (2<sup>nd</sup>)
+
+Developed a **MATLAB** algorithm in solving systems of linear equations, showcasing the ability to programmatically implement one of the most fundamental algorithms in linear algebra. This project encapsulates the development of a script capable of transforming any given matrix into its reduced row echelon form, thereby finding solutions to linear equations efficiently. 
+
+#### Matrix decomposition A = LU - Personal (3<sup>rd</sup>)
+
+Developed a **MATLAB** algorithm, which focuses on implementing an algorithm to decompose a given square matrix A into the product of a lower triangular matrix L and an upper triangular matrix U. This decomposition is essential in numerical analysis for solving linear equations, inverting matrices, and computing determinants efficiently.
+
+### R
+
+#### A Density Map Of Thefts - Associated with UCL (1<sup>st</sup>)
+
+Used **R** and the **ggplot()** library to make a density map of thefts from vehicles in Vancouver in 2020.
+
+#### A Density Map Of Fatal Shootings - Associated with UCL (2<sup>nd</sup>)
+
+Used **R** and the **ggplot** library to make a density map of thefts from vehicles in Vancouver in 2020.
+
+#### Incidence Rate Map Of Stalking Incidents - Associated with UCL (3<sup>rd</sup>)
+
+Used **R** and the **leaflet** library to make an incidence rate map of stalking incidents in 2018 in each police division in Queensland.
+
+#### A Density Map Of Two-Wheeled Vehicle Theft - Associated with UCL (4<sup>th</sup>)
+
+Used **R** and the **ggplot** library to make an incidence rate map of two-wheeled vehicle theft in Prague in 2022.
+
 
 ## Certifications
 
 #### MATLAB
-1. Mathworks - Machine Learning Onramp
-2. Mathworks - MATLAB Onramp
-3. Mathworks - Deep Learning Onramp
-4. Mathworks - Computer Vision Onramp
-5. Mathworks - Wireless Communications Onramp
-6. Mathworks - Statistics Onramp
-7. Mathworks - Signal Processing Onramp
-8. Mathworks - Reinforcement Learning Onramp
-9. Mathworks - Optimization Onramp
-10. Mathworks - Object Oriented Programming Onramp
-11. Mathworks - Image Processing Onramp
-12. Mathworks - App Building Onramp
-13. Mathworks - Introduction to Symbolic Math with MATLAB
-14. Mathworks - Introduction to Linear Algebra with MATLAB
-15. Mathworks - Solving Nonlinear Equations with MATLAB
-16. Mathworks - Solving Ordinary Differential Equations with MATLAB
+* Mathworks - Machine Learning Onramp
+* Mathworks - MATLAB Onramp
+* Mathworks - Deep Learning Onramp
+* Mathworks - Computer Vision Onramp
+* Mathworks - Wireless Communications Onramp
+* Mathworks - Statistics Onramp
+* Mathworks - Signal Processing Onramp
+* Mathworks - Reinforcement Learning Onramp
+* Mathworks - Optimization Onramp
+* Mathworks - Object Oriented Programming Onramp
+* Mathworks - Image Processing Onramp
+* Mathworks - App Building Onramp
+* Mathworks - Introduction to Symbolic Math with MATLAB
+* Mathworks - Introduction to Linear Algebra with MATLAB
+* Mathworks - Solving Nonlinear Equations with MATLAB
+* Mathworks - Solving Ordinary Differential Equations with MATLAB
+
 
 ## Courses
 
-#### MIT OPENCOURSEWARE
+#### MIT OpenCourseWare
 
 **Physics**
 * Quantum Physics I Spring 2013 - Part I (Completed)
@@ -109,14 +136,15 @@ Wrote my first physics paper that presents the logic and analysis of a python do
 **Mathematics**
 * Linear Algebra Fall 2011 - Unit I (Completed)
 * Linear Algebra Fall 2011 - Unit II (Completed)
-* Single Variable Calculus Fall 2010 - Part 1 (Completed)
-* Single Variable Calculus Fall 2010 - Part 2 (Completed)
-* Single Variable Calculus Fall 2010 - Part 3 (Ongoing)
+* Linear Algebra Fall 2011 - Unit III (Ongoing)
+* Single Variable Calculus Fall 2010 - Part I (Completed)
+* Single Variable Calculus Fall 2010 - Part II (Completed)
+* Single Variable Calculus Fall 2010 - Part III (Ongoing)
 
 **Computer Science**
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
 
-#### KHAN ACADEMY
+#### Khan Academy
 
 **Physics**
 * AP College Physics - Units 1 to 4 (Completed)
@@ -128,8 +156,10 @@ Wrote my first physics paper that presents the logic and analysis of a python do
 * Statistics and Probability - Units 6 - 10 (Completed)
 * Statistics and Probability - Units 10 - 16(Completed)
 
+
 ## Hobbies
 Coding, Physics, Watching documentaries/Football, Traveling
+
 
 ## Achievements
 * IGCSE, Science Award | St Joseph Institution International School
