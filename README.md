@@ -85,6 +85,11 @@ Developed a **MATLAB** algorithm in solving systems of linear equations, showcas
 
 Developed a **MATLAB** algorithm, which focuses on implementing an algorithm to decompose a given square matrix A into the product of a lower triangular matrix L and an upper triangular matrix U. This decomposition is essential in numerical analysis for solving linear equations, inverting matrices, and computing determinants efficiently.
 
+#### Homogenous Equation Ax = 0 - Personal (4<sup>th</sup>)
+
+Developed a **MATLAB** algorithm, which focuses on solving homogeneous linear equations using various matrix decomposition techniques. This project focuses on the mathematical foundation and implementation of methods like Gaussian elimination, Gauss-Jordan elimination, and LU decomposition to find the solution space of the system.
+
+
 ### R
 
 #### A Density Map Of Thefts - Associated with UCL (1<sup>st</sup>)
@@ -143,6 +148,7 @@ Used **R** and the **ggplot** library to make an incidence rate map of two-wheel
 
 **Computer Science**
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
+
 
 #### Khan Academy
 
