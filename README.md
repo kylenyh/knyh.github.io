@@ -133,7 +133,7 @@ Used **R** and the **leaflet** library to make an incidence rate map of stalking
 
 ## Courses
 
-#### MIT OpenCourseWare
+### MIT OpenCourseWare
 
 **Physics**
 * Quantum Physics I, Spring 2013: Part I (Completed)
@@ -151,7 +151,7 @@ Used **R** and the **leaflet** library to make an incidence rate map of stalking
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
 
 
-#### Khan Academy
+### Khan Academy
 
 **Physics**
 * AP College Physics: Units 1 to 4 (Completed)
