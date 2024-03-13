@@ -4,7 +4,7 @@ Python, MATLAB, R, MS office suite, LaTex, C#
 
 ## Published Computational Physics Paper
 
-### Computational Double Pendulum Physics (1^st)
+### Computational Double Pendulum Physics (1^{st})
 [Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
 
 Wrote my first physics paper that presents the logic and analysis of a python double pendulum system model, created using **Python** and **Physics** principles to simulate and illustrate the complex and chaotic behavior. It explores how slight variations in initial conditions can lead to significantly different trajectories, highlighting the intricate and unpredictable nature of chaotic systems.
