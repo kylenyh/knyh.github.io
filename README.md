@@ -130,16 +130,16 @@ Used **R** and the **ggplot** library to make an incidence rate map of two-wheel
 #### MIT OpenCourseWare
 
 **Physics**
-* Quantum Physics I Spring 2013 - Part I (Completed)
-* Quantum Physics I Spring 2013 - Part II (Ongoing)
+* Quantum Physics I, Spring 2013 - Part I (Completed)
+* Quantum Physics I, Spring 2013 - Part II (Ongoing)
 
 **Mathematics**
-* Linear Algebra Fall 2011 - Unit I (Completed)
-* Linear Algebra Fall 2011 - Unit II (Completed)
-* Linear Algebra Fall 2011 - Unit III (Ongoing)
-* Single Variable Calculus Fall 2010 - Part I (Completed)
-* Single Variable Calculus Fall 2010 - Part II (Completed)
-* Single Variable Calculus Fall 2010 - Part III (Ongoing)
+* Linear Algebra, Fall 2011 - Unit I (Completed)
+* Linear Algebra, Fall 2011 - Unit II (Completed)
+* Linear Algebra, Fall 2011 - Unit III (Ongoing)
+* Single Variable Calculus, Fall 2010 - Part I (Completed)
+* Single Variable Calculus, Fall 2010 - Part II (Completed)
+* Single Variable Calculus, Fall 2010 - Part III (Ongoing)
 
 **Computer Science**
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
