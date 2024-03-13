@@ -1,5 +1,5 @@
 
-<img src="[URL_TO_YOUR_IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.openculture.com%2F2021%2F01%2Fthe-most-intelligent-photo-ever-taken.html&psig=AOvVaw1fZbNOkQt2DGkucffBWe-6&ust=1710460344493000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDBlby38oQDFQAAAAAdAAAAABAD)" alt="headshot" style="border-radius: 50%;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.openculture.com%2F2021%2F01%2Fthe-most-intelligent-photo-ever-taken.html&psig=AOvVaw1fZbNOkQt2DGkucffBWe-6&ust=1710460344493000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDBlby38oQDFQAAAAAdAAAAABAD" alt="headshot" style="border-radius: 50%;">
 
 Currently studying **Crime and Security Science** at [UCL](https://www.ucl.ac.uk/), my academic path began at [St Joseph Institution International School in Malaysia](https://www.sji-international.edu.my/), through an IGCSE programme, before advancing to an accelerated foundation programme in **Computer Science** at the [University of Warwick](https://warwick.ac.uk/). 
 
