@@ -104,10 +104,6 @@ Used **R** and the **ggplot** library to make a density map of thefts from vehic
 
 Used **R** and the **leaflet** library to make an incidence rate map of stalking incidents in 2018 in each police division in Queensland.
 
-#### A Density Map Of Two-Wheeled Vehicle Theft - Associated with UCL (4<sup>th</sup>)
-
-Used **R** and the **ggplot** library to make an incidence rate map of two-wheeled vehicle theft in Prague in 2022.
-
 
 ## Certifications
 
