@@ -174,6 +174,7 @@ Coding, Physics, Watching documentaries/Football, Traveling
 * UCMAS, Math Award | Mental Math Competitions
 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kyleng888)
-[![GitHub](https://img.shields.io/github/style=flat-squarew&logoColor=black)](https://github.com/kylenyh)
-[![Mail](https://img.shields.io/badge/-Mail-%23333?style=flat-square&logo=gmail&logoColor=rainbow)](mailto:kylenyh@gmail.com)
+[![Mail](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kylenyh@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/kylenyh)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/kyleng888)
+
