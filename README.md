@@ -175,5 +175,5 @@ Coding, Physics, Watching documentaries/Football, Traveling
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kyleng888)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/kylenyh)
-[![Mail](https://img.shields.io/badge/-Mail-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:kylenyh@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/yourusername?style=flat-squarew&style=social&logoColor=black)](https://github.com/kylenyh)
+[![Mail](https://img.shields.io/badge/-Mail-%23333?style=flat-square&logo=gmail&logoColor=rainbow)](mailto:kylenyh@gmail.com)
