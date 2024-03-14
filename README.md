@@ -1,6 +1,4 @@
 
-![Profile Picture](https://github.com/kylenyh.png)
-
 
 Currently studying **Crime and Security Science** at [UCL](https://www.ucl.ac.uk/), my academic path began at [St Joseph Institution International School in Malaysia](https://www.sji-international.edu.my/), through an IGCSE programme, before advancing to an accelerated foundation programme in **Computer Science** at the [University of Warwick](https://warwick.ac.uk/). 
 
