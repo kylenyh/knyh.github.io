@@ -1,8 +1,4 @@
 
-<p align="left">
-  <img src="https://cdn8.openculture.com/2021/01/20101921/solvay-bw.jpeg" alt="1927 Solvay Conference" width="150" height="150">
-</p>
-
 Currently studying **Crime and Security Science** at [UCL](https://www.ucl.ac.uk/), my academic path began at [St Joseph Institution International School in Malaysia](https://www.sji-international.edu.my/), through an IGCSE programme, before advancing to an accelerated foundation programme in **Computer Science** at the [University of Warwick](https://warwick.ac.uk/). 
 
 My academic and professional interests converge at the nexus of **physics**, **cybersecurity** and **computer science**, exploring how technological advancements can bolster security measures and strategies against crime. From a scientific and technological perspective, my interests lie in the physics of nuclear weapons, the physics of particle accelerators, the physics of quantum computers, the physics of rockets, the physics of fluids, the Internet of Things, achitecture of network systems, achitecture of hardware components, logic of quantum computers, logic of quantum algorithms, logic of quantum processors, logic of computer processors, logic of computer science algorithms.
