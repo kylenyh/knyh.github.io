@@ -138,7 +138,7 @@ Produced a Quarto report in **R**, to analyze violent crime incidence rates acro
 * Mathworks - Solving Ordinary Differential Equations with MATLAB
 
 
-## Courses (Self-Learning)
+## Courses (Self-Learn)
 
 ### MIT OpenCourseWare
 
