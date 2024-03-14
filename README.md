@@ -60,7 +60,7 @@ Implemented through **Python**, this project involves implementing game logic to
 
 #### Crime Data Collection Survey - Associated with UCL (2<sup>nd</sup>)
 
-Implemented through **Python**, this project involves designing and implementing a phone snatching survey system to **gather and analyze data** from the survey. The project integrates various libraries to efficiently **collect**, **store** and **process** survey responses, aiming to provide insights into crime plots and patterns. Through a user-friendly interface, participants can submit information anonymously, contributing to a comprehensive database that supports academic research and helps inform public safety strategies.
+Implemented through **Python**, this project involves designing and implementing a phone snatching survey system to **gather and analyze data** from the survey. The project integrates various libraries to efficiently **collect**, **store** and **process survey responses**, aiming to provide insights into **crime patterns**. Through a user-friendly interface, participants can submit information anonymously, contributing to a comprehensive database that supports academic research and helps inform public safety strategies.
 
 #### A* Algorithm - Personal (3<sup>rd</sup>)
 
