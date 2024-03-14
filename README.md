@@ -1,3 +1,8 @@
+![1927 Solvay Conference](https://cdn8.openculture.com/2021/01/20101921/solvay-bw.jpeg)
+
+<p align="left">
+  <img src="[URL_OF_YOUR_PROFILE_PICTURE](https://cdn8.openculture.com/2021/01/20101921/solvay-bw.jpeg)" alt="1927 Solvay Conference" width="150" height="150">
+</p>
 
 Currently studying **Crime and Security Science** at [UCL](https://www.ucl.ac.uk/), my academic path began at [St Joseph Institution International School in Malaysia](https://www.sji-international.edu.my/), through an IGCSE programme, before advancing to an accelerated foundation programme in **Computer Science** at the [University of Warwick](https://warwick.ac.uk/). 
 
