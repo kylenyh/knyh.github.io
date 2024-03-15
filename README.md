@@ -59,9 +59,13 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 Implemented through **Python**, this project involves implementing game logic to control the snake's movement, grow its length upon consuming food and causing the snake to die if its tail touches its body. It focuses on **loops**, **conditionals**, and **data structure manipulation**. The development process includes designing a user interface with **Pygame**, creating game mechanics and incorporating a **score system**. 
 
+**Libraries**: Math, Pygame 
+
 #### Crime Data Collection Survey - Associated with UCL (2<sup>nd</sup>)
 
 Implemented through **Python**, this project involves designing and implementing a phone snatching survey system to **gather and analyze data** from the survey. The project integrates various libraries to efficiently **collect**, **store** and **process survey responses**, aiming to provide insights into **crime patterns**. Through a user-friendly interface, participants can submit information anonymously, contributing to a comprehensive database that supports academic research and helps inform public safety strategies.
+
+**Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas
 
 #### A* Algorithm - Personal (3<sup>rd</sup>)
 
@@ -73,8 +77,15 @@ Implemented through **Python**, this project is a practical implementation of a 
 
 #### Double Pendulum - Personal (5<sup>th</sup>)
 
-Implemented through **Python**, this project explore the principles and dynamics of a chaotic double pendulum system through simulation. Utilizing **Pygame** and **Physics**, it visualizes the unpredictable motion of a pendulum with two segments. This project not only demonstrates complex physics principles but also serves as a hands-on approach to learning about **differential equations**, **energy conservation**, and **chaos theory**.
+Implemented through **Python**, this project explores the principles and dynamics of a chaotic double pendulum system through simulation. Utilizing **Pygame** and **Physics**, it visualizes the unpredictable motion of a pendulum with two segments. This project not only demonstrates complex physics principles but also serves as a hands-on approach to learning about **differential equations**, **energy conservation**, and **chaos theory**.
 
+**Libraries**: Math, Pygame
+
+#### Crime Survey Dataset Analysis - Associated with UCL (6<sup>th</sup>)
+
+Implemented through **Python**, this project involves analyzing public fear of crime in England and Wales using the 2013/14 CSEW data. The report provides clear, non-technical explanations of statistical findings for government policymakers, incorporating transparency for data scrutiny. It presents the extent of worry about crime and its correlation with various factors across measurement types, using a maximum of five meaningful graphics.
+
+**Libraries**: Numpy, Matplotlib, Pandas, Seaborn, SciPy
 
 ### MATLAB
 
