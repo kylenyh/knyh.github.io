@@ -3,6 +3,7 @@ Currently studying **Crime and Security Science** at [UCL](https://www.ucl.ac.uk
 
 My academic and professional interests converge at the nexus of **physics**, **cybersecurity** and **computer science**, exploring how technological advancements can bolster security measures and strategies against crime. From a scientific and technological perspective, my interests lie in the physics of nuclear weapons, the physics of particle accelerators, the physics of quantum computers, the physics of rockets, the physics of fluids, the physics of semiconductors, the physics of lasers, the Internet of Things, the achitecture of network systems, the achitecture of digital computers, the logic of quantum computers, the logic of quantum algorithms, the logic of quantum chips, the logic of quantum logic gates, the logic of computer science algorithms.
 
+
 #### Technical Skills
 Python, MATLAB, R, MS office suite, LaTeX, C# 
 
