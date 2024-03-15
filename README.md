@@ -7,7 +7,7 @@ Outside my academic pursuits, I dedicate time to coding projects that challenge 
 
 
 #### Technical Skills
-Python, MATLAB, R, MS office suite, LaTeX, C# 
+Python, MATLAB, R, MS Office Suite, LaTeX, C# 
 
 
 ## Published Computational Classical Physics Paper
@@ -50,6 +50,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Aikido
 * Security technologies
 * Quantum technologies
+* Nanomaterials technologies
 * Forensic science
 
 
