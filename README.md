@@ -33,7 +33,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Fluid physics
 * Rocket physics
 * Particle physics
-* Nuclear physics
+* High Energy and Nuclear physics
 * Condensed matter physics
 * Nanomaterials physics
 * Computational physics
@@ -151,6 +151,14 @@ Produced a Quarto report in **R**, to analyze violent crime incidence rates acro
 * Mathworks - Introduction to Linear Algebra with MATLAB
 * Mathworks - Solving Nonlinear Equations with MATLAB
 * Mathworks - Solving Ordinary Differential Equations with MATLAB
+
+#### SAS
+* SAS - Introduction to Data Curation for SAS Data Scientists
+
+
+#### FreeCodeCamp
+
+
 
 
 ## Courses (Self-Learn)
