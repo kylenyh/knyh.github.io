@@ -115,26 +115,37 @@ Developed a **MATLAB** algorithm, which focuses on **solving homogeneous linear 
 
 Used **R** to generate a density map illustrating thefts from vehicles in Vancouver throughout 2020. It utilizes crime data sourced from a specified CSV file, integrates a suitable base map, and overlays Vancouver's neighborhood boundaries and names for contextualization. The resulting map visually represents the spatial distribution of thefts from vehicles, aiding in the identification of hotspots and informing potential crime prevention strategies.
 
+**Libraries**: ggspatial, sf, sfhotspot, tidyverse
+
 #### A Density Map Of Fatal Shootings - Associated with UCL (2<sup>nd</sup>)
 
 Used **R** to generate a density map illustrating fatal shootings in New York City throughout 2019, utilizing crime data sourced from a specified CSV file. It incorporates NYPD precinct boundaries to provide spatial context and overlays the precinct numbers on the map, facilitating a clearer understanding of the distribution of fatal shootings across the city. The map aids in visualizing the concentration of fatal incidents and can inform law enforcement strategies and community engagement efforts aimed at addressing gun violence in New York City.
+
+**Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
 #### Incidence Rate Map Of Stalking Incidents - Associated with UCL (3<sup>rd</sup>)
 
 Used **R** to generate a choropleth map depicting the incidence rate of stalking incidents in each police division across Queensland in 2018. By integrating stalking counts and population data for each division, the map offers insights into the relative prevalence of stalking crimes, aiding in identifying areas of heightened concern. Additionally, the map can display the names of the top 10 divisions with the highest stalking rates, providing further information to guide policy-making and resource allocation efforts.
 
+**Libraries**: leaflet, sf, readxl, tidyverse
+
 #### Second Density Map Of Thefts - Associated with UCL (4<sup>th</sup>)
 
 Used **R** to generate a a density map illustrating the prevalence of two-wheeled vehicle theft specifically within Prague in 2022. By utilizing kernel density estimation (KDE) and statistically significant hotspots, the map highlights areas of heightened criminal activity, offering valuable insights for law enforcement and urban planning strategies. To ensure accuracy, the crime data is clipped to the city boundary of Prague, providing a focused analysis tailored to the city's geographic extent.
+
+**Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
 #### Quarto Report of Crimes Types in Japan - Associated with UCL (5<sup>th</sup>)
 
 Produced a Quarto report in **R**, to analyze violent crime incidence rates across prefectures in Japan and examine the highest rates for each type of violent crime. The report presents the variation of crime rates among prefectures and explores the relationship between violent crime rates and average income, represented by gross domestic product per capita. Utilizing data from a dataset, the report employs descriptive statistics and visualizations to elucidate patterns and insights relevant to crime trends and socioeconomic factors at the prefecture level.
 
+**Libraries**: ggbeeswarm, ggrepel, gt, rvest, tidyverse
+
 #### Quarto Report of Crimes Types in London - Associated with UCL (6<sup>th</sup>)
 
 Produced a Quarto report in **R**, to analyze certain crime types within the South West BCU of London. The report identifies key crime types and high-risk areas within the BCU, utilizing visual representation through a table, maps and charts for each chosen crime. Recommendations are provided for the tasking team's deployment, focusing on prioritizing significant crime problems and patrol areas. The analysis is data-driven, ensuring that resource allocation is effectively aligned with current crime trends and geographic hotspots within the South West BCU.
 
+**Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
 
 ## Certifications
