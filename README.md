@@ -3,16 +3,16 @@ Currently studying **Crime and Security Science** at [UCL](https://www.ucl.ac.uk
 
 My academic and professional interests converge at the nexus of **physics**, **cybersecurity** and **computer science**, exploring how technological advancements can bolster security measures and strategies against crime. From a scientific and technological perspective, my interests lie in the physics of nuclear weapons, the physics of particle accelerators, the physics of quantum computers, the physics of rockets, the physics of fluids, the physics of semiconductors, the physics of lasers, the Internet of Things, the achitecture of network systems, the achitecture of digital computers, the logic of quantum computers, the logic of quantum algorithms, the logic of quantum chips, the logic of quantum logic gates, the logic of computer science algorithms.
 
-Outside my academic pursuits, I dedicate time to coding projects that challenge my skills and broaden my understanding of computing and programming principles. Additionally, I immerse myself in the realm of physics, often exploring through documentaries and coming up with my computational physics projects if I can. As a football enthusiast, I enjoy not only following the sport but also watching football matches if I have the time. Travel also plays an integral role in my life, enriching my perspective with diverse cultures and societal structures. These personal endeavors not only provide balance but also fuel my professional growth and curiosity.
+Outside my academic pursuits, I dedicate time to coding projects that challenge my skills and broaden my understanding of computing and programming principles. Additionally, I immerse myself in the realm of physics, often trying to learn quantum physics on my own and coming up with my computational physics projects if I can. As a football enthusiast, I enjoy not only following the sport but also watching football matches if I have the time. Travel also plays an integral role in my life, enriching my perspective with diverse cultures and societal structures. These personal endeavors not only provide balance but also fuel my personal growth and curiosity.
 
 
 #### Technical Skills
 Python, MATLAB, R, MS Office Suite, LaTeX, C# 
 
 
-## Published Computational Classical Physics Paper
+## Published Classical Physics Paper
 
-#### Computational Double Pendulum Physics (1<sup>st</sup>)
+#### Computational Double Pendulum (1<sup>st</sup>)
 [Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
 
 Wrote my first physics paper that presents the logic and analysis of a double pendulum system model, created using **Python** and **Physics** principles to simulate and illustrate the complex and chaotic behavior. It explores how slight variations in initial conditions can lead to significantly different trajectories, highlighting the unpredictable nature of chaotic systems.
@@ -127,9 +127,14 @@ Used **R** to generate a choropleth map depicting the incidence rate of stalking
 
 Used **R** to generate a a density map illustrating the prevalence of two-wheeled vehicle theft specifically within Prague in 2022. By utilizing kernel density estimation (KDE) and statistically significant hotspots, the map highlights areas of heightened criminal activity, offering valuable insights for law enforcement and urban planning strategies. To ensure accuracy, the crime data is clipped to the city boundary of Prague, providing a focused analysis tailored to the city's geographic extent.
 
-#### Quarto Report of Types of Crimes - Associated with UCL (5<sup>th</sup>)
+#### Quarto Report of Crimes Types in Japan - Associated with UCL (5<sup>th</sup>)
 
 Produced a Quarto report in **R**, to analyze violent crime incidence rates across prefectures in Japan and examine the highest rates for each type of violent crime. The report presents the variation of crime rates among prefectures and explores the relationship between violent crime rates and average income, represented by gross domestic product per capita. Utilizing data from a dataset, the report employs descriptive statistics and visualizations to elucidate patterns and insights relevant to crime trends and socioeconomic factors at the prefecture level.
+
+#### Quarto Report of Crimes Types in London - Associated with UCL (6<sup>th</sup>)
+
+Produced a Quarto report in **R**, to analyze certain crime types within the South West BCU of London. The report identifies key crime types and high-risk areas within the BCU, utilizing visual representation through a table, maps and charts for each chosen crime. Recommendations are provided for the tasking team's deployment, focusing on prioritizing significant crime problems and patrol areas. The analysis is data-driven, ensuring that resource allocation is effectively aligned with current crime trends and geographic hotspots within the South West BCU.
+
 
 
 ## Certifications
