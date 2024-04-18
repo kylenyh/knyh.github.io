@@ -229,7 +229,7 @@ Produced a Quarto report in **R**, to analyze certain crime types within the Sou
 
 
 ## Hobbies
-Coding, Physics, Watching documentaries/Football, Traveling
+Coding, Physics, Watching documentaries/Football, Traveling, E-gaming
 
 
 ## Achievements
