@@ -185,6 +185,13 @@ Produced a Quarto report in **R**, to analyze certain crime types within the Sou
 * Quantum Physics I, Spring 2013: Part I (Completed)
 * Quantum Physics I, Spring 2013: Part II (Ongoing)
 * Quantum Physics I, Spring 2013: Part III (Not Started)
+* Quantum Physics II, Spring 2013: Topic I (Not Started)
+* Quantum Physics II, Spring 2013: Topic II (Not Started)
+* Quantum Physics II, Spring 2013: Topic III (Not Started)
+* Quantum Physics II, Spring 2013: Topic IV (Not Started)
+* Quantum Physics II, Spring 2013: Topic V (Not Started)
+* Quantum Physics II, Spring 2013: Topic VI (Not Started)
+* Quantum Physics II, Spring 2013: Topic VII (Not Started)
 
 
 **Linear Algebra** 
@@ -199,19 +206,19 @@ Produced a Quarto report in **R**, to analyze certain crime types within the Sou
 * Single Variable Calculus, Fall 2010: Unit II, Part A (Completed)
 * Single Variable Calculus, Fall 2010: Unit II, Part B (Completed)
 * Single Variable Calculus, Fall 2010: Unit II, Part C (Completed)
-* Single Variable Calculus, Fall 2010: Unit III, Part A (Not Started)
-* Single Variable Calculus, Fall 2010: Unit III, Part B (Not Started)
-* Single Variable Calculus, Fall 2010: Unit III, Part C (Not Started)
-* Single Variable Calculus, Fall 2010: Unit IV, Part A (Not Started)
-* Single Variable Calculus, Fall 2010: Unit IV, Part B (Not Started)
-* Single Variable Calculus, Fall 2010: Unit IV, Part C (Not Started)
+* Single Variable Calculus, Fall 2010: Unit III, Part A (Completed)
+* Single Variable Calculus, Fall 2010: Unit III, Part B (Completed)
+* Single Variable Calculus, Fall 2010: Unit III, Part C (Completed)
+* Single Variable Calculus, Fall 2010: Unit IV, Part A (Completed)
+* Single Variable Calculus, Fall 2010: Unit IV, Part B (Completed)
+* Single Variable Calculus, Fall 2010: Unit IV, Part C (Completed)
 * Single Variable Calculus, Fall 2010: Unit V, Part A (Not Started)
 * Single Variable Calculus, Fall 2010: Unit V, Part B (Not Started)
 
 
 **Multivariable Calculus** 
-* Multivariable Calculus, Fall 2010: Unit I, Part A (Not Started)
-* Multivariable Calculus, Fall 2010: Unit I, Part B (Not Started)
+* Multivariable Calculus, Fall 2010: Unit I, Part A (Completed)
+* Multivariable Calculus, Fall 2010: Unit I, Part B (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part C (Not Started)
 * Multivariable Calculus, Fall 2010: Unit II, Part A (Not Started)
 * Multivariable Calculus, Fall 2010: Unit II, Part B (Not Started)
@@ -228,8 +235,24 @@ Produced a Quarto report in **R**, to analyze certain crime types within the Sou
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
 
 
+**Nuclear Physics**
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic I (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic II (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic III (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic IV (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic V (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic VI (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic VII (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic VIII (Not Started)
+
+## Differential Equations**
+* Differential Equations, Fall 2011: Unit I (Not Started)
+* Differential Equations, Fall 2011: Unit II (Not Started)
+* Differential Equations, Fall 2011: Unit III (Not Started)
+* Differential Equations, Fall 2011: Unit IV (Not Started)
+
 ## Hobbies
-Coding, Physics, Watching documentaries/Football, Traveling, E-gaming
+Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing chess
 
 
 ## Achievements
