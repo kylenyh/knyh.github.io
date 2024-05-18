@@ -245,7 +245,7 @@ Produced a Quarto report in **R**, to analyze certain crime types within the Sou
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic VII (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic VIII (Not Started)
 
-## Differential Equations**
+**Differential Equations**
 * Differential Equations, Fall 2011: Unit I (Not Started)
 * Differential Equations, Fall 2011: Unit II (Not Started)
 * Differential Equations, Fall 2011: Unit III (Not Started)
