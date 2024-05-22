@@ -114,10 +114,15 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 #### Snake Game - Associated with University of Warwick (1<sup>st</sup>)
 
-Implemented through **Python**, this project involves implementing game logic to control the snake's movement, grow its length upon consuming food and causing the snake to die if its tail touches its body. It focuses on **loops**, **conditionals**, and **data structure manipulation**. The development process includes designing a user interface with **Pygame**, creating game mechanics and incorporating a **score system**. 
+Implemented through **Python**, this snake game involves implementing game logic to control the snake's movement, grow its length upon consuming food and causing the snake to die if its tail touches its body. It focuses on loops, conditionals, and data structure manipulation. The development process includes designing a user interface, creating game mechanics and incorporating a score system. 
 
 **Libraries**: Math, Pygame 
 
+#### Chess Game - Personal (2<sup>nd</sup>)
+
+Implemented through **Python**, this chess engine game integrates the powerful Stockfish engine to determine optimal moves, enhancing the AI's ability to challenge players with varying difficulty levels. Players can compete against the AI with customizable depth and ELO settings, ensuring a tailored gaming experience from novice to advanced skill levels. The game features intuitive controls, allowing players to make moves by clicking on the board and provides visual feedback on the game's state, including valid moves and checkmate situations.
+
+**Libraries**: Pygame, Sys, Random, Os, Stockfish
 
 ### Python (Graph Theory)
 
@@ -293,14 +298,14 @@ Produced a Quarto report in **R**, to analyze certain crime types within the Sou
 * Single Variable Calculus, Fall 2010: Unit IV, Part A (Completed)
 * Single Variable Calculus, Fall 2010: Unit IV, Part B (Completed)
 * Single Variable Calculus, Fall 2010: Unit IV, Part C (Completed)
-* Single Variable Calculus, Fall 2010: Unit V, Part A (Not Started)
-* Single Variable Calculus, Fall 2010: Unit V, Part B (Not Started)
+* Single Variable Calculus, Fall 2010: Unit V, Part A (Completed)
+* Single Variable Calculus, Fall 2010: Unit V, Part B ((Completed)
 
 
 **Multivariable Calculus** 
 * Multivariable Calculus, Fall 2010: Unit I, Part A (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part B (Completed)
-* Multivariable Calculus, Fall 2010: Unit I, Part C (Not Started)
+* Multivariable Calculus, Fall 2010: Unit I, Part C (Completed)
 * Multivariable Calculus, Fall 2010: Unit II, Part A (Not Started)
 * Multivariable Calculus, Fall 2010: Unit II, Part B (Not Started)
 * Multivariable Calculus, Fall 2010: Unit II, Part C (Not Started)
