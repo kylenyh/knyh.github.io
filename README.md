@@ -27,7 +27,8 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Quantum computing
 * Quantum algorithms
 * Quantum Fourier transform
-* Quantum logic gates 
+* Quantum logic gates
+* Quantum circuits
 * Quantum information theory
 * Quantum field theory
 * Quantum matrix theory 
