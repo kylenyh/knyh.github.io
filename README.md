@@ -62,7 +62,6 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Computability theory
 * Graph theory
 * Statistical information theory
-* Concurrent Programming
 * Cybersecurity
 * Linear algebra
 * Single variable calculus
