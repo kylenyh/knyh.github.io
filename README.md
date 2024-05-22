@@ -119,7 +119,7 @@ Implemented through **Python**, this project involves implementing game logic to
 **Libraries**: Math, Pygame 
 
 
-### Python (Graph Theory Algorithms)
+### Python (Graph Theory)
 
 #### A* Algorithm - Personal (1<sup>st</sup>)
 
@@ -128,6 +128,24 @@ Implemented through **Python**, this project focuses on the A* algorithm, which 
 #### Dijkstra Algorithm - Personal (2<sup>nd</sup>)
 
 Implemented through **Python**, this project is a practical implementation of a famous algorithm used for finding the **shortest paths between nodes** in a graph. The algorithm showcases how to efficiently traverse a graph, represented as **weighted edges between nodes**, to find the **minimum distance from a starting point** to all other points in the graph. 
+
+#### Floyd Warshall Algorithm - Personal (3<sup>rd</sup>)
+
+#### Kruskall Algorithm - Personal (4<sup>th</sup>)
+
+#### Dial Algorithm - Personal (5<sup>th</sup>)
+
+#### Johnson Algorithm - Personal (6<sup>th</sup>)
+
+#### Kosaraju Algorithm - Personal (7<sup>th</sup>)
+
+#### Tarjan Algorithm - Personal (8<sup>th</sup>)
+
+#### Bellman Ford Algorithm - Personal (9<sup>th</sup>)
+
+#### Breadth First Search Algorithm - Personal (10<sup>th</sup>)
+
+#### Depth First Search Algorithm - Personal (11<sup>th</sup>)
 
 ### Python (Computational Physics)
 
