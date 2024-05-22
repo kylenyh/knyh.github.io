@@ -66,7 +66,8 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Linear algebra
 * Single variable calculus
 * Multivariable calculus
-* Differential equations 
+* Differential equations
+* Probability & Statistics
 * Football
 * Chess
 * Aikido
