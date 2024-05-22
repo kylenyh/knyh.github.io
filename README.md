@@ -21,7 +21,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 ## Education
 - BSc | Crime and Security Science | University College London
 - IFP | Computer Science | University of Warwick 
-
+- HS | IGCSE | St Joseph Instituition
   
 ## Personal Interests
 * Quantum computing
@@ -121,17 +121,17 @@ Implemented through **Python**, this project involves implementing game logic to
 
 ### Python (Graph Theory Algorithms)
 
-#### A* Algorithm - Personal (3<sup>rd</sup>)
+#### A* Algorithm - Personal (1<sup>st</sup>)
 
 Implemented through **Python**, this project focuses on the A* algorithm, which finds the **shortest path between two points**, considering various obstacles and optimizing the path based on **cost functions**. The algorithm combines features of **Dijkstra's algorithm** for the shortest path and the **Greedy Best-First-Search algorithm** to prioritize paths that seem more promising. 
 
-#### Dijkstra Algorithm - Personal (4<sup>th</sup>)
+#### Dijkstra Algorithm - Personal (2<sup>nd</sup>)
 
 Implemented through **Python**, this project is a practical implementation of a famous algorithm used for finding the **shortest paths between nodes** in a graph. The algorithm showcases how to efficiently traverse a graph, represented as **weighted edges between nodes**, to find the **minimum distance from a starting point** to all other points in the graph. 
 
 ### Python (Computational Physics)
 
-#### Double Pendulum - Personal (5<sup>th</sup>)
+#### Double Pendulum - Personal (1<sup>st</sup>)
 
 Implemented through **Python**, this project explores the principles and dynamics of a chaotic double pendulum system through simulation. Utilizing **Pygame** and **Physics**, it visualizes the unpredictable motion of a pendulum with two segments. This project not only demonstrates complex physics principles but also serves as a hands-on approach to learning about **differential equations**, **energy conservation**, and **chaos theory**.
 
@@ -139,13 +139,13 @@ Implemented through **Python**, this project explores the principles and dynamic
 
 ### Python (Crime Analysis)
 
-#### Crime Data Collection Survey - Associated with UCL (2<sup>nd</sup>)
+#### Crime Data Collection Survey - Associated with UCL (1<sup>st</sup>)
 
 Implemented through **Python**, this project involves designing and implementing a phone snatching survey system to **gather and analyze data** from the survey. The project integrates various libraries to efficiently **collect**, **store** and **process survey responses**, aiming to provide insights into **crime patterns**. Through a user-friendly interface, participants can submit information anonymously, contributing to a comprehensive database that supports academic research and helps inform public safety strategies.
 
 **Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas
 
-#### Crime Survey Dataset Analysis - Associated with UCL (6<sup>th</sup>)
+#### Crime Survey Dataset Analysis - Associated with UCL (2<sup>nd</sup>)
 
 Implemented through **Python**, this project involves analyzing public fear of crime in England and Wales using the 2013/14 CSEW data. The report provides clear, non-technical explanations of statistical findings for government policymakers, incorporating transparency for data scrutiny. It presents the extent of worry about crime and its correlation with various factors across measurement types, using a maximum of five meaningful graphics.
 
