@@ -25,38 +25,92 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
   
 ## Personal Interests
 * Quantum computing
+* Quantum algorithms
+* Quantum Fourier transform
+* Quantum logic gates 
 * Quantum information theory
 * Quantum field theory
+* Quantum matrix theory 
+* Quantum theory of matter
+* Quantum optics 
 * Quantum information processing
 * Quantum physics
 * Plasma physics
 * Fluid physics
+* Hydrodynamics physics 
 * Rocket physics
+* Electrical physics
+* Electronics physics 
 * Particle physics
 * High Energy and Nuclear physics
 * Condensed matter physics
+* Thermodynamics physics 
 * Nanomaterials physics
+* Solid state physics 
 * Computational physics
+* Statistical physics 
 * Semiconductor physics
-* Laser physics
-* Computation theory
+* Photonics physics
+* Materials physics 
+* Spectroscopy physics
+* Electromagnetism physics
+* Optical communications physics
+* Device physics
+* Mathematical methods for physics
+* Electromagnetic theory 
+* Computational complexity theory
+* Computability theory
 * Graph theory
-* Information theory
+* Statistical information theory
+* Concurrent Programming
 * Cybersecurity
 * Linear algebra
 * Single variable calculus
 * Multivariable calculus
+* Differential equations 
 * Football
+* Chess
 * Aikido
-* Security technologies
-* Quantum technologies
-* Nanomaterials technologies
-* Forensic science
+* Object oriented programming
+* Functional programming
+* Logic programming
+* Concurrent programming
+* Declarative programming
+* Procedural programming
+* Static programming
+* Dynamic programming 
+* Quantum programming 
+* Electrical and electronic engineering
+* Mechanical engineering 
+* Nuclear Engineering
+* Cryptography Engineering
+* Privacy engineering
+* Systems performance engineering
+* Computer systems engineering 
+* Advanced computer architecture
+* Advanced computer security
+* Advanced network and web security
+* Advanced computer graphics
+* Advanced program analysis
+* Advanced scalable software verification
+* Advanced logic based learning
+* Advanced robot learning
+* Advanced deep graph based learning
+* Advanced human robot interaction
+* Advanced custom computing
+* Advanced distributed algorithms
+* Advanced computer vision
+* Advanced probabilistic interference
+* Advanced networks and communications systems
+* Advanced models of computation
+* Advanced computer algorithm design and analysis
+* Advanced image processing
+* Advanced computational techniques
+* Advanced computational databases 
 
+## Projects
 
-## Notable Projects
-
-### Python
+### Python (Game Development)
 
 #### Snake Game - Associated with University of Warwick (1<sup>st</sup>)
 
@@ -64,11 +118,8 @@ Implemented through **Python**, this project involves implementing game logic to
 
 **Libraries**: Math, Pygame 
 
-#### Crime Data Collection Survey - Associated with UCL (2<sup>nd</sup>)
 
-Implemented through **Python**, this project involves designing and implementing a phone snatching survey system to **gather and analyze data** from the survey. The project integrates various libraries to efficiently **collect**, **store** and **process survey responses**, aiming to provide insights into **crime patterns**. Through a user-friendly interface, participants can submit information anonymously, contributing to a comprehensive database that supports academic research and helps inform public safety strategies.
-
-**Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas
+### Python (Graph Theory Algorithms)
 
 #### A* Algorithm - Personal (3<sup>rd</sup>)
 
@@ -78,11 +129,21 @@ Implemented through **Python**, this project focuses on the A* algorithm, which 
 
 Implemented through **Python**, this project is a practical implementation of a famous algorithm used for finding the **shortest paths between nodes** in a graph. The algorithm showcases how to efficiently traverse a graph, represented as **weighted edges between nodes**, to find the **minimum distance from a starting point** to all other points in the graph. 
 
+### Python (Computational Physics)
+
 #### Double Pendulum - Personal (5<sup>th</sup>)
 
 Implemented through **Python**, this project explores the principles and dynamics of a chaotic double pendulum system through simulation. Utilizing **Pygame** and **Physics**, it visualizes the unpredictable motion of a pendulum with two segments. This project not only demonstrates complex physics principles but also serves as a hands-on approach to learning about **differential equations**, **energy conservation**, and **chaos theory**.
 
 **Libraries**: Math, Pygame
+
+### Python (Crime Analysis)
+
+#### Crime Data Collection Survey - Associated with UCL (2<sup>nd</sup>)
+
+Implemented through **Python**, this project involves designing and implementing a phone snatching survey system to **gather and analyze data** from the survey. The project integrates various libraries to efficiently **collect**, **store** and **process survey responses**, aiming to provide insights into **crime patterns**. Through a user-friendly interface, participants can submit information anonymously, contributing to a comprehensive database that supports academic research and helps inform public safety strategies.
+
+**Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas
 
 #### Crime Survey Dataset Analysis - Associated with UCL (6<sup>th</sup>)
 
@@ -90,7 +151,7 @@ Implemented through **Python**, this project involves analyzing public fear of c
 
 **Libraries**: Numpy, Matplotlib, Pandas, Seaborn, SciPy
 
-### MATLAB
+### MATLAB (Linear Algebra)
 
 #### Gaussian elimination - Personal (1<sup>st</sup>)
 
@@ -108,8 +169,10 @@ Developed a **MATLAB** algorithm, which focuses on implementing an algorithm to 
 
 Developed a **MATLAB** algorithm, which focuses on **solving homogeneous linear equations** using various matrix decomposition techniques. This project focuses on the mathematical foundation and implementation of methods like **Gaussian elimination**, **Gauss-Jordan elimination** and **LU decomposition** to find the solution space of the system.
 
+### MATLAB (Differential Equations)
 
-### R
+
+### R (Crime Mapping)
 
 #### First Density Map Of Thefts - Associated with UCL (1<sup>st</sup>)
 
