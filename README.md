@@ -43,7 +43,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Electrical physics
 * Electronics physics 
 * Particle physics
-* High Energy and Nuclear physics
+* Nuclear physics
 * Condensed matter physics
 * Thermodynamics physics 
 * Nanomaterials physics
@@ -81,10 +81,11 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Static programming
 * Dynamic programming 
 * Quantum programming 
-* Electrical and electronic engineering
+* Electrical engineering
+* Electronic engineering 
 * Mechanical engineering 
-* Nuclear Engineering
-* Cryptography Engineering
+* Nuclear engineering
+* Cryptography engineering
 * Privacy engineering
 * Systems performance engineering
 * Computer systems engineering 
@@ -189,12 +190,17 @@ Developed a **MATLAB** algorithm in solving **systems of linear equations**, sho
 
 Developed a **MATLAB** algorithm, which focuses on implementing an algorithm to decompose a given **square matrix A** into the product of a **lower triangular matrix L** and an **upper triangular matrix U**. This decomposition is essential in numerical analysis for **solving linear equations**, **inverting matrices** and **computing determinants** efficiently.
 
-#### Homogenous Equation Ax = 0 - Personal (4<sup>th</sup>)
+#### Homogenous equation Ax = 0 - Personal (4<sup>th</sup>)
 
 Developed a **MATLAB** algorithm, which focuses on **solving homogeneous linear equations** using various matrix decomposition techniques. This project focuses on the mathematical foundation and implementation of methods like **Gaussian elimination**, **Gauss-Jordan elimination** and **LU decomposition** to find the solution space of the system.
 
 ### MATLAB (Differential Equations)
 
+### First order differential equations - Personal (1<sup>st</sup>)
+
+### Second order differential equations - Personal (2<sup>nd</sup>)
+
+### Partial differential equations - Personal (3<sup>rd</sup>)
 
 ### R (Crime Mapping)
 
@@ -228,12 +234,17 @@ Produced a Quarto report in **R**, to analyze violent crime incidence rates acro
 
 **Libraries**: ggbeeswarm, ggrepel, gt, rvest, tidyverse
 
-#### Quarto Report of Crimes Types in London - Associated with UCL (6<sup>th</sup>)
+#### Quarto Report of Crimes Types in South West BCU London - Associated with UCL (6<sup>th</sup>)
 
 Produced a Quarto report in **R**, to analyze certain crime types within the South West BCU of London. The report identifies key crime types and high-risk areas within the BCU, utilizing visual representation through a table, maps and charts for each chosen crime. Recommendations are provided for the tasking team's deployment, focusing on prioritizing significant crime problems and patrol areas. The analysis is data-driven, ensuring that resource allocation is effectively aligned with current crime trends and geographic hotspots within the South West BCU.
 
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
+#### Quarto Report of Crimes Types in West BCU London - Associated with UCL (6<sup>th</sup>)
+
+Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area Basic Command Unit (BCU) to assess the effectiveness of police targeting and deployment. It identifies priority crime types and hotspots for the Local Tasking Team, calculates vehicle theft incidence rates by ward to assist in community collaboration and explores the link between deprivation and violent and sexual crime rates to support potential government funding applications. Limitations of the data are also discussed to acknowledge their impact on the conclusions drawn.
+
+**Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
 ## Certifications
 
