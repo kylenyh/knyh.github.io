@@ -7,8 +7,11 @@ Outside my academic pursuits, I dedicate time to coding projects that challenge 
 
 
 ## Skills
+
 **Technical skills**: Python, MATLAB, R, MS Office Suite, LaTeX, C# 
+
 **Language skills**: English (Native), Mandarin (Conversational), Malay (Conversational)
+
 **Soft skills**: Creativity, Critical thinking, Problem solving, Problem analysis, Independence, Teamwork
 
 
@@ -23,23 +26,33 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 ## Education
 
 ### University College London - Crime and Security Science (Bachelor of Science)
+
 Department of Security and Crime Science, Part of UCL Engineering Sciences
+
 **Societies**: UCL Artificial Intelligence Society, UCL Blockchain Labs Society, UCL Physics Society, UCL Malaysian Society
+
 **Year 1 modules**: Crime Mapping, Understanding the Crime Event, Qualitative Methods, Probability and Statistics I, Crime and Society, Introduction to Crime and Security science, Terrorism, Programming for Crime Scientists
+
 **Year 2 modules**: Systems and Problem Solving, Situational Crime Prevention, Probability and Statistics II, Psychology and Crime, Introduction to Research, Security Technologies, Organised Crime, Project in Security and Crime Prevention
+
 **Year 3 modules**: Cybercrime, Data Science for Crime Scientists, Criminal Investigation and Intelligence, Security and Crime Science Research Project
 
 
 
 ### University of Warwick - Computer Science (International Foundation Programme)
+
 Department of Engineering 
+
 **Societies**: Warwick Computing Society, Warwick Maths Society, Warwick Physics Society, Warwick Malaysian Student Association
+
 **Modules**: Further Math and Statistics, Pure Math, Computer Science, English for Academic Purposes, Inquiry and Research Skills
 
 
 
 ### St Joseph Instituition International School - IGCSE (HS)
+
 **Extra-curriculars**: Competitive Math squad, Chess, Exploring the Blockchain, Football
+
 **Subjects**: International Math, Physics, Chemistry, First Language English, English Literature, Economics, Foreign Language Mandarin, Geography 
 
 
