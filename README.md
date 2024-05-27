@@ -308,7 +308,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
 
-### C Sharp
+### C#
 
 
 
