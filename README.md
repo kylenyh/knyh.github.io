@@ -66,11 +66,17 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ## Internships
 
-#### Endeavor Malaysia - Entrepreneur Experience {August 2023 - September 2023}
+#### Endeavor Malaysia - Entrepreneur Experience (August 2023 - September 2023)
 
 - Developed a pipeline of qualified entrepreneurs by screening for high-potential entrepreneurs
 - Assisted in organizing peer-to-peer, mentorship, community building events
 - Supported the planning and execution of the ScaleUp Program
+
+#### TimeDotCom Malaysia - (June 2024 - SAugust 2024)
+
+- 
+- 
+- 
 
   
 ## Personal Interests
