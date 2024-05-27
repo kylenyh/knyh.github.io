@@ -27,7 +27,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ### University College London - Crime and Security Science (Bachelor of Science)
 
-Department of Security and Crime Science, Part of UCL Engineering Sciences
+**Department**: Department of Security and Crime Science, Part of UCL Engineering Sciences
 
 **Societies**: UCL Artificial Intelligence Society, UCL Blockchain Labs Society, UCL Physics Society, UCL Malaysian Society
 
@@ -41,7 +41,7 @@ Department of Security and Crime Science, Part of UCL Engineering Sciences
 
 ### University of Warwick - Computer Science (International Foundation Programme)
 
-Department of Engineering 
+**Department**: Department of Engineering 
 
 **Societies**: Warwick Computing Society, Warwick Maths Society, Warwick Physics Society, Warwick Malaysian Student Association
 
@@ -52,7 +52,6 @@ Department of Engineering
 ### St Joseph Instituition International School - IGCSE (HS)
 
 **Extra-curriculars**: Competitive Math squad, Chess, Exploring the Blockchain, Football
-
 **Subjects**: International Math, Physics, Chemistry, First Language English, English Literature, Economics, Foreign Language Mandarin, Geography 
 
 
