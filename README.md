@@ -31,11 +31,11 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 **Societies**: UCL Artificial Intelligence Society, UCL Blockchain Labs Society, UCL Physics Society, UCL Malaysian Society
 
-**Year 1 modules**: Crime Mapping, Understanding the Crime Event, Qualitative Methods, Probability and Statistics I, Crime and Society, Introduction to Crime and Security science, Terrorism, Programming for Crime Scientists
+**Year 1**: Crime Mapping, Understanding the Crime Event, Qualitative Methods, Probability and Statistics I, Crime and Society, Introduction to Crime and Security science, Terrorism, Programming for Crime Scientists
 
-**Year 2 modules**: Systems and Problem Solving, Situational Crime Prevention, Probability and Statistics II, Psychology and Crime, Introduction to Research, Security Technologies, Organised Crime, Project in Security and Crime Prevention
+**Year 2**: Systems and Problem Solving, Situational Crime Prevention, Probability and Statistics II, Psychology and Crime, Introduction to Research, Security Technologies, Organised Crime, Project in Security and Crime Prevention
 
-**Year 3 modules**: Cybercrime, Data Science for Crime Scientists, Criminal Investigation and Intelligence, Security and Crime Science Research Project
+**Year 3**: Cybercrime, Data Science for Crime Scientists, Criminal Investigation and Intelligence, Security and Crime Science Research Project
 
 
 
@@ -58,7 +58,8 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 
 
-#### Community Outreach - Associated with St Joseph Instituition International School
+#### Community Outreach Programme
+
 1. Refugee Outreach Campaign (2022) - Raised donations, collection of recycling items for international refugees
 2. Community service project (2021) - 12 Hour Run, raised funds for ‘Refugee Community’
 3. Community service project (2019) - Raised funds, assisted underprivileged community, contributed to environment clean up
