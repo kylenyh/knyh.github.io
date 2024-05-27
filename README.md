@@ -52,6 +52,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 ### St Joseph Instituition International School - IGCSE (HS)
 
 **Extra-curriculars**: Competitive Math squad, Chess, Exploring the Blockchain, Football
+
 **Subjects**: International Math, Physics, Chemistry, First Language English, English Literature, Economics, Foreign Language Mandarin, Geography 
 
 
@@ -62,6 +63,14 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 2. Community service project (2021) - 12 Hour Run, raised funds for ‘Refugee Community’
 3. Community service project (2019) - Raised funds, assisted underprivileged community, contributed to environment clean up
 
+
+## Internships
+
+#### Endeavor Malaysia - Entrepreneur Experience {August 2023 - September 2023}
+
+- Developed a pipeline of qualified entrepreneurs by screening for high-potential entrepreneurs
+- Assisted in organizing peer-to-peer, mentorship, community building events
+- Supported the planning and execution of the ScaleUp Program
 
   
 ## Personal Interests
