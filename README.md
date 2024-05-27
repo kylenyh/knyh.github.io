@@ -49,7 +49,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 
 
-### St Joseph Instituition International School - IGCSE (HS)
+### St Joseph Instituition International School - IGCSE 
 
 **Extra-curriculars**: Competitive Math squad, Chess, Exploring the Blockchain, Football
 
