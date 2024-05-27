@@ -1,13 +1,15 @@
 
 Currently studying **Crime and Security Science** at [UCL](https://www.ucl.ac.uk/), my academic path began at [St Joseph Institution International School in Malaysia](https://www.sji-international.edu.my/), through an IGCSE programme, before advancing to an accelerated foundation programme in **Computer Science** at the [University of Warwick](https://warwick.ac.uk/). 
 
-My academic and professional interests converge at the nexus of **physics**, **cybersecurity** and **computer science**, exploring how technological advancements can bolster security measures and strategies against crime. From a scientific and technological perspective, my interests lie in the physics of nuclear weapons, the physics of particle accelerators, the physics of quantum computers, the physics of quantum hardware, the physics of rockets, the physics of fluids, the physics of semiconductors, the physics of lasers, the physics of nanotechnology, the Internet of Things, the achitecture of network systems, the achitecture of digital computers, the logic of quantum computers, the logic of quantum algorithms, the logic of quantum chips, the logic of quantum logic gates, the logic of computer science algorithms.
+My academic and professional interests converge at the nexus of **physics**, **cybersecurity** and **computer science**, exploring how technological advancements can bolster security measures and strategies against crime. From a scientific and technological perspective, my interests lie in the physics of nuclear weapons, the physics of particle accelerators, the physics of quantum computers, the physics of quantum hardware, the physics of rockets, the physics of fluids, the physics of devices, the physics of lasers, the achitecture of network and communication systems, the achitecture of cryptographic systems, the logic of quantum computers, the logic of quantum algorithms, the logic of quantum logic gates, the logic of classical computing algorithms.
 
 Outside my academic pursuits, I dedicate time to coding projects that challenge my skills and broaden my understanding of computing and programming principles. Additionally, I immerse myself in the realm of physics, often trying to learn quantum physics on my own and coming up with my computational physics projects if I can. As a football enthusiast, I enjoy not only following the sport but also watching football matches if I have the time. Travel also plays an integral role in my life, enriching my perspective with diverse cultures and societal structures. These personal endeavors not only provide balance but also fuel my personal growth and curiosity.
 
 
-#### Technical Skills
-Python, MATLAB, R, MS Office Suite, LaTeX, C# 
+## Skills
+**Technical skills**: Python, MATLAB, R, MS Office Suite, LaTeX, C# 
+**Language skills**: English (Native), Mandarin (Conversational), Malay (Conversational)
+**Soft skills**: Creativity, Critical thinking, Problem solving, Problem analysis, Independence, Teamwork
 
 
 ## Published Classical Physics Paper
@@ -19,9 +21,36 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 
 ## Education
-- BSc | Crime and Security Science | University College London
-- IFP | Computer Science | University of Warwick 
-- HS | IGCSE | St Joseph Instituition
+
+### University College London - Crime and Security Science (Bachelor of Science)
+Department of Security and Crime Science, Part of UCL Engineering Sciences
+**Societies**: UCL Artificial Intelligence Society, UCL Blockchain Labs Society, UCL Physics Society, UCL Malaysian Society
+**Year 1 modules**: Crime Mapping, Understanding the Crime Event, Qualitative Methods, Probability and Statistics I, Crime and Society, Introduction to Crime and Security science, Terrorism, Programming for Crime Scientists
+**Year 2 modules**: Systems and Problem Solving, Situational Crime Prevention, Probability and Statistics II, Psychology and Crime, Introduction to Research, Security Technologies, Organised Crime, Project in Security and Crime Prevention
+**Year 3 modules**: Cybercrime, Data Science for Crime Scientists, Criminal Investigation and Intelligence, Security and Crime Science Research Project
+
+
+
+### University of Warwick - Computer Science (International Foundation Programme)
+Department of Engineering 
+**Societies**: Warwick Computing Society, Warwick Maths Society, Warwick Physics Society, Warwick Malaysian Student Association
+**Modules**: Further Math and Statistics, Pure Math, Computer Science, English for Academic Purposes, Inquiry and Research Skills
+
+
+
+### St Joseph Instituition International School - IGCSE (HS)
+**Extra-curriculars**: Competitive Math squad, Chess, Exploring the Blockchain, Football
+**Subjects**: International Math, Physics, Chemistry, First Language English, English Literature, Economics, Foreign Language Mandarin, Geography 
+
+
+
+
+#### Community Outreach - Associated with St Joseph Instituition International School
+1. Refugee Outreach Campaign (2022) - Raised donations, collection of recycling items for international refugees
+2. Community service project (2021) - 12 Hour Run, raised funds for ‘Refugee Community’
+3. Community service project (2019) - Raised funds, assisted underprivileged community, contributed to environment clean up
+
+
   
 ## Personal Interests
 * Quantum computing
@@ -112,7 +141,11 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ## Projects
 
-### Python (Game Development)
+### Python (Cryptography)
+
+### Python (Quantum Computing)
+
+### Python (Game Simulation)
 
 #### Snake Game - Associated with University of Warwick (1<sup>st</sup>)
 
@@ -188,7 +221,7 @@ Developed a **MATLAB** algorithm in solving **systems of linear equations**, sho
 
 #### Matrix decomposition A = LU - Personal (3<sup>rd</sup>)
 
-Developed a **MATLAB** algorithm, which focuses on implementing an algorithm to decompose a given **square matrix A** into the product of a **lower triangular matrix L** and an **upper triangular matrix U**. This decomposition is essential in numerical analysis for **solving linear equations**, **inverting matrices** and **computing determinants** efficiently.
+Developed a **MATLAB** algorithm, which focuses on ecomposing a given **square matrix A** into the product of a **lower triangular matrix L** and an **upper triangular matrix U**. This decomposition is essential in numerical analysis for **solving linear equations**, **inverting matrices** and **computing determinants** efficiently.
 
 #### Homogenous equation Ax = 0 - Personal (4<sup>th</sup>)
 
@@ -245,6 +278,11 @@ Produced a Quarto report in **R**, to analyze certain crime types within the Sou
 Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area Basic Command Unit (BCU) to assess the effectiveness of police targeting and deployment. It identifies priority crime types and hotspots for the Local Tasking Team, calculates vehicle theft incidence rates by ward to assist in community collaboration and explores the link between deprivation and violent and sexual crime rates to support potential government funding applications. Limitations of the data are also discussed to acknowledge their impact on the conclusions drawn.
 
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
+
+
+### C Sharp
+
+
 
 ## Certifications
 
