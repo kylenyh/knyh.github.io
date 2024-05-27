@@ -167,7 +167,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Advanced computational techniques
 * Advanced computational databases 
 
-## Projects
+## Python Projects
 
 ### Python (Cryptography)
 
@@ -237,6 +237,14 @@ Implemented through **Python**, this project involves analyzing public fear of c
 
 **Libraries**: Numpy, Matplotlib, Pandas, Seaborn, SciPy
 
+
+
+
+
+
+
+## MATLAB Projects
+
 ### MATLAB (Linear Algebra)
 
 #### Gaussian elimination - Personal (1<sup>st</sup>)
@@ -262,6 +270,13 @@ Developed a **MATLAB** algorithm, which focuses on **solving homogeneous linear 
 ### Second order differential equations - Personal (2<sup>nd</sup>)
 
 ### Partial differential equations - Personal (3<sup>rd</sup>)
+
+
+
+
+
+
+## R Projects
 
 ### R (Crime Mapping)
 
@@ -308,7 +323,18 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
 
-### C#
+
+
+
+
+
+## C# Projects
+
+### C# ()
+
+
+
+
 
 
 
