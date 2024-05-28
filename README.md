@@ -410,9 +410,9 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Multivariable Calculus, Fall 2010: Unit I, Part A (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part B (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part C (Completed)
-* Multivariable Calculus, Fall 2010: Unit II, Part A (Not Started)
-* Multivariable Calculus, Fall 2010: Unit II, Part B (Not Started)
-* Multivariable Calculus, Fall 2010: Unit II, Part C (Not Started)
+* Multivariable Calculus, Fall 2010: Unit II, Part A (Completed)
+* Multivariable Calculus, Fall 2010: Unit II, Part B (Completed)
+* Multivariable Calculus, Fall 2010: Unit II, Part C (Completed)
 * Multivariable Calculus, Fall 2010: Unit III, Part A (Not Started)
 * Multivariable Calculus, Fall 2010: Unit III, Part B (Not Started)
 * Multivariable Calculus, Fall 2010: Unit III, Part C (Not Started)
@@ -450,7 +450,5 @@ Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing c
 * UCMAS, Math Award | Mental Math Competitions
 
 
-[![Mail](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kylenyh@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/kylenyh)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/kyleng888)
+
 
