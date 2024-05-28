@@ -394,13 +394,6 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic VII (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic VIII (Not Started)
 
-  
-
-**Differential Equations**
-* Differential Equations, Fall 2011: Unit I (Not Started)
-* Differential Equations, Fall 2011: Unit II (Not Started)
-* Differential Equations, Fall 2011: Unit III (Not Started)
-* Differential Equations, Fall 2011: Unit IV (Not Started)
 
 
 **Linear Algebra** 
@@ -444,6 +437,11 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
 
 
+**Differential Equations**
+* Differential Equations, Fall 2011: Unit I (Not Started)
+* Differential Equations, Fall 2011: Unit II (Not Started)
+* Differential Equations, Fall 2011: Unit III (Not Started)
+* Differential Equations, Fall 2011: Unit IV (Not Started)
 
 
 ## Hobbies
