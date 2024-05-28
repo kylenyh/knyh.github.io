@@ -384,6 +384,25 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Quantum Physics II, Spring 2013: Topic VII (Not Started)
 
 
+**Nuclear Physics**
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic I (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic II (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic III (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic IV (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic V (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic VI (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic VII (Not Started)
+* Introduction To Applied Nuclear Physics, Spring 2012: Topic VIII (Not Started)
+
+  
+
+**Differential Equations**
+* Differential Equations, Fall 2011: Unit I (Not Started)
+* Differential Equations, Fall 2011: Unit II (Not Started)
+* Differential Equations, Fall 2011: Unit III (Not Started)
+* Differential Equations, Fall 2011: Unit IV (Not Started)
+
+
 **Linear Algebra** 
 * Linear Algebra, Fall 2011: Unit I (Completed)
 * Linear Algebra, Fall 2011: Unit II (Completed)
@@ -425,21 +444,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
 
 
-**Nuclear Physics**
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic I (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic II (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic III (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic IV (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic V (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic VI (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic VII (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic VIII (Not Started)
 
-**Differential Equations**
-* Differential Equations, Fall 2011: Unit I (Not Started)
-* Differential Equations, Fall 2011: Unit II (Not Started)
-* Differential Equations, Fall 2011: Unit III (Not Started)
-* Differential Equations, Fall 2011: Unit IV (Not Started)
 
 ## Hobbies
 Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing chess
