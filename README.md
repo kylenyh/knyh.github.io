@@ -56,29 +56,6 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 **Subjects**: International Math, Physics, Chemistry, First Language English, English Literature, Economics, Foreign Language Mandarin, Geography 
 
 
-
-
-#### Community Outreach Programme
-
-1. Refugee Outreach Campaign (2022) - Raised donations, collection of recycling items for international refugees
-2. Community service project (2021) - 12 Hour Run, raised funds for ‘Refugee Community’
-3. Community service project (2019) - Raised funds, assisted underprivileged community, contributed to environment clean up
-
-
-## Internships
-
-#### Endeavor Malaysia - Entrepreneur Experience (August 2023 - September 2023)
-
-- Developed a pipeline of qualified entrepreneurs by screening for high-potential entrepreneurs
-- Assisted in organizing peer-to-peer, mentorship, community building events
-- Supported the planning and execution of the ScaleUp Program
-
-#### TimeDotCom Malaysia - (June 2024 - SAugust 2024)
-
-- 
-- 
-- 
-
   
 ## Personal Interests
 * Quantum computing
