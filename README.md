@@ -240,6 +240,12 @@ Developed a **MATLAB** algorithm, which focuses on ecomposing a given **square m
 
 Developed a **MATLAB** algorithm, which focuses on **solving homogeneous linear equations** using various matrix decomposition techniques. This project focuses on the mathematical foundation and implementation of methods like **Gaussian elimination**, **Gauss-Jordan elimination** and **LU decomposition** to find the solution space of the system.
 
+
+
+### MATLAB (Single Variable Calculus)
+
+### MATLAB (Multivariable Calculus)
+
 ### MATLAB (Differential Equations)
 
 ### First order differential equations - Personal (1<sup>st</sup>)
