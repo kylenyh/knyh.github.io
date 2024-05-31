@@ -360,12 +360,12 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 ### MIT OpenCourseWare
 
-[**Quantum Physics I**](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/lecture-notes/)
+[**MIT Quantum Physics I**](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/lecture-notes/)
 * Quantum Physics I, Spring 2016: Part I (Completed)
 * Quantum Physics I, Spring 2016: Part II (Ongoing)
 * Quantum Physics I, Spring 2016: Part III (Not Started)
 
-[**Quantum Physics II**](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/)
+[**MIT Quantum Physics II**](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/)
 * Quantum Physics II, Spring 2013: Topic I (Not Started)
 * Quantum Physics II, Spring 2013: Topic II (Not Started)
 * Quantum Physics II, Spring 2013: Topic III (Not Started)
@@ -375,7 +375,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Quantum Physics II, Spring 2013: Topic VII (Not Started)
 
 
-[**Nuclear Physics**](https://ocw.mit.edu/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/pages/lecture-notes/)
+[**MIT Nuclear Physics**](https://ocw.mit.edu/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/pages/lecture-notes/)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic I (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic II (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic III (Not Started)
@@ -387,13 +387,13 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 
 
-[**Linear Algebra**](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+[**MIT Linear Algebra**](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 * Linear Algebra, Fall 2011: Unit I (Completed)
 * Linear Algebra, Fall 2011: Unit II (Completed)
 * Linear Algebra, Fall 2011: Unit III (Ongoing)
 
 
-[**Single Variable Calculus**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+[**MIT Single Variable Calculus**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 * Single Variable Calculus, Fall 2010: Unit I, Part A (Completed)
 * Single Variable Calculus, Fall 2010: Unit I, Part B (Completed)
 * Single Variable Calculus, Fall 2010: Unit II, Part A (Completed)
@@ -409,7 +409,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Single Variable Calculus, Fall 2010: Unit V, Part B ((Completed)
 
 
-[**Multivariable Calculus**](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+[**MIT Multivariable Calculus**](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 * Multivariable Calculus, Fall 2010: Unit I, Part A (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part B (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part C (Completed)
@@ -424,11 +424,11 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Multivariable Calculus, Fall 2010: Unit IV, Part C (Not Started)
 
 
-[**Computer Science and Programming**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+[**MIT Computer Science and Programming**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
 
 
-[**Differential Equations**](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+[**MIT Differential Equations**](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 * Differential Equations, Fall 2011: Unit I (Not Started)
 * Differential Equations, Fall 2011: Unit II (Not Started)
 * Differential Equations, Fall 2011: Unit III (Not Started)
