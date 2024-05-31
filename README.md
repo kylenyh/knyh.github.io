@@ -25,7 +25,9 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ## Education
 
-### [University College London - Crime and Security Science (Bachelor of Science)](https://www.ucl.ac.uk/)
+### [University College London - Crime and Security Science](https://www.ucl.ac.uk/)
+
+**Qualification**: Bachelor of Science
 
 **Department**: Department of Security and Crime Science, Part of UCL Engineering Sciences
 
@@ -39,7 +41,9 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 
 
-### [University of Warwick - Computer Science (International Foundation Programme)](https://warwick.ac.uk/)
+### [University of Warwick - Computer Science](https://warwick.ac.uk/)
+
+**Qualification**: International Foundation Programme
 
 **Department**: Department of Engineering 
 
@@ -49,7 +53,9 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 
 
-### [St Joseph Instituition International School - IGCSE](https://www.sji-international.edu.my/)
+### [St Joseph Instituition International School](https://www.sji-international.edu.my/)
+
+**Qualification**: IGCSE
 
 **Extra-curriculars**: Competitive Math squad, Chess, Exploring the Blockchain, Football
 
