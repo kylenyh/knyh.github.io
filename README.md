@@ -25,7 +25,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ## Education
 
-### University College London - Crime and Security Science (Bachelor of Science)
+### [University College London - Crime and Security Science (Bachelor of Science)](https://www.ucl.ac.uk/)
 
 **Department**: Department of Security and Crime Science, Part of UCL Engineering Sciences
 
@@ -39,7 +39,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 
 
-### University of Warwick - Computer Science (International Foundation Programme)
+### [University of Warwick - Computer Science (International Foundation Programme)](https://warwick.ac.uk/)
 
 **Department**: Department of Engineering 
 
@@ -49,7 +49,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 
 
-### St Joseph Instituition International School - IGCSE 
+### [St Joseph Instituition International School - IGCSE]((https://www.sji-international.edu.my/)
 
 **Extra-curriculars**: Competitive Math squad, Chess, Exploring the Blockchain, Football
 
@@ -360,10 +360,12 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 ### MIT OpenCourseWare
 
-**Quantum Physics**
-* Quantum Physics I, Spring 2013: Part I (Completed)
-* Quantum Physics I, Spring 2013: Part II (Ongoing)
-* Quantum Physics I, Spring 2013: Part III (Not Started)
+[**Quantum Physics I**](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/lecture-notes/)
+* Quantum Physics I, Spring 2016: Part I (Completed)
+* Quantum Physics I, Spring 2016: Part II (Ongoing)
+* Quantum Physics I, Spring 2016: Part III (Not Started)
+
+[**Quantum Physics II**](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/)
 * Quantum Physics II, Spring 2013: Topic I (Not Started)
 * Quantum Physics II, Spring 2013: Topic II (Not Started)
 * Quantum Physics II, Spring 2013: Topic III (Not Started)
@@ -373,7 +375,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Quantum Physics II, Spring 2013: Topic VII (Not Started)
 
 
-**Nuclear Physics**
+[**Nuclear Physics**](https://ocw.mit.edu/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/pages/lecture-notes/)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic I (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic II (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic III (Not Started)
@@ -385,13 +387,13 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 
 
-**Linear Algebra** 
+[**Linear Algebra**](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 * Linear Algebra, Fall 2011: Unit I (Completed)
 * Linear Algebra, Fall 2011: Unit II (Completed)
 * Linear Algebra, Fall 2011: Unit III (Ongoing)
 
 
-**Single Variable Calculus** 
+[**Single Variable Calculus**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 * Single Variable Calculus, Fall 2010: Unit I, Part A (Completed)
 * Single Variable Calculus, Fall 2010: Unit I, Part B (Completed)
 * Single Variable Calculus, Fall 2010: Unit II, Part A (Completed)
@@ -407,7 +409,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Single Variable Calculus, Fall 2010: Unit V, Part B ((Completed)
 
 
-**Multivariable Calculus** 
+[**Multivariable Calculus**](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 * Multivariable Calculus, Fall 2010: Unit I, Part A (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part B (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part C (Completed)
@@ -422,11 +424,11 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Multivariable Calculus, Fall 2010: Unit IV, Part C (Not Started)
 
 
-**Computer Science and Programming**
+[**Computer Science and Programming**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
 
 
-**Differential Equations**
+[**Differential Equations**](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 * Differential Equations, Fall 2011: Unit I (Not Started)
 * Differential Equations, Fall 2011: Unit II (Not Started)
 * Differential Equations, Fall 2011: Unit III (Not Started)
@@ -437,33 +439,41 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 ### Google 
 
 **Computer Science and Artificial Intelligence**
+* [Large Language Models (Not Started)](https://www.cloudskillsboost.google/course_templates/539)
+* [Image Generation (Not Started)](https://www.cloudskillsboost.google/course_templates/541)
+* [Encoder-Decoder Architecture (Not Started)](https://www.cloudskillsboost.google/course_templates/543)
+* [Transformer Models and BERT Model](https://www.cloudskillsboost.google/course_templates/538)
+
+
+
 
 
 ### Harvard University
 
 
 **Computer Science and Artificial Intelligence**
-* Introduction to artificial intelligence in CS50 using Python (Completed)
-* Introduction to the CS50 course on programming with Python (Completed)
+* [Web programming using Python and JavaScript (Not Started)](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript/2023-05)
+* [Use React Native for mobile app development (Not Started)](https://www.edx.org/learn/react-native/harvard-university-cs50-s-mobile-app-development-with-react-native)
 
 
 ### FreeCodeCamp 
 
 
 **Harvard Computer Science**
-* Harvard CS50 2022 – Full Computer Science University Course (Completed)
-* Harvard CS50 2023 – Full Computer Science University Course (Completed)
-* Harvard CS50 2023 – Artificial Intelligence with Python University Course (Completed)
+* [Harvard CS50 2022 – Full Computer Science University Course (Completed)](https://www.youtube.com/watch?v=8mAITcNt710&pp=ygU9SGFydmFyZCBDUzUwIDIwMjIg4oCTIEZ1bGwgQ29tcHV0ZXIgU2NpZW5jZSBVbml2ZXJzaXR5IENvdXJzZQ%3D%3D)
+* [Harvard CS50 2023 – Full Computer Science University Course (Completed)](https://www.youtube.com/watch?v=LfaMVlDaQ24&pp=ygU9SGFydmFyZCBDUzUwIDIwMjIg4oCTIEZ1bGwgQ29tcHV0ZXIgU2NpZW5jZSBVbml2ZXJzaXR5IENvdXJzZQ%3D%3D)
+* [Harvard CS50 2023 – Artificial Intelligence with Python University Course (Completed)](https://www.youtube.com/watch?v=5NgNicANyqM&pp=ygVLSGFydmFyZCBDUzUwIDIwMjMg4oCTIEFydGlmaWNpYWwgSW50ZWxsaWdlbmNlIHdpdGggUHl0aG9uIFVuaXZlcnNpdHkgQ291cnNl)
+* [Harvard CS50’s Introduction to Programming with Python – Full University Course (Completed)](https://www.youtube.com/watch?v=nLRL_NcnK-4&pp=ygVLSGFydmFyZCBDUzUwIDIwMjMg4oCTIEFydGlmaWNpYWwgSW50ZWxsaWdlbmNlIHdpdGggUHl0aG9uIFVuaXZlcnNpdHkgQ291cnNl)
 
 
 **Python (Basic Game Development)**
-* Snake Game with Python and Pygame (Completed)
-* Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake (Completed)
-* Pong with Python and Pygame (Completed)
-* Pygame Tutorial for Beginners - Python Game Development Course (Completed)
+* [Snake Game with Python and Pygame (Completed)](https://www.youtube.com/watch?v=8dfePlONtls&pp=ygUhU25ha2UgR2FtZSB3aXRoIFB5dGhvbiBhbmQgUHlnYW1l) 
+* [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake (Completed)](https://www.youtube.com/watchv=L8ypSXwyBds&pp=ygVOUHl0aG9uICsgUHlUb3JjaCArIFB5Z2FtZSBSZWluZm9yY2VtZW50IExlYXJuaW5nIOKAkyBUcmFpbiBhbiBBSSB0byBQbGF5IFNuYWtl)
+* [Pong with Python and Pygame (Completed)](https://www.youtube.com/watch?v=tS8F7_X2qB0&pp=ygUbUG9uZyB3aXRoIFB5dGhvbiBhbmQgUHlnYW1l)
+* [Pygame Tutorial for Beginners - Python Game Development Course (Completed)](https://www.youtube.com/watch?v=FfWpgLFMI7w&pp=ygU-UHlnYW1lIFR1dG9yaWFsIGZvciBCZWdpbm5lcnMgLSBQeXRob24gR2FtZSBEZXZlbG9wbWVudCBDb3Vyc2U%3D)
 
-
-
+**Quantum Computing**
+* [Quantum Computing Course – Math and Theory for Beginners (Completed)](https://www.youtube.com/watch?v=tsbCSkvHhMo&pp=ygUUZnJlZWNvZGVjYW1wIHF1YW50dW0%3D)
 
 
 ## Hobbies
