@@ -71,7 +71,8 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Quantum circuits
 * Quantum information theory
 * Quantum field theory
-* Quantum matrix theory 
+* Quantum matrix theory
+* Quantum complexity theory
 * Quantum theory of matter
 * Quantum optics 
 * Quantum information processing
@@ -366,12 +367,12 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 ### MIT OpenCourseWare
 
-[**MIT Quantum Physics I**](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/lecture-notes/)
+[**MIT Quantum Physics I (Dept of Physics)**](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/lecture-notes/)
 * Quantum Physics I, Spring 2016: Part I (Completed)
 * Quantum Physics I, Spring 2016: Part II (Ongoing)
 * Quantum Physics I, Spring 2016: Part III (Not Started)
 
-[**MIT Quantum Physics II**](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/)
+[**MIT Quantum Physics II (Dept of Physics)**](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/)
 * Quantum Physics II, Spring 2013: Topic I (Not Started)
 * Quantum Physics II, Spring 2013: Topic II (Not Started)
 * Quantum Physics II, Spring 2013: Topic III (Not Started)
@@ -380,8 +381,15 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Quantum Physics II, Spring 2013: Topic VI (Not Started)
 * Quantum Physics II, Spring 2013: Topic VII (Not Started)
 
+[**MIT Quantum Complexity Theory (Dept of Electrical Engineering and Computer Science**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/pages/lecture-notes/)
+* Quantum Complexity Theory, Fall 2010: Unit I - V (Not Started)
+* Quantum Complexity Theory, Fall 2010: Unit VI - X (Not Started)
+* Quantum Complexity Theory, Fall 2010: Unit XI - XV (Not Started)
+* Quantum Complexity Theory, Fall 2010: Unit XVI - XX (Not Started)
+* Quantum Complexity Theory, Fall 2010: Unit XXI - XXIV (Not Started)
 
-[**MIT Nuclear Physics**](https://ocw.mit.edu/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/pages/lecture-notes/)
+
+[**MIT Nuclear Physics (Dept of Nuclear Science and Engineering)**](https://ocw.mit.edu/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/pages/lecture-notes/)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic I (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic II (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic III (Not Started)
@@ -393,13 +401,13 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 
 
-[**MIT Linear Algebra**](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+[**MIT Linear Algebra (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 * Linear Algebra, Fall 2011: Unit I (Completed)
 * Linear Algebra, Fall 2011: Unit II (Completed)
 * Linear Algebra, Fall 2011: Unit III (Ongoing)
 
 
-[**MIT Single Variable Calculus**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+[**MIT Single Variable Calculus (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 * Single Variable Calculus, Fall 2010: Unit I, Part A (Completed)
 * Single Variable Calculus, Fall 2010: Unit I, Part B (Completed)
 * Single Variable Calculus, Fall 2010: Unit II, Part A (Completed)
@@ -415,7 +423,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Single Variable Calculus, Fall 2010: Unit V, Part B ((Completed)
 
 
-[**MIT Multivariable Calculus**](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+[**MIT Multivariable Calculus (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 * Multivariable Calculus, Fall 2010: Unit I, Part A (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part B (Completed)
 * Multivariable Calculus, Fall 2010: Unit I, Part C (Completed)
@@ -430,15 +438,15 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Multivariable Calculus, Fall 2010: Unit IV, Part C (Not Started)
 
 
-[**MIT Computer Science and Programming**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
-
-
-[**MIT Differential Equations**](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+[**MIT Differential Equations (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 * Differential Equations, Fall 2011: Unit I (Not Started)
 * Differential Equations, Fall 2011: Unit II (Not Started)
 * Differential Equations, Fall 2011: Unit III (Not Started)
 * Differential Equations, Fall 2011: Unit IV (Not Started)
+
+[**MIT Computer Science and Programming**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
+
 
 
 
@@ -451,11 +459,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * [Transformer Models and BERT Model](https://www.cloudskillsboost.google/course_templates/538)
 
 
-
-
-
 ### Harvard University
-
 
 **Computer Science and Artificial Intelligence**
 * [Web programming using Python and JavaScript (Not Started)](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript/2023-05)
@@ -463,7 +467,6 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 
 ### FreeCodeCamp 
-
 
 **Harvard Computer Science**
 * [Harvard CS50 2022 – Full Computer Science University Course (Completed)](https://www.youtube.com/watch?v=8mAITcNt710&pp=ygU9SGFydmFyZCBDUzUwIDIwMjIg4oCTIEZ1bGwgQ29tcHV0ZXIgU2NpZW5jZSBVbml2ZXJzaXR5IENvdXJzZQ%3D%3D)
@@ -480,6 +483,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 **Quantum Computing**
 * [Quantum Computing Course – Math and Theory for Beginners (Completed)](https://www.youtube.com/watch?v=tsbCSkvHhMo&pp=ygUUZnJlZWNvZGVjYW1wIHF1YW50dW0%3D)
+
 
 
 ## Hobbies
