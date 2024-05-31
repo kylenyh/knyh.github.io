@@ -381,7 +381,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Quantum Physics II, Spring 2013: Topic VI (Not Started)
 * Quantum Physics II, Spring 2013: Topic VII (Not Started)
 
-[**MIT Quantum Complexity Theory (Dept of Electrical Engineering and Computer Science**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/pages/lecture-notes/)
+[**MIT Quantum Complexity Theory (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/pages/lecture-notes/)
 * Quantum Complexity Theory, Fall 2010: Unit I - V (Not Started)
 * Quantum Complexity Theory, Fall 2010: Unit VI - X (Not Started)
 * Quantum Complexity Theory, Fall 2010: Unit XI - XV (Not Started)
@@ -444,7 +444,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Differential Equations, Fall 2011: Unit III (Not Started)
 * Differential Equations, Fall 2011: Unit IV (Not Started)
 
-[**MIT Computer Science and Programming**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+[**MIT Computer Science and Programming (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * Introduction To Computer Science And Programming In Python, Fall 2016 (Completed)
 
 
