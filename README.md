@@ -3,7 +3,7 @@
 
 My academic and professional interests converge at the nexus of **physics**, **cybersecurity** and **computer science**, exploring how technological advancements can bolster security measures and strategies against crime. From a scientific and technological perspective, my interests lie in the physics of nuclear weapons, the physics of particle accelerators, the physics of quantum computers, the physics of quantum hardware, the physics of rockets, the physics of fluids, the physics of devices, the physics of lasers, the achitecture of network and communication systems, the achitecture of cryptographic systems, the logic of quantum computers, the logic of quantum algorithms, the logic of quantum logic gates, the logic of classical computing algorithms.
 
-Outside my academic pursuits, I dedicate time to coding projects that challenge my skills and broaden my understanding of computing and programming principles. Additionally, I immerse myself in the realm of physics, often trying to learn quantum physics on my own and coming up with my computational physics projects if I can. As a football enthusiast, I enjoy not only following the sport but also watching football matches if I have the time. Travel also plays an integral role in my life, enriching my perspective with diverse cultures and societal structures. These personal endeavors not only provide balance but also fuel my personal growth and curiosity.
+Outside my academic pursuits, I dedicate time to coding projects that challenge my skills and broaden my understanding of computing and programming principles. Additionally, I often try to learn quantum physics on my own and come up with my computational physics projects if I can. As a football enthusiast, I enjoy not only following the sport but also watching football matches if I have the time. Travel also plays an integral role in my life, enriching my perspective with diverse cultures and societal structures. These personal endeavors not only provide balance but also fuel my personal growth and curiosity.
 
 
 ## Skills
@@ -149,6 +149,12 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 ### Python (Cryptography)
 
 ### Python (Quantum Computing)
+
+#### Schor's Algorithm - Personal (1<sup>st</sup>)
+
+#### Deutsch's Algorithm - Personal (2<sup>nd</sup>)
+
+#### Deutsch - Jozsa's Algorithm - Personal (3<sup>rd</sup>)
 
 ### Python (Game Simulation)
 
@@ -425,6 +431,39 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Differential Equations, Fall 2011: Unit II (Not Started)
 * Differential Equations, Fall 2011: Unit III (Not Started)
 * Differential Equations, Fall 2011: Unit IV (Not Started)
+
+
+
+### Google 
+
+**Computer Science and Artificial Intelligence**
+
+
+### Harvard University
+
+
+**Computer Science and Artificial Intelligence**
+* Introduction to artificial intelligence in CS50 using Python (Completed)
+* Introduction to the CS50 course on programming with Python (Completed)
+
+
+### FreeCodeCamp 
+
+
+**Harvard Computer Science**
+* Harvard CS50 2022 – Full Computer Science University Course (Completed)
+* Harvard CS50 2023 – Full Computer Science University Course (Completed)
+* Harvard CS50 2023 – Artificial Intelligence with Python University Course (Completed)
+
+
+**Python (Basic Game Development)**
+* Snake Game with Python and Pygame (Completed)
+* Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake (Completed)
+* Pong with Python and Pygame (Completed)
+* Pygame Tutorial for Beginners - Python Game Development Course (Completed)
+
+
+
 
 
 ## Hobbies
