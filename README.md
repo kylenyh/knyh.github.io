@@ -27,7 +27,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ### [University College London](https://www.ucl.ac.uk/)
 
-**Qualification**: Bachelor of Science in Crime and Security Science (2023 - 2026)
+**Qualification**: Bachelor of Science (2023 - 2026) - Crime and Security Science 
 
 **Department**: Department of Security and Crime Science, Part of UCL Engineering Sciences
 
@@ -43,7 +43,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ### [University of Warwick](https://warwick.ac.uk/)
 
-**Qualification**: International Foundation Programme in Computer Science (2022 - 2023)
+**Qualification**: International Foundation Programme (2022 - 2023) - Computer Science 
 
 **Department**: Department of Engineering 
 
@@ -337,25 +337,28 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 ## Certifications
 
 #### MATLAB
-* Mathworks - Machine Learning Onramp
-* Mathworks - MATLAB Onramp
-* Mathworks - Deep Learning Onramp
-* Mathworks - Computer Vision Onramp
-* Mathworks - Wireless Communications Onramp
-* Mathworks - Statistics Onramp
-* Mathworks - Signal Processing Onramp
-* Mathworks - Reinforcement Learning Onramp
-* Mathworks - Optimization Onramp
-* Mathworks - Object Oriented Programming Onramp
-* Mathworks - Image Processing Onramp
-* Mathworks - App Building Onramp
-* Mathworks - Introduction to Symbolic Math with MATLAB
-* Mathworks - Introduction to Linear Algebra with MATLAB
-* Mathworks - Solving Nonlinear Equations with MATLAB
-* Mathworks - Solving Ordinary Differential Equations with MATLAB
+* [Mathworks - Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=99632912-8f58-4cab-a76c-9459d2555c5d&)
+* [Mathworks - MATLAB Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ce9546fc-f2d2-4546-a281-a6038a14c2c0&)
+* [Mathworks - Deep Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9c7911c9-ed17-4135-845f-34ce3994424c&)
+* [Mathworks - Computer Vision Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=dd8f0156-6045-4ca7-9f7d-15d85d0c81a7&)
+* [Mathworks - Wireless Communications Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9a903422-0a03-4ca0-b43f-328c2e7f4835&)
+* [Mathworks - Statistics Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=815057c8-2eca-4a3a-9522-e0a324f29322&)
+* [Mathworks - Signal Processing Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=a15bea47-5df4-4bd3-b898-26c6a9252186&)
+* [Mathworks - Reinforcement Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=237b3037-4daa-40f7-98db-8c8358a8c046&)
+* [Mathworks - Optimization Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7f1c648e-c2de-4fb4-ba73-456f0a770d0d&)
+* [Mathworks - Object Oriented Programming Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=3fa17530-cc11-4986-8d8d-4b7c5937fb0f&)
+* [Mathworks - Image Processing Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=3862c278-39a5-400a-ba05-8c467de6da81&)
+* [Mathworks - App Building Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e57473fb-3e41-4c4b-a712-13a7f6b750cd&)
+* [Mathworks - Introduction to Symbolic Math with MATLAB](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=28fc1a3c-240e-4516-ad33-60f4215a35ed&)
+* [Mathworks - Introduction to Linear Algebra with MATLAB](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e83d0350-31cd-4b18-b8ba-4ae52fd94a05&)
+* [Mathworks - Solving Nonlinear Equations with MATLAB](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9efb8279-e1c5-428a-beeb-ce5b39b5ca12&)
+* [Mathworks - Solving Ordinary Differential Equations with MATLAB](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=274ff6af-659e-4eb5-b862-a7a59f559b3d&)
 
 #### SAS
-* SAS - Introduction to Data Curation for SAS Data Scientists
+* [SAS - Introduction to Data Curation for SAS Data Scientists](https://www.credly.com/badges/4b425a2f-b044-4638-b6ee-f244b2addcc0?source=linked_in_profile)
+
+#### edX
+* [HarvardX - Data Science: R Basics](https://courses.edx.org/certificates/9d69f8954649476b836f78ea8934e39d)
 
 
 #### FreeCodeCamp
