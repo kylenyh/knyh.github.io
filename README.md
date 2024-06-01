@@ -171,6 +171,8 @@ Implemented through **Python**, this snake game involves implementing game logic
 
 **Libraries**: Math, Pygame 
 
+[Snake Game Code](https://pym.dev/p/36vwz/)
+
 #### Chess Game - Personal (2<sup>nd</sup>)
 
 Implemented through **Python**, this chess engine game integrates the powerful Stockfish engine to determine optimal moves, enhancing the AI's ability to challenge players with varying difficulty levels. Players can compete against the AI with customizable depth and ELO settings, ensuring a tailored gaming experience from novice to advanced skill levels. The game features intuitive controls, allowing players to make moves by clicking on the board and provides visual feedback on the game's state, including valid moves and checkmate situations.
@@ -181,11 +183,15 @@ Implemented through **Python**, this chess engine game integrates the powerful S
 
 #### A* Algorithm - Personal (1<sup>st</sup>)
 
-Implemented through **Python**, this project focuses on the A* algorithm, which finds the **shortest path between two points**, considering various obstacles and optimizing the path based on **cost functions**. The algorithm combines features of **Dijkstra's algorithm** for the shortest path and the **Greedy Best-First-Search algorithm** to prioritize paths that seem more promising. 
+Implemented through **Python**, this code focuses on the A* algorithm, which finds the **shortest path between two points**, considering various obstacles and optimizing the path based on **cost functions**. The algorithm combines features of **Dijkstra's algorithm** for the shortest path and the **Greedy Best-First-Search algorithm** to prioritize paths that seem more promising. 
+
+[A* Algorithm Code](https://pym.dev/p/2vvmd/)
 
 #### Dijkstra Algorithm - Personal (2<sup>nd</sup>)
 
-Implemented through **Python**, this project is a practical implementation of a famous algorithm used for finding the **shortest paths between nodes** in a graph. The algorithm showcases how to efficiently traverse a graph, represented as **weighted edges between nodes**, to find the **minimum distance from a starting point** to all other points in the graph. 
+Implemented through **Python**, this code is a practical implementation of the Dijkstra algorithm used for finding the **shortest paths between nodes** in a graph. The algorithm showcases how to efficiently traverse a graph, represented as **weighted edges between nodes**, to find the **minimum distance from a starting point** to all other points in the graph. 
+
+[Dijkstra Algorithm Code](https://pym.dev/p/2dsrj/)
 
 #### Floyd Warshall Algorithm - Personal (3<sup>rd</sup>)
 
@@ -201,6 +207,10 @@ Implemented through **Python**, this project is a practical implementation of a 
 
 #### Bellman Ford Algorithm - Personal (9<sup>th</sup>)
 
+Implemented through **Python**, this code implements the Bellman Ford algorithm to find the **shortest path distances** from a single source vertex to all other vertices in a weighted directed graph, including graphs with **negative weight edges**. It initializes distances from the source as zero and all others as infinity, then iteratively relaxes all edges V-1 times, where V is the number of vertices. This ensures the shortest paths are found if no negative cycles exist. After these iterations, the algorithm checks for **negative weight cycles**, indicating if no consistent solution for shortest paths can be defined. 
+
+[Bellman Ford Algorithm Code](https://pym.dev/p/39xjt/)
+
 #### Breadth First Search Algorithm - Personal (10<sup>th</sup>)
 
 #### Depth First Search Algorithm - Personal (11<sup>th</sup>)
@@ -213,15 +223,33 @@ Implemented through **Python**, this project explores the principles and dynamic
 
 **Libraries**: Math, Pygame
 
+[Double Pendulum Code](https://pym.dev/p/39qee/)
+
 ### Python (Crime Analysis)
 
 #### Crime Data Collection Survey - Associated with UCL (1<sup>st</sup>)
 
 Implemented through **Python**, this project involves designing and implementing a phone snatching survey system to **gather and analyze data** from the survey. The project integrates various libraries to efficiently **collect**, **store** and **process survey responses**, aiming to provide insights into **crime patterns**. Through a user-friendly interface, participants can submit information anonymously, contributing to a comprehensive database that supports academic research and helps inform public safety strategies.
 
-**Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas
+[Dataset Text File](https://pym.dev/p/2w5ke/)
+[Data Fill Code](https://pym.dev/p/22uz8/)
+[Data Evaluation Code](https://pym.dev/p/29xdn/)
+[Data Dictionaries Code](https://pym.dev/p/39pxb/)
 
-#### Crime Survey Dataset Analysis - Associated with UCL (2<sup>nd</sup>)
+
+
+
+#### Crime Data Analysis of UK Neighborhoods - Associated with UCL (2<sup>nd</sup>)
+
+Implemented through **Python**, this project provides an interface that retrieves information on crimes by neighbourhood during a specified year and month. The interface also produces statistical summaries, data visualisation and kernel
+density estimations on crime locations by neighbourhood searched.
+
+**Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas, Seaborn
+
+[Tasks 1 - 6 Code](https://pym.dev/p/2vwr4/)
+[Tasks 6 - 8 Code](https://pym.dev/p/2exbg/)
+
+#### Jupyter Crime Survey Dataset Analysis Report UK - Associated with UCL (3<sup>rd</sup>)
 
 Implemented through **Python**, this project involves analyzing public fear of crime in England and Wales using the 2013/14 CSEW data. The report provides clear, non-technical explanations of statistical findings for government policymakers, incorporating transparency for data scrutiny. It presents the extent of worry about crime and its correlation with various factors across measurement types, using a maximum of five meaningful graphics.
 
