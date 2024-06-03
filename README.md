@@ -102,6 +102,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Electromagnetic theory 
 * Computational complexity theory
 * Computability theory
+* Spectral theory
 * Graph theory
 * Statistical information theory
 * Cybersecurity
@@ -410,7 +411,12 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Quantum Physics II, Spring 2013: Topic IV (Not Started)
 * Quantum Physics II, Spring 2013: Topic V (Not Started)
 * Quantum Physics II, Spring 2013: Topic VI (Not Started)
-* Quantum Physics II, Spring 2013: Topic VII (Not Started)
+* Quantum Physics II, Spring 2013: Topic VII (Not Started)'
+
+[**MIT Quantum Physics III (Dept of Physics)**](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/lecture-notes/)
+* Quantum Physics III, Spring 2018: Part I (Not Started)
+* Quantum Physics III, Spring 2018: Part II (Not Started)
+* Quantum Physics III, Spring 2018: Part III (Not Started)
 
 [**MIT Quantum Complexity Theory (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/pages/lecture-notes/)
 * Quantum Complexity Theory, Fall 2010: Unit I - V (Not Started)
