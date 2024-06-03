@@ -399,12 +399,12 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 ### MIT OpenCourseWare
 
-[**MIT Quantum Physics I (Dept of Physics)**](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/lecture-notes/)
+[**MIT Quantum Physics I (Dept of Physics)**](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)
 * Quantum Physics I, Spring 2016: Part I (Completed)
 * Quantum Physics I, Spring 2016: Part II (Ongoing)
 * Quantum Physics I, Spring 2016: Part III (Not Started)
 
-[**MIT Quantum Physics II (Dept of Physics)**](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/lecture-notes/)
+[**MIT Quantum Physics II (Dept of Physics)**](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
 * Quantum Physics II, Spring 2013: Topic I (Not Started)
 * Quantum Physics II, Spring 2013: Topic II (Not Started)
 * Quantum Physics II, Spring 2013: Topic III (Not Started)
@@ -413,20 +413,13 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Quantum Physics II, Spring 2013: Topic VI (Not Started)
 * Quantum Physics II, Spring 2013: Topic VII (Not Started)'
 
-[**MIT Quantum Physics III (Dept of Physics)**](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/lecture-notes/)
+[**MIT Quantum Physics III (Dept of Physics)**](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/)
 * Quantum Physics III, Spring 2018: Part I (Not Started)
 * Quantum Physics III, Spring 2018: Part II (Not Started)
 * Quantum Physics III, Spring 2018: Part III (Not Started)
 
-[**MIT Quantum Complexity Theory (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/pages/lecture-notes/)
-* Quantum Complexity Theory, Fall 2010: Unit I - V (Not Started)
-* Quantum Complexity Theory, Fall 2010: Unit VI - X (Not Started)
-* Quantum Complexity Theory, Fall 2010: Unit XI - XV (Not Started)
-* Quantum Complexity Theory, Fall 2010: Unit XVI - XX (Not Started)
-* Quantum Complexity Theory, Fall 2010: Unit XXI - XXIV (Not Started)
 
-
-[**MIT Nuclear Physics (Dept of Nuclear Science and Engineering)**](https://ocw.mit.edu/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/pages/lecture-notes/)
+[**MIT Nuclear Physics (Dept of Nuclear Science and Engineering)**](https://ocw.mit.edu/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic I (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic II (Not Started)
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic III (Not Started)
@@ -484,6 +477,13 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 [**MIT Computer Science and Programming (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * Introduction To Computer Science And Programming In Python, Fall 2016, Unit I - VI (Completed)
 * Introduction To Computer Science And Programming In Python, Fall 2016, Unit VII - XII (Completed)
+
+[**MIT Quantum Complexity Theory (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/)
+* Quantum Complexity Theory, Fall 2010: Unit I - V (Not Started)
+* Quantum Complexity Theory, Fall 2010: Unit VI - X (Not Started)
+* Quantum Complexity Theory, Fall 2010: Unit XI - XV (Not Started)
+* Quantum Complexity Theory, Fall 2010: Unit XVI - XX (Not Started)
+* Quantum Complexity Theory, Fall 2010: Unit XXI - XXIV (Not Started)
 
 
 
