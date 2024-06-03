@@ -479,11 +479,11 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Introduction To Computer Science And Programming In Python, Fall 2016, Unit VII - XII (Completed)
 
 [**MIT Quantum Complexity Theory (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/)
-* Quantum Complexity Theory, Fall 2010: Unit I - V (Not Started)
-* Quantum Complexity Theory, Fall 2010: Unit VI - X (Not Started)
-* Quantum Complexity Theory, Fall 2010: Unit XI - XV (Not Started)
-* Quantum Complexity Theory, Fall 2010: Unit XVI - XX (Not Started)
-* Quantum Complexity Theory, Fall 2010: Unit XXI - XXIV (Not Started)
+* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit I - V (Not Started)
+* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit VI - X (Not Started)
+* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XI - XV (Not Started)
+* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XVI - XX (Not Started)
+* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XXI - XXIV (Not Started)
 
 
 
