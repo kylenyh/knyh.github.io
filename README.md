@@ -105,6 +105,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Photonics physics
 * Materials physics 
 * Spectroscopy physics
+* Interferometry physics
 * Electromagnetism physics
 * Optical communications physics
 * Device physics
