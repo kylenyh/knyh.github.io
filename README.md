@@ -105,6 +105,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Nanomaterials physics
 * Solid state physics 
 * Computational physics
+* Theoretical physics
 * Statistical physics 
 * Semiconductor physics
 * Photonics physics
