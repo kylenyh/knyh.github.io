@@ -67,12 +67,22 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Quantum computing
 * Quantum algorithms
 * Quantum Fourier transform
+* Quantum Laplace transform
 * Quantum logic gates
 * Quantum circuits
+* Quantum error correction
+* Quantum annealing
+* Quantum networks
+* Quantum many-body systems
+* Quantum many-body states
+* Quantum equillibrium dynamics
+* Quantum non-equillibrium dynamics
+* Quantum electrodynamics
 * Quantum information theory
 * Quantum field theory
 * Quantum matrix theory
 * Quantum complexity theory
+* Quantum error correction theory
 * Quantum theory of matter
 * Quantum optics 
 * Quantum information processing
