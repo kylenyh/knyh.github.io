@@ -78,6 +78,11 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Quantum equillibrium dynamics
 * Quantum non-equillibrium dynamics
 * Quantum electrodynamics
+* Quantum flux parametron
+* Quantum hall effect
+* Quantum AC Josephson effect
+* Quantum DC Josephson effect
+* Quantum inverse AC Josephson effect
 * Quantum information theory
 * Quantum field theory
 * Quantum matrix theory
