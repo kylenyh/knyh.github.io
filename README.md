@@ -491,9 +491,16 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Differential Equations, Fall 2011: Unit III (Not Started)
 * Differential Equations, Fall 2011: Unit IV (Not Started)
 
+[**MIT Introduction To Probability And Statistics (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/pages/syllabus/)
+* Introduction To Probability And Statistics, Spring 2022: Unit I (Not Started)
+* Introduction To Probability And Statistics, Spring 2022: Unit II (Not Started)
+* Introduction To Probability And Statistics, Spring 2022: Unit III (Not Started)
+* Introduction To Probability And Statistics, Spring 2022: Unit IV (Not Started)
+
+
 [**MIT Computer Science and Programming (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* Introduction To Computer Science And Programming In Python, Fall 2016, Unit I - VI (Completed)
-* Introduction To Computer Science And Programming In Python, Fall 2016, Unit VII - XII (Completed)
+* Introduction To Computer Science And Programming In Python, Fall 2016: Unit I - VI (Completed)
+* Introduction To Computer Science And Programming In Python, Fall 2016: Unit VII - XII (Completed)
 
 [**MIT Quantum Complexity Theory (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/)
 * Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit I - V (Not Started)
