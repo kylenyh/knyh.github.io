@@ -511,42 +511,6 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 
 
-### Google 
-
-**Computer Science and Artificial Intelligence**
-* [Large Language Models (Not Started)](https://www.cloudskillsboost.google/course_templates/539)
-* [Image Generation (Not Started)](https://www.cloudskillsboost.google/course_templates/541)
-* [Encoder-Decoder Architecture (Not Started)](https://www.cloudskillsboost.google/course_templates/543)
-* [Transformer Models and BERT Model](https://www.cloudskillsboost.google/course_templates/538)
-
-
-### Harvard University
-
-**Computer Science and Artificial Intelligence**
-* [Web programming using Python and JavaScript (Not Started)](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript/2023-05)
-* [Use React Native for mobile app development (Not Started)](https://www.edx.org/learn/react-native/harvard-university-cs50-s-mobile-app-development-with-react-native)
-
-
-### FreeCodeCamp 
-
-**Harvard Computer Science**
-* [Harvard CS50 2022 – Full Computer Science University Course (Completed)](https://www.youtube.com/watch?v=8mAITcNt710&pp=ygU9SGFydmFyZCBDUzUwIDIwMjIg4oCTIEZ1bGwgQ29tcHV0ZXIgU2NpZW5jZSBVbml2ZXJzaXR5IENvdXJzZQ%3D%3D)
-* [Harvard CS50 2023 – Full Computer Science University Course (Completed)](https://www.youtube.com/watch?v=LfaMVlDaQ24&pp=ygU9SGFydmFyZCBDUzUwIDIwMjIg4oCTIEZ1bGwgQ29tcHV0ZXIgU2NpZW5jZSBVbml2ZXJzaXR5IENvdXJzZQ%3D%3D)
-* [Harvard CS50 2023 – Artificial Intelligence with Python University Course (Completed)](https://www.youtube.com/watch?v=5NgNicANyqM&pp=ygVLSGFydmFyZCBDUzUwIDIwMjMg4oCTIEFydGlmaWNpYWwgSW50ZWxsaWdlbmNlIHdpdGggUHl0aG9uIFVuaXZlcnNpdHkgQ291cnNl)
-* [Harvard CS50’s Introduction to Programming with Python – Full University Course (Completed)](https://www.youtube.com/watch?v=nLRL_NcnK-4&pp=ygVLSGFydmFyZCBDUzUwIDIwMjMg4oCTIEFydGlmaWNpYWwgSW50ZWxsaWdlbmNlIHdpdGggUHl0aG9uIFVuaXZlcnNpdHkgQ291cnNl)
-
-
-**Python (Basic Game Development)**
-* [Snake Game with Python and Pygame (Completed)](https://www.youtube.com/watch?v=8dfePlONtls&pp=ygUhU25ha2UgR2FtZSB3aXRoIFB5dGhvbiBhbmQgUHlnYW1l) 
-* [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake (Completed)](https://www.youtube.com/watchv=L8ypSXwyBds&pp=ygVOUHl0aG9uICsgUHlUb3JjaCArIFB5Z2FtZSBSZWluZm9yY2VtZW50IExlYXJuaW5nIOKAkyBUcmFpbiBhbiBBSSB0byBQbGF5IFNuYWtl)
-* [Pong with Python and Pygame (Completed)](https://www.youtube.com/watch?v=tS8F7_X2qB0&pp=ygUbUG9uZyB3aXRoIFB5dGhvbiBhbmQgUHlnYW1l)
-* [Pygame Tutorial for Beginners - Python Game Development Course (Completed)](https://www.youtube.com/watch?v=FfWpgLFMI7w&pp=ygU-UHlnYW1lIFR1dG9yaWFsIGZvciBCZWdpbm5lcnMgLSBQeXRob24gR2FtZSBEZXZlbG9wbWVudCBDb3Vyc2U%3D)
-
-**Quantum Computing**
-* [Quantum Computing Course – Math and Theory for Beginners (Completed)](https://www.youtube.com/watch?v=tsbCSkvHhMo&pp=ygUUZnJlZWNvZGVjYW1wIHF1YW50dW0%3D)
-
-
-
 ## Hobbies
 Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing chess
 
