@@ -66,7 +66,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 ## Personal Interests
 
 ### Physics 
-* Quantum physics
+* Principles of quantum physics
 * Quantum superposition
 * Quantum entanglement
 * Quantum many-body systems
@@ -84,7 +84,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Quantum matrix theory
 * Quantum theory of matter
 * Quantum optics
-* Plasma physics
+* Principles of plasma physics
 * Plasma approximation
 * Plasma ionization degree
 * Plasma density degree
@@ -92,7 +92,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Plasma potential
 * Plasma magnetization
 * Plasma modelling
-* Fluid physics
+* Principles of fluid physics
 * Newtonian equations of fluids
 * Non-Newtonian equations of fluids
 * Navier-Stokes equations of fluids 
@@ -101,25 +101,25 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Non-compressible flow equations of fluids
 * Steady flow fluid motion of fluids
 * Non-steady flow fluid motion of fluids
-* Particle physics
+* Principles of article physics
 * Standard Model of particles
-* Feynmann diagram of particles
-* Mechanics of particle accelerators
-* Mechanics of cyclotrons
-* Mechanics of synchotrons
+* Feynmann diagrams of particles
+* Mechanics of simulating particle accelerators
+* Mechanics of simulating cyclotrons
+* Mechanics of simulating synchotrons
 * Weak interaction of particles
 * Strong interaction of particles
-* Cosmic rays of particles
-* Higgs Boson of particle accelerators
-* Nuclear physics 
+* Cosmic rays of particles in chambers 
+* Higgs Boson application in particle accelerators
+* Principles of nuclear physics 
 * Nuclear stability of radioactive elements
 * Nuclear models of radioactive elements
 * Nuclear fission of radioactive elements
 * Nuclear fusion of radioactive elements
 * Radioactive decay of radioactive elements
-* Mechanics of nuclear reactors 
-* Mechanics of nuclear weapons 
-* Condensed matter physics
+* Mechanics of nuclear reactors for experiments
+* Mechanics of nuclear weapons for warfare 
+* Principles of condensed matter physics
 * Crystallography properties of solid and liquid matter objects
 * Electronic structure properties of solid and liquid matter objects
 * Superconductivity properties of solid and liquid matter objects
@@ -127,7 +127,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Lattice properties of solid and liquid matter objects
 * Magnetic properties of solid and liquid matter objects
 * Experimental techniques of solid and liquid matter objects
-* Solid state physics
+* Principles of solid state physics
 * Crystallography properties of solid matter objects
 * Electronic structure properties of solid matter objects
 * Superconductivity properties of solid matter objects
@@ -136,55 +136,98 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Magnetic properties of solid matter objects
 * Thermal properties of solid matter objects
 * Experimental techniques of solid matter objects
-* Thermodynamics physics
+* Principles of thermodynamics physics
 * Laws of thermodynamics and energy changes in systems 
 * Equilibrium thermodynamics of systems 
 * Non-equillibrium thermodynamics of systems 
 * Thermodynamical system models of matter states
 * Thermodynamical states and processes of system models
-* 
+* Principles of statistical physics
+* Particle statistics of atomic motion 
+* Chemical reactions of statistical systems 
+* Flow of particles and heat in statistical systems 
+* Kinetic theory of gases in statistical systems
+* Equation of state of gases in statistical systems
+* Statistical methods of particle assesmblement in statistical systems
+* Probability theory of particle movement in statistical systems
+* Probability distrubitions of particle movement scenarios
+* Monte Carlo method applications in statistical systems
+* Stochastic method applications in statistical systems
+* Non-equillibrium thermodynamics of statistical system processes
+* Principles of semiconductor physics
+* Electronic band structures of semiconductor materials
+* Conductivity band structures of semiconductor materials
+* Energy band structures of semiconductor materials
+* Charge carrier structures of semiconductor materials
+* P-N junctions of semiconductor materials
+* Metal-Semiconductor junctions of semiconductor materials
+* Carrier generation and recombination of semiconductor materials
+* Principles of electromagnetism physics
+* Electric flux and Gauss's law applications
+* Magnetic flux and Gauss's law for magnetism
+* Transformers and energy in magnetic fields
+* Energy and momentum in electromagnetic waves
+* Wave equation for electric and magnetic fields
+* Transformation of electric and magnetic fields
 
 
-* Quantum computing
-* Quantum algorithms
-* Quantum Fourier transform
-* Quantum Laplace transform
-* Quantum logic gates
-* Quantum circuits
-* Quantum error correction
-* Quantum annealing
-* Quantum networks
+
+### Computer Science
+* Principles of quantum computing
+* Quantum algorithm simulations in quantum systems
+* Quantum circuit simulations in quantum systems
+* Quantum logic gate simulations in quantum systems
+* Quantum error correction simulations in quantum systems
+* Quantum AC Josephson effect in Josephson junction circuits
+* Quantum DC Josephson effect in Josephson junction circuits
+* Quantum inverse AC Josephson effect in Josephson junction circuits
+* Quantum information theory of quantum communication channels 
+* Quantum complexity theory of computational capabilities and limiations 
+* Quantum computability theory of computational capabilities and limiations 
+* Quantum error correction theory of computational capabilities and limiations 
+* Quantum information processing of data transportation 
+* Quantum Fourier transform applications in exponential searching algorithm simulations
+* Quantum Laplace transform applications in forming complex frequency domains 
+* Quantum annealing optimization techniques in quantum systems 
+* Quantum network channel applications for communication 
+* Quantum supremacy applications for speedy calculations 
+* Quantum cryptography applications for advanced security 
+* Quantum machine learning applications in training models 
+* Quantum decoherence implementation for improved efficiency in quantum computers 
+* Quantum parallelism implementation for improved efficiency in quantum computers 
+* Quantum Turing machine theory and its application in quantum computers 
+* Neuromorphic-based quantum computing techniques in quantum computers 
+* Adiabatic-based quantum computing techniques in quantum computers 
+* Meausrement-based quantum computing techniques in quantum computers 
+* Topological-based quantum computing techniques in quantum computers
+* Principles of graph network computing 
+* Graph theory diagrams in graph networks
+* Graph theory algorithm applications in graph networks
+* Matrix structures in graph networks
+* Network flow structures in graph networks
+* Tree diagram structures in graph networks
+* Graph metric structures in graph networks
+* Types of graphs in graph networks
+* Data structure and algorithm applications in computing
+* Data structure and algorithm design techniques in computing
+* Types of data structures used in computing
+* Types of data algorithms used in computing
+* Types of data models used in computing
+* Database applications in computing
+* Database design techniques in computing
+* Types of databases used in computing
+* Roles of databases used in computing
+* Principles of architecture systems in computing
+* Principles of cybersecurity in computing
+* Principles of hardware in computing
+* Principles of algorithms in computing
+* Principles of computational techniques in computing
 
 
-* Quantum AC Josephson effect
-* Quantum DC Josephson effect
-* Quantum inverse AC Josephson effect
-* Quantum information theory
-* Quantum complexity theory
-* Quantum error correction theory
-* Quantum information processing
+### Mathematics
 
+### Engineering 
 
-
- 
-* Nanomaterials physics
-* Computational physics
-* Theoretical physics
-* Statistical physics 
-* Semiconductor physics
-* Photonics physics
-* Materials physics 
-* Spectroscopy physics
-* Interferometry physics
-* Electromagnetism physics
-
-* Mathematical methods for physics
-* Electromagnetic theory 
-* Computational complexity theory
-* Computability theory
-* Spectral theory
-* Graph theory
-* Statistical information theory
 * Cybersecurity
 * Linear algebra
 * Single variable calculus
@@ -192,15 +235,8 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Differential equations
 * Probability & Statistics
 
-* Object oriented programming
-* Functional programming
-* Logic programming
-* Concurrent programming
-* Declarative programming
-* Procedural programming
-* Static programming
-* Dynamic programming 
-* Quantum programming 
+
+
 * Electrical engineering
 * Electronic engineering 
 * Mechanical engineering 
@@ -208,7 +244,9 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Cryptography engineering
 * Privacy engineering
 * Systems performance engineering
-* Computer systems engineering 
+* Computer systems engineering
+
+
 * Advanced computer architecture
 * Advanced computer security
 * Advanced network and web security
