@@ -64,6 +64,87 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
   
 ## Personal Interests
+
+### Physics 
+* Quantum physics
+* Quantum superposition
+* Quantum entanglement
+* Quantum many-body systems
+* Quantum many-body states
+* Quantum equillibrium dynamics
+* Quantum non-equillibrium dynamics
+* Quantum state representations
+* Quantum state transformations 
+* Quantum electrodynamics
+* Quantum flux parametron
+* Quantum hall effect
+* Quantum supersymmetry
+* Quantum harmonic oscillator 
+* Quantum field theory
+* Quantum matrix theory
+* Quantum theory of matter
+* Quantum optics
+* Plasma physics
+* Plasma approximation
+* Plasma ionization degree
+* Plasma density degree
+* Plasma temperature
+* Plasma potential
+* Plasma magnetization
+* Plasma modelling
+* Fluid physics
+* Newtonian equations of fluids
+* Non-Newtonian equations of fluids
+* Navier-Stokes equations of fluids 
+* Stokes-theorem equations of fluids
+* Compressible flow equations of fluids
+* Non-compressible flow equations of fluids
+* Steady flow fluid motion of fluids
+* Non-steady flow fluid motion of fluids
+* Particle physics
+* Standard Model of particles
+* Feynmann diagram of particles
+* Mechanics of particle accelerators
+* Mechanics of cyclotrons
+* Mechanics of synchotrons
+* Weak interaction of particles
+* Strong interaction of particles
+* Cosmic rays of particles
+* Higgs Boson of particle accelerators
+* Nuclear physics 
+* Nuclear stability of radioactive elements
+* Nuclear models of radioactive elements
+* Nuclear fission of radioactive elements
+* Nuclear fusion of radioactive elements
+* Radioactive decay of radioactive elements
+* Mechanics of nuclear reactors 
+* Mechanics of nuclear weapons 
+* Condensed matter physics
+* Crystallography properties of solid and liquid matter objects
+* Electronic structure properties of solid and liquid matter objects
+* Superconductivity properties of solid and liquid matter objects
+* Optical properties of solid and liquid matter objects
+* Lattice properties of solid and liquid matter objects
+* Magnetic properties of solid and liquid matter objects
+* Experimental techniques of solid and liquid matter objects
+* Solid state physics
+* Crystallography properties of solid matter objects
+* Electronic structure properties of solid matter objects
+* Superconductivity properties of solid matter objects
+* Optical properties of solid matter objects
+* Lattice properties of solid matter objects
+* Magnetic properties of solid matter objects
+* Thermal properties of solid matter objects
+* Experimental techniques of solid matter objects
+* Thermodynamics physics
+* Laws of thermodynamics and energy changes in systems 
+* Equilibrium thermodynamics of systems 
+* Non-equillibrium thermodynamics of systems 
+* Thermodynamical system models of matter states
+* Thermodynamical states and processes of system models
+* 
+
+
 * Quantum computing
 * Quantum algorithms
 * Quantum Fourier transform
@@ -73,37 +154,20 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Quantum error correction
 * Quantum annealing
 * Quantum networks
-* Quantum many-body systems
-* Quantum many-body states
-* Quantum equillibrium dynamics
-* Quantum non-equillibrium dynamics
-* Quantum electrodynamics
-* Quantum flux parametron
-* Quantum hall effect
+
+
 * Quantum AC Josephson effect
 * Quantum DC Josephson effect
 * Quantum inverse AC Josephson effect
 * Quantum information theory
-* Quantum field theory
-* Quantum matrix theory
 * Quantum complexity theory
 * Quantum error correction theory
-* Quantum theory of matter
-* Quantum optics 
 * Quantum information processing
-* Quantum physics
-* Plasma physics
-* Fluid physics
-* Hydrodynamics physics 
-* Rocket physics
-* Electrical physics
-* Electronics physics 
-* Particle physics
-* Nuclear physics
-* Condensed matter physics
-* Thermodynamics physics 
+
+
+
+ 
 * Nanomaterials physics
-* Solid state physics 
 * Computational physics
 * Theoretical physics
 * Statistical physics 
@@ -113,8 +177,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Spectroscopy physics
 * Interferometry physics
 * Electromagnetism physics
-* Optical communications physics
-* Device physics
+
 * Mathematical methods for physics
 * Electromagnetic theory 
 * Computational complexity theory
@@ -128,9 +191,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Multivariable calculus
 * Differential equations
 * Probability & Statistics
-* Football
-* Chess
-* Aikido
+
 * Object oriented programming
 * Functional programming
 * Logic programming
