@@ -67,31 +67,30 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ### Physics 
 * Principles of quantum physics
-* Quantum superposition
-* Quantum entanglement
-* Quantum many-body systems
-* Quantum many-body states
-* Quantum equillibrium dynamics
-* Quantum non-equillibrium dynamics
-* Quantum state representations
-* Quantum state transformations 
-* Quantum electrodynamics
-* Quantum flux parametron
-* Quantum hall effect
-* Quantum supersymmetry
-* Quantum harmonic oscillator 
-* Quantum field theory
-* Quantum matrix theory
-* Quantum theory of matter
-* Quantum optics
+* Quantum superposition of interacting quantum particles 
+* Quantum entanglement of interacting quantum particles 
+* Quantum many-body systems of interacting quantum particles 
+* Quantum many-body states of interacting quantum particles 
+* Quantum equillibrium dynamics of quantum systems and states 
+* Quantum non-equillibrium dynamics of quantum systems and states 
+* Quantum state representations of quantum systems and vectors 
+* Quantum state transformations of quantum systems and vectors 
+* Quantum electrodynamics of quantum electric charges and fields 
+* Quantum flux parametron of Josephson circuits 
+* Quantum hall effect of 2-D electron systems 
+* Quantum supersymmetry of elementary particles 
+* Quantum harmonic oscillator of simple harmonic motion 
+* Quantum field theory of quantum fields 
+* Quantum matrix theory of quantum matrices 
+* Quantum theory of matter in quantum states and systems 
 * Principles of plasma physics
-* Plasma approximation
-* Plasma ionization degree
-* Plasma density degree
-* Plasma temperature
-* Plasma potential
-* Plasma magnetization
-* Plasma modelling
+* Plasma approximation as a state of matter
+* Plasma ionization degree as a state of matter
+* Plasma density degree as a state of matter
+* Plasma temperature as a state of matter
+* Plasma potential as a state of matter
+* Plasma magnetization as a state of matter
+* Plasma modelling as a state of matter
 * Principles of fluid physics
 * Newtonian equations of fluids
 * Non-Newtonian equations of fluids
@@ -168,7 +167,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 * Transformers and energy in magnetic fields
 * Energy and momentum in electromagnetic waves
 * Wave equation for electric and magnetic fields
-* Transformation of electric and magnetic fields
+* Transformations of electric and magnetic fields
 
 
 
