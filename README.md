@@ -25,10 +25,10 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ## Education
 
-### [University College London](https://www.ucl.ac.uk/)
+### [UCL](https://www.ucl.ac.uk/)
 
 ### Qualification 
-Bachelor of Science (2023 - 2026) - Crime and Security Science 
+Bachelor of Science - Crime and Security Science (2023 to 2026)
 
 ### Departments
 Department of Security and Crime Science, Department of Engineering
@@ -71,23 +71,47 @@ Department of Security and Crime Science, Department of Engineering
 
 ### [University of Warwick](https://warwick.ac.uk/)
 
-**Qualification**: International Foundation Programme (2022 - 2023) - Computer Science 
+### Qualification
+International Foundation Programme - Computer Science (2022 to 2023)
 
-**Department**: Department of Engineering 
+### Department
+Department of Engineering 
 
-**Societies**: Warwick Computing Society, Warwick Maths Society, Warwick Physics Society, Warwick Malaysian Student Association
+### Societies
+* Warwick Computing Society
+* Warwick Maths Society
+* Warwick Physics Society
+* Warwick Malaysian Student Association
 
-**Modules**: Further Math and Statistics, Pure Math, Computer Science, English for Academic Purposes, Inquiry and Research Skills
+### Modules
+* Further Mathematics and Statistics
+* Pure Mathematics
+* Computer Science
+* English for Academic Purposes
+* Inquiry and Research Skills
 
 
 
 ### [St Joseph Instituition International School](https://www.sji-international.edu.my/)
 
-**Qualification**: IGCSE (2020 - 2022)
+### Qualification
+IGCSE (2020 to 2022)
 
-**Extra-curriculars**: Competitive Math squad, Chess, Exploring the Blockchain, Football
+### Extra-curriculars
+* Competitive Mathematics squad
+* Chess
+* Exploring the Blockchain
+* Football
 
-**Subjects**: International Math, Physics, Chemistry, First Language English, English Literature, Economics, Foreign Language Mandarin, Geography 
+### Subjects
+* International Mathematics
+* Physics
+* Chemistry
+* First Language English
+* English Literature
+* Economics
+* Foreign Language Mandarin
+* Geography 
 
 
   
