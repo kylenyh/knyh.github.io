@@ -27,17 +27,45 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ### [University College London](https://www.ucl.ac.uk/)
 
-**Qualification**: Bachelor of Science (2023 - 2026) - Crime and Security Science 
+### Qualification 
+Bachelor of Science (2023 - 2026) - Crime and Security Science 
 
-**Department**: Department of Security and Crime Science, Part of UCL Engineering Sciences
+### Departments
+Department of Security and Crime Science, Department of Engineering
 
-**Societies**: UCL Artificial Intelligence Society, UCL Blockchain Labs Society, UCL Physics Society, UCL Malaysian Society
+### Societies
+* UCL Artificial Intelligence Society
+* UCL Blockchain Labs Society
+* UCL Physics Society
+* UCL Malaysian Society
 
-**Year 1**: Crime Mapping, Understanding the Crime Event, Qualitative Methods, Probability and Statistics I, Crime and Society, Introduction to Crime and Security science, Terrorism, Programming for Crime Scientists
+### Modules 
 
-**Year 2**: Systems and Problem Solving, Situational Crime Prevention, Probability and Statistics II, Psychology and Crime, Introduction to Research, Security Technologies, Organised Crime, Project in Security and Crime Prevention
+#### Year 1
+* Crime Mapping
+* Understanding the Crime Event
+* Qualitative Methods
+* Probability and Statistics I
+* Crime and Society
+* Introduction to Crime and Security science
+* Terrorism
+* Programming for Crime Scientists
 
-**Year 3**: Cybercrime, Data Science for Crime Scientists, Criminal Investigation and Intelligence, Security and Crime Science Research Project
+#### Year 2
+* Systems and Problem Solving
+* Situational Crime Prevention
+* Probability and Statistics II
+* Psychology and Crime
+* Introduction to Research
+* Security Technologies
+* Organised Crime
+* Project in Security and Crime Prevention
+
+#### Year 3
+* Cybercrime
+* Data Science for Crime Scientists
+* Criminal Investigation and Intelligence
+* Security and Crime Science Research Project
 
 
 
