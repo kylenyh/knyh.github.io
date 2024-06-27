@@ -150,7 +150,7 @@ IGCSE (2020 to 2022)
 * Non-compressible flow equations of fluids
 * Steady flow fluid motion of fluids
 * Non-steady flow fluid motion of fluids
-* Principles of article physics
+* Principles of particle physics
 * Standard Model of particles
 * Feynmann diagrams of particles
 * Mechanics of simulating particle accelerators
@@ -555,10 +555,6 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * [HarvardX - Data Science: R Basics](https://courses.edx.org/certificates/9d69f8954649476b836f78ea8934e39d)
 
 
-#### FreeCodeCamp
-
-
-
 
 ## Courses (Self-Learn)
 
@@ -595,7 +591,6 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Introduction To Applied Nuclear Physics, Spring 2012: Topic VIII (Not Started)
 
 
-
 [**MIT Linear Algebra (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 * Linear Algebra, Fall 2011: Unit I (Completed)
 * Linear Algebra, Fall 2011: Unit II (Completed)
@@ -625,7 +620,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Multivariable Calculus, Fall 2010: Unit II, Part A (Completed)
 * Multivariable Calculus, Fall 2010: Unit II, Part B (Completed)
 * Multivariable Calculus, Fall 2010: Unit II, Part C (Completed)
-* Multivariable Calculus, Fall 2010: Unit III, Part A (Not Started)
+* Multivariable Calculus, Fall 2010: Unit III, Part A (Completed)
 * Multivariable Calculus, Fall 2010: Unit III, Part B (Not Started)
 * Multivariable Calculus, Fall 2010: Unit III, Part C (Not Started)
 * Multivariable Calculus, Fall 2010: Unit IV, Part A (Not Started)
@@ -656,6 +651,13 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XI - XV (Not Started)
 * Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XVI - XX (Not Started)
 * Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XXI - XXIV (Not Started)
+
+#### Harvard CS50
+* [Harvard CS50’s Introduction to Programming with Python – Full University Course](https://youtu.be/nLRL_NcnK-4?t=27266)
+* [Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://youtu.be/5NgNicANyqM?t=19)
+* [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://youtu.be/vzGllw18DkA?t=2)
+* [Harvard CS50 (2023) – Full Computer Science University Course](https://youtu.be/LfaMVlDaQ24?t=6)
+* [Harvard CS50 (2022) – Full Computer Science University Course](https://youtu.be/8mAITcNt710?t=19)
 
 
 
