@@ -25,23 +25,22 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ## Education
 
-## [UCL](https://www.ucl.ac.uk/)
+### [UCL](https://www.ucl.ac.uk/)
 
-### Qualification 
+#### Qualification 
 Bachelor of Science - Crime and Security Science (2023 to 2026)
 
-### Departments
+#### Departments
 Department of Security and Crime Science, Department of Engineering
 
-### Societies
+#### Societies
 * UCL Artificial Intelligence Society
 * UCL Blockchain Labs Society
 * UCL Physics Society
 * UCL Malaysian Society
+ 
 
-### Modules 
-
-#### Year 1
+#### Year 1 Modules
 * Crime Mapping
 * Understanding the Crime Event
 * Qualitative Methods
@@ -51,7 +50,7 @@ Department of Security and Crime Science, Department of Engineering
 * Terrorism
 * Programming for Crime Scientists
 
-#### Year 2
+#### Year 2 Modules
 * Systems and Problem Solving
 * Situational Crime Prevention
 * Probability and Statistics II
@@ -61,7 +60,7 @@ Department of Security and Crime Science, Department of Engineering
 * Organised Crime
 * Project in Security and Crime Prevention
 
-#### Year 3
+#### Year 3 Modules
 * Cybercrime
 * Data Science for Crime Scientists
 * Criminal Investigation and Intelligence
@@ -69,21 +68,21 @@ Department of Security and Crime Science, Department of Engineering
 
 
 
-## [University of Warwick](https://warwick.ac.uk/)
+### [University of Warwick](https://warwick.ac.uk/)
 
-### Qualification
+#### Qualification
 International Foundation Programme - Computer Science (2022 to 2023)
 
-### Department
+#### Department
 Department of Engineering 
 
-### Societies
+#### Societies
 * Warwick Computing Society
 * Warwick Maths Society
 * Warwick Physics Society
 * Warwick Malaysian Student Association
 
-### Modules
+#### Modules
 * Further Mathematics and Statistics
 * Pure Mathematics
 * Computer Science
@@ -91,18 +90,18 @@ Department of Engineering
 * Inquiry and Research Skills
 
 
-## [St Joseph Instituition International School](https://www.sji-international.edu.my/)
+### [St Joseph Instituition International School](https://www.sji-international.edu.my/)
 
-### Qualification
+#### Qualification
 IGCSE (2020 to 2022)
 
-### Extra-curriculars
+#### Extra-curriculars
 * Competitive Mathematics squad
 * Chess
 * Exploring the Blockchain
 * Football
 
-### Subjects
+#### Subjects
 * International Mathematics
 * Physics
 * Chemistry
