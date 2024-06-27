@@ -8,14 +8,29 @@ Outside my academic pursuits, I dedicate time to coding projects that challenge 
 
 ## Skills
 
-**Technical skills**: Python, MATLAB, R, MS Office Suite, LaTeX, C# 
+### Technical skills
+* Python
+* C# 
+* MATLAB
+* R
+* MS Office Suite
+* LaTeX
 
-**Language skills**: English (Native), Mandarin (Conversational), Malay (Conversational)
+### Language skills
+* English (Fluent)
+* Mandarin (Conversational)
+* Malay (Conversational)
 
-**Soft skills**: Creativity, Critical thinking, Problem solving, Problem analysis, Independence, Teamwork
+### Soft skills
+* Creativity,
+* Critical thinking
+* Problem solving
+* Problem analysis
+* Independence
+* Teamwork
 
 
-## Published Classical Physics Paper
+## Published Physics Paper
 
 #### Computational Double Pendulum (1<sup>st</sup>)
 [Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
