@@ -322,21 +322,21 @@ IGCSE (2020 to 2022)
 * Linear algebra applications in projection matrices and least squares
 * Linear algebra applications in complex matrices and fast Fourier transform
 * Linear algebra applications in graphs and networks 
-* Single variable calculus technqiues in approximation and graph sketching
-* Single variable calculus technqiues in optimization and related rates
-* Single variable calculus technqiues in solving differential equations
-* Single variable calculus technqiues in solving integral equations
+* Single variable calculus techniques in approximation and graph sketching
+* Single variable calculus techniques in optimization and related rates
+* Single variable calculus techniques in solving differential equations
+* Single variable calculus techniques in solving integral equations
 * Single variable calculus applications in finding areas and volumes
 * Single variable calculus applications in probability and numerical integration
-* Multivariable calculus technqiues in tangent optimization and approximation
-* Multivariable calculus technqiues in determining gradient and directional derivatives
-* Multivariable calculus technqiues in determining Lagrange multipliers and constrained differentials
-* Multivariable calculus technqiues in double integrals and line integrals in a 2-D plane
-* Multivariable calculus technqiues in triple integrals and line integrals in a 3-D plane
-* Multivariable calculus technqiues in solving first-order differential equations
-* Multivariable calculus technqiues in solving second-order differential equations
-* Multivariable calculus technqiues in solving Fourier series equations
-* Multivariable calculus technqiues in solving first-order systems
+* Multivariable calculus techniques in determining tangent optimization and approximation problems
+* Multivariable calculus techniques in determining gradient and directional derivatives problems 
+* Multivariable calculus techniques in determining Lagrange multipliers and constrained differentials
+* Multivariable calculus techniques in solving double integrals and line integrals in a 2-D plane
+* Multivariable calculus techniques in triple integrals and line integrals in a 3-D plane
+* Multivariable calculus techniques in solving first-order differential equations
+* Multivariable calculus techniques in solving second-order differential equations
+* Multivariable calculus techniques in solving Fourier series equations
+* Multivariable calculus techniques in solving first-order systems
 
 
 ### Engineering 
