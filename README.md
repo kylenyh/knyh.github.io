@@ -725,7 +725,7 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 
 
 ## Hobbies
-Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing chess
+Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing chess, Stock investment
 
 
 ## Achievements
