@@ -42,7 +42,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ## Education
 
-### [UCL](https://www.ucl.ac.uk/)
+### [UCL](https://www.ucl.ac.uk/) (1<sup>st</sup>)
 
 #### Qualification 
 Bachelor of Science - Crime and Security Science (2023 to 2026)
@@ -85,7 +85,7 @@ Department of Security and Crime Science, Department of Engineering
 
 
 
-### [University of Warwick](https://warwick.ac.uk/)
+### [University of Warwick](https://warwick.ac.uk/) (2<sup>nd</sup>)
 
 #### Qualification
 International Foundation Programme - Computer Science (2022 to 2023)
@@ -107,7 +107,7 @@ Department of Engineering
 * Inquiry and Research Skills
 
 
-### [St Joseph Instituition International School](https://www.sji-international.edu.my/)
+### [St Joseph Instituition International School](https://www.sji-international.edu.my/) (3<sup>rd</sup>)
 
 #### Qualification
 IGCSE (2020 to 2022)
