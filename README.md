@@ -42,7 +42,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 
 ## Education
 
-### [UCL](https://www.ucl.ac.uk/) (1<sup>st</sup>)
+### [University College London (UCL)](https://www.ucl.ac.uk/) (1<sup>st</sup>)
 
 #### Qualification 
 Bachelor of Science - Crime and Security Science (2023 to 2026)
