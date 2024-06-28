@@ -281,7 +281,7 @@ IGCSE (2020 to 2022)
 * Database applications in computing
 * Database design techniques in computing
 * Types of databases used in computing
-* Roles of databases used in computing
+* Roles of databases in computing
 * Principles of architecture systems in computing
 * Principles of cybersecurity in computing
 * Principles of hardware in computing
@@ -290,14 +290,57 @@ IGCSE (2020 to 2022)
 
 
 ### Mathematics
+* Mathematical analysis of limits, sequences, series, functions
+* Systems of linear equations and matrices in multi-dimensions
+* Principles of vector spaces and linear transformations 
+* Principles of modelling and data analysis
+* Principles of multi-dimensional vector calculus and differential operators
+* Principles of statistical interference and modelling in computers
+* Principles of statistical theory to develop and evaluate optimum statistical procedures 
+* Applications of group theory and rings
+* Lebesgue's theory of measure and integration in partial differential equations
+* Mathematical theory of analyzing complex model systems
+* Mathematical theory of analyzing formal mathematical structures in logic and set theory
+* Number theory and properties of natural numbers and prime numbers
+* Probability concepts of the joint behaviour of several random variables
+* Computational methods used to solve linear systems and other linear algebra computations
+* Computational methods used for solving partial differential equations and spectral methods
+* Computational methods used for the Monte Carlo methodology
+* Numerical solutions and methods for solving ordinary differential equations
+* Markov processes and modelling of random evolutions
+* Geometric analysis of complex numbers and 2-D problems in physics
+* Functional analysis of vector spaces and linear maps
+* Mathematics of Navier-Stokes derivation and simplification methods of fluid motion equations 
+* Mathematics of Navier-Stokes derivation and simplification methods of boundary layer equations
+* Mathematics of Newtonian mechanics and dynamics of forces, energy, momentum
+* Linear algebra techniques in simplifying matrices and systems of linear equations
+* Linear algebra applications in eigenvalues in eigenvectors
+* Linear algebra applications in Markov matrices and Fourier transform
+* Linear algebra applications in orthogonal vectors and subspaces
+* Linear algebra applications in orthogonal matrices and Gram-Schmidt
+* Linear algebra applications in projection matrices and least squares
+* Linear algebra applications in complex matrices and fast Fourier transform
+* Linear algebra applications in graphs and networks 
+* Single variable calculus technqiues in approximation and graph sketching
+* Single variable calculus technqiues in optimization and related rates
+* Single variable calculus technqiues in solving differential equations
+* Single variable calculus technqiues in solving integral equations
+* Single variable calculus applications in finding areas and volumes
+* Single variable calculus applications in probability and numerical integration
+* Multivariable calculus technqiues in tangent optimization and approximation
+* Multivariable calculus technqiues in determining gradient and directional derivatives
+* Multivariable calculus technqiues in determining Lagrange multipliers and constrained differentials
+* Multivariable calculus technqiues in double integrals and line integrals in a 2-D plane
+* Multivariable calculus technqiues in triple integrals and line integrals in a 3-D plane
+* Multivariable calculus technqiues in solving first-order differential equations
+* Multivariable calculus technqiues in solving second-order differential equations
+* Multivariable calculus technqiues in solving Fourier series equations
+* Multivariable calculus technqiues in solving first-order systems
+
 
 ### Engineering 
 
-* Cybersecurity
-* Linear algebra
-* Single variable calculus
-* Multivariable calculus
-* Differential equations
+
 * Probability & Statistics
 
 
@@ -333,7 +376,7 @@ IGCSE (2020 to 2022)
 * Advanced computational techniques
 * Advanced computational databases 
 
-## Python Projects
+## Notable Projects
 
 ### Python (Cryptography)
 
