@@ -386,7 +386,6 @@ IGCSE (2020 to 2022)
 [Snake Game Code](https://pym.dev/p/36vwz/)
 
 #### Chess Game (Python)
-
 * Simulated and added the AI Stockfish chess engine library to determine optimal moves and challenge players with varying difficulty levels
 * Difficulty cutomization level can be set accordingly by changing the skill level in the game to create challenge for players 
 * Used classes, lists, objects, data structures and file manipulations to simulate the game pieces, chess rules, score system and the chess board
@@ -394,26 +393,33 @@ IGCSE (2020 to 2022)
 
 **Libraries**: Pygame, Sys, Random, Os, Stockfish
 
-#### A* Algorithm - Personal (1<sup>st</sup>)
+#### A* Algorithm
+* Started with a priority queue to keep track of tentative distances from the start node to all other nodes
+* Implemented functions to find the shortest path between two points, considering various obstacles and optimizing the path based on cost functions
+* Used a heuristic function to estimate the cost of the cheapest path from node n to the goal
+* For each neighbor node, tenative g-score is calculated from the start node to find total cost
 
-Implemented through **Python**, this code focuses on the A* algorithm, which finds the **shortest path between two points**, considering various obstacles and optimizing the path based on **cost functions**. The algorithm combines features of **Dijkstra's algorithm** for the shortest path and the **Greedy Best-First-Search algorithm** to prioritize paths that seem more promising. 
+**Libraries**: No library used
 
 [A* Algorithm Code](https://pym.dev/p/2vvmd/)
 
-#### Dijkstra Algorithm - Personal (2<sup>nd</sup>)
+#### Dijkstra Algorithm 
+* Started with a priority queue to maintain nodes sorted by their tentative distance from the start node
+* Implemented a function that explores all reachable nodes from the start node, considering them in order of their distance from the start
+* Function selects the node with the smallest tentative distance and updates the distances to its neighbors until all nodes have been processed or the priority queue is empty
 
-Implemented through **Python**, this code is a practical implementation of the Dijkstra algorithm used for finding the **shortest paths between nodes** in a graph. The algorithm showcases how to efficiently traverse a graph, represented as **weighted edges between nodes**, to find the **minimum distance from a starting point** to all other points in the graph. 
+**Libraries**: No library used
 
 [Dijkstra Algorithm Code](https://pym.dev/p/2dsrj/)
 
-#### Bellman Ford Algorithm - Personal (9<sup>th</sup>)
+#### Bellman Ford Algorithm 
+* Implemented a code which initializes distances from the source node to all other nodes as infinity, except for the source node itself which is set to 0
+* Implemented a function that updates the shortest path distances if a shorter path through a node is found
+* Iterates through all edges multiple times, adjusting the shortest path estimates by considering each edge's weight
 
-Implemented through **Python**, this code implements the Bellman Ford algorithm to find the **shortest path distances** from a single source vertex to all other vertices in a weighted directed graph, including graphs with **negative weight edges**. It initializes distances from the source as zero and all others as infinity, then iteratively relaxes all edges V-1 times, where V is the number of vertices. This ensures the shortest paths are found if no negative cycles exist. After these iterations, the algorithm checks for **negative weight cycles**, indicating if no consistent solution for shortest paths can be defined. 
+**Libraries**: No library used
 
 [Bellman Ford Algorithm Code](https://pym.dev/p/39xjt/)
-
-
-### Python (Crime Analysis)
 
 #### Crime Data Collection Survey - Associated with UCL (1<sup>st</sup>)
 
@@ -437,11 +443,7 @@ density estimations on crime locations by neighbourhood searched.
 [Tasks 1 - 6 Code](https://pym.dev/p/2vwr4/)
 [Tasks 6 - 8 Code](https://pym.dev/p/2exbg/)
 
-#### Jupyter Crime Survey Dataset Analysis Report UK - Associated with UCL (3<sup>rd</sup>)
 
-Implemented through **Python**, this project involves analyzing public fear of crime in England and Wales using the 2013/14 CSEW data. The report provides clear, non-technical explanations of statistical findings for government policymakers, incorporating transparency for data scrutiny. It presents the extent of worry about crime and its correlation with various factors across measurement types, using a maximum of five meaningful graphics.
-
-**Libraries**: Numpy, Matplotlib, Pandas, Seaborn, SciPy
 
 
 
