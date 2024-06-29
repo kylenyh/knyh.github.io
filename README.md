@@ -412,7 +412,7 @@ IGCSE (2020 to 2022)
 
 [Dijkstra Algorithm Code](https://pym.dev/p/2dsrj/)
 
-#### Bellman Ford Algorithm 
+#### Bellman Ford Algorithm (Python) 
 * Implemented a code which initializes distances from the source node to all other nodes as infinity, except for the source node itself which is set to 0
 * Implemented a function that updates the shortest path distances if a shorter path through a node is found
 * Iterates through all edges multiple times, adjusting the shortest path estimates by considering each edge's weight
