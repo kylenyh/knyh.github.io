@@ -48,7 +48,7 @@ Wrote my first physics paper that presents the logic and analysis of a double pe
 Bachelor of Science - Crime and Security Science (2023 to 2026)
 
 #### Departments
-Department of Security and Crime Science, Department of Engineering
+Department of Security and Crime Science, Department of Engineering Sciences 
 
 #### Societies
 * UCL Artificial Intelligence Society
@@ -340,45 +340,39 @@ IGCSE (2020 to 2022)
 
 
 ### Engineering 
+* Principles of electrical engineering
+* Computer modelling techniques used to solve and evaluate the performance of engineering systems
+* Kirchhoff’s current and voltage laws to calculate currents and voltages
+* The concept of power in AC and DC circuits in real transformers and other circuits
+* The concept of linearity and time-invariance in electrical circuits
+* Design issues in building multistage amplifiers with desired gain and bandwidth
+* Basic mathematical tools in signals and systems analysis
+* Basic elements of digital communications systems and electrical circuits 
+* Principles of electronic engineering 
+* Analysis and modelling of simple control systems 
+* Physical principles, operating parameters and small signal analysis of BJT and MOSFET
+* Internal architecture of a typical microprocessor system
+* Relationship between assembly language and machine code
+* The function of flip-flops, registers and memory, applications in sequential logic circuits.
+* Description and analysis of electromagnetic fields applied electronic engineering
+* Electrical properties of semiconductors controlled and used in electronic device
+* Quantitative mathematical, scientific and engineering tools to the analysis of communications-related problems
+* Design circuits and systems to implement communications systems and sub-systems
+* Principles underlying communications systems and information theory
+* Analysis and design of high frequency electronic systems and components
+* Formation, electrostatics and transport of metal-semiconductor contacts
+* Formation, electrostatics and transport of metal-oxide-semiconductor contacts
+* Structure and characteristics of light-emitting diodes and semiconductor lasers
+* Analysis of high-frequency response in discrete and integrated amplifiers
+* Analysis of low-frequency response in discrete-circuit amplifiers
+* Analysis and design of opto-electronics sytstems and optical communications systems
+* Analysis and design of photonic systems and sub-systems
+* Principles of analogue and digital electronics and associated components
+* Principles of analogue and digital signals and systems
+* Principles of single-stage MOS amplifiers
+* Principles of differential MOS amplifiers
 
 
-### Crime and Security Science
-
-
-* Probability & Statistics
-
-
-
-* Electrical engineering
-* Electronic engineering 
-* Mechanical engineering 
-* Nuclear engineering
-* Cryptography engineering
-* Privacy engineering
-* Systems performance engineering
-* Computer systems engineering
-
-
-* Advanced computer architecture
-* Advanced computer security
-* Advanced network and web security
-* Advanced computer graphics
-* Advanced program analysis
-* Advanced scalable software verification
-* Advanced logic based learning
-* Advanced robot learning
-* Advanced deep graph based learning
-* Advanced human robot interaction
-* Advanced custom computing
-* Advanced distributed algorithms
-* Advanced computer vision
-* Advanced probabilistic interference
-* Advanced networks and communications systems
-* Advanced models of computation
-* Advanced computer algorithm design and analysis
-* Advanced image processing
-* Advanced computational techniques
-* Advanced computational databases 
 
 ## Notable Projects
 
