@@ -373,36 +373,26 @@ IGCSE (2020 to 2022)
 * Principles of differential MOS amplifiers
 
 
+## Projects
 
-## Notable Projects
-
-### Python (Cryptography)
-
-### Python (Quantum Computing)
-
-#### Schor's Algorithm - Personal (1<sup>st</sup>)
-
-#### Deutsch's Algorithm - Personal (2<sup>nd</sup>)
-
-#### Deutsch - Jozsa's Algorithm - Personal (3<sup>rd</sup>)
-
-### Python (Game Simulation)
-
-#### Snake Game - Associated with University of Warwick (1<sup>st</sup>)
-
-Implemented through **Python**, this snake game involves implementing game logic to control the snake's movement, grow its length upon consuming food and causing the snake to die if its tail touches its body. It focuses on loops, conditionals, and data structure manipulation. The development process includes designing a user interface, creating game mechanics and incorporating a score system. 
+#### Snake Game (Python)
+* Implemented game logic to control the snake's movement, grow its length upon consuming food and die when tail touches its body
+* Used loops, conditional statements, classes, objects and data structures for the snake, food, game window and game score system 
+* Added a grid system to track the snake's movement in the game and food object random placement
+* Made a few changes to the game by allowing to snake to move through the walls without dying 
 
 **Libraries**: Math, Pygame 
 
 [Snake Game Code](https://pym.dev/p/36vwz/)
 
-#### Chess Game - Personal (2<sup>nd</sup>)
+#### Chess Game (Python)
 
-Implemented through **Python**, this chess engine game integrates the powerful Stockfish engine to determine optimal moves, enhancing the AI's ability to challenge players with varying difficulty levels. Players can compete against the AI with customizable depth and ELO settings, ensuring a tailored gaming experience from novice to advanced skill levels. The game features intuitive controls, allowing players to make moves by clicking on the board and provides visual feedback on the game's state, including valid moves and checkmate situations.
+* Simulated and added the AI Stockfish chess engine library to determine optimal moves and challenge players with varying difficulty levels
+* Difficulty cutomization level can be set accordingly by changing the skill level in the game to create challenge for players 
+* Used classes, lists, objects, data structures and file manipulations to simulate the game pieces, chess rules, score system and the chess board
+* Game includes a game move tracker which records every move made by the player 
 
 **Libraries**: Pygame, Sys, Random, Os, Stockfish
-
-### Python (Graph Theory)
 
 #### A* Algorithm - Personal (1<sup>st</sup>)
 
@@ -416,29 +406,12 @@ Implemented through **Python**, this code is a practical implementation of the D
 
 [Dijkstra Algorithm Code](https://pym.dev/p/2dsrj/)
 
-#### Floyd Warshall Algorithm - Personal (3<sup>rd</sup>)
-
-#### Kruskall Algorithm - Personal (4<sup>th</sup>)
-
-#### Dial Algorithm - Personal (5<sup>th</sup>)
-
-#### Johnson Algorithm - Personal (6<sup>th</sup>)
-
-#### Kosaraju Algorithm - Personal (7<sup>th</sup>)
-
-#### Tarjan Algorithm - Personal (8<sup>th</sup>)
-
 #### Bellman Ford Algorithm - Personal (9<sup>th</sup>)
 
 Implemented through **Python**, this code implements the Bellman Ford algorithm to find the **shortest path distances** from a single source vertex to all other vertices in a weighted directed graph, including graphs with **negative weight edges**. It initializes distances from the source as zero and all others as infinity, then iteratively relaxes all edges V-1 times, where V is the number of vertices. This ensures the shortest paths are found if no negative cycles exist. After these iterations, the algorithm checks for **negative weight cycles**, indicating if no consistent solution for shortest paths can be defined. 
 
 [Bellman Ford Algorithm Code](https://pym.dev/p/39xjt/)
 
-#### Breadth First Search Algorithm - Personal (10<sup>th</sup>)
-
-#### Depth First Search Algorithm - Personal (11<sup>th</sup>)
-
-### Python (Computational Physics)
 
 #### Double Pendulum - Personal (1<sup>st</sup>)
 
