@@ -24,7 +24,7 @@ Outside my academic pursuits, I dedicate time to coding projects that challenge 
 * Malay (Conversational)
 
 #### Soft skills
-* Creativity,
+* Creativity
 * Critical thinking
 * Problem solving
 * Problem analysis
