@@ -413,14 +413,6 @@ Implemented through **Python**, this code implements the Bellman Ford algorithm 
 [Bellman Ford Algorithm Code](https://pym.dev/p/39xjt/)
 
 
-#### Double Pendulum - Personal (1<sup>st</sup>)
-
-Implemented through **Python**, this project explores the principles and dynamics of a chaotic double pendulum system through simulation. Utilizing **Pygame** and **Physics**, it visualizes the unpredictable motion of a pendulum with two segments. This project not only demonstrates complex physics principles but also serves as a hands-on approach to learning about **differential equations**, **energy conservation**, and **chaos theory**.
-
-**Libraries**: Math, Pygame
-
-[Double Pendulum Code](https://pym.dev/p/39qee/)
-
 ### Python (Crime Analysis)
 
 #### Crime Data Collection Survey - Associated with UCL (1<sup>st</sup>)
