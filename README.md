@@ -332,7 +332,7 @@ IGCSE (2020 to 2022)
 * Multivariable calculus techniques in determining gradient and directional derivatives problems 
 * Multivariable calculus techniques in determining Lagrange multipliers and constrained differentials
 * Multivariable calculus techniques in solving double integrals and line integrals in a 2-D plane
-* Multivariable calculus techniques in triple integrals and line integrals in a 3-D plane
+* Multivariable calculus techniques in solving triple integrals and line integrals in a 3-D plane
 * Multivariable calculus techniques in solving first-order differential equations
 * Multivariable calculus techniques in solving second-order differential equations
 * Multivariable calculus techniques in solving Fourier series equations
