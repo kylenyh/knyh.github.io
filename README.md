@@ -375,7 +375,9 @@ IGCSE (2020 to 2022)
 
 ## Projects
 
-#### Snake Game (Python)
+### Python
+
+#### Snake Game
 * Implemented game logic to control the snake's movement, grow its length upon consuming food and die when tail touches its body
 * Used loops, conditional statements, classes, objects and data structures for the snake, food, game window and game score system 
 * Added a grid system to track the snake's movement in the game and food object random placement
@@ -385,7 +387,7 @@ IGCSE (2020 to 2022)
 
 [Snake Game Code](https://pym.dev/p/36vwz/)
 
-#### Chess Game (Python)
+#### Chess Game
 * Simulated and added the AI Stockfish chess engine library to determine optimal moves and challenge players with varying difficulty levels
 * Difficulty cutomization level can be set accordingly by changing the skill level in the game to create challenge for players 
 * Used classes, lists, objects, data structures and file manipulations to simulate the game pieces, chess rules, score system and the chess board
@@ -393,7 +395,7 @@ IGCSE (2020 to 2022)
 
 **Libraries**: Pygame, Sys, Random, Os, Stockfish
 
-#### A* Algorithm (Python)
+#### A* Algorithm
 * Started with a priority queue to keep track of tentative distances from the start node to all other nodes
 * Implemented functions to find the shortest path between two points, considering various obstacles and optimizing the path based on cost functions
 * Used a heuristic function to estimate the cost of the cheapest path from node n to the goal
@@ -403,7 +405,7 @@ IGCSE (2020 to 2022)
 
 [A* Algorithm Code](https://pym.dev/p/2vvmd/)
 
-#### Dijkstra Algorithm (Python)
+#### Dijkstra Algorithm 
 * Started with a priority queue to maintain nodes sorted by their tentative distance from the start node
 * Implemented a function that explores all reachable nodes from the start node, considering them in order of their distance from the start
 * Function selects the node with the smallest tentative distance and updates the distances to its neighbors until all nodes have been processed or the priority queue is empty
@@ -412,7 +414,7 @@ IGCSE (2020 to 2022)
 
 [Dijkstra Algorithm Code](https://pym.dev/p/2dsrj/)
 
-#### Bellman Ford Algorithm (Python) 
+#### Bellman Ford Algorithm
 * Implemented a code which initializes distances from the source node to all other nodes as infinity, except for the source node itself which is set to 0
 * Implemented a function that updates the shortest path distances if a shorter path through a node is found
 * Iterates through all edges multiple times, adjusting the shortest path estimates by considering each edge's weight
@@ -421,22 +423,25 @@ IGCSE (2020 to 2022)
 
 [Bellman Ford Algorithm Code](https://pym.dev/p/39xjt/)
 
-#### Crime Data Collection Survey - Associated with UCL (1<sup>st</sup>)
-
-Implemented through **Python**, this project involves designing and implementing a phone snatching survey system to **gather and analyze data** from the survey. The project integrates various libraries to efficiently **collect**, **store** and **process survey responses**, aiming to provide insights into **crime patterns**. Through a user-friendly interface, participants can submit information anonymously, contributing to a comprehensive database that supports academic research and helps inform public safety strategies.
+#### Crime Data Collection Survey
+* Designed and implemented functions, lists and dictionaries to gather and analyze data on crime incidents
+* Developed an intuitive interface allowing participants to anonymously submit information
+* Contributed to a database supporting academic research and informing public safety strategies
+* Aimed to provide insights into crime patterns through comprehensive data analysis with graphs and scatter plots
 
 [Dataset Text File](https://pym.dev/p/2w5ke/)
 [Data Fill Code](https://pym.dev/p/22uz8/)
 [Data Evaluation Code](https://pym.dev/p/29xdn/)
 [Data Dictionaries Code](https://pym.dev/p/39pxb/)
 
+**Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas, Seaborn, SciPy, Random, Math
 
 
-
-#### Crime Data Analysis of UK Neighborhoods - Associated with UCL (2<sup>nd</sup>)
-
-Implemented through **Python**, this project provides an interface that retrieves information on crimes by neighbourhood during a specified year and month. The interface also produces statistical summaries, data visualisation and kernel
-density estimations on crime locations by neighbourhood searched.
+#### Crime Data Analysis of UK Neighborhoods
+* Developed an interface to retrieve crime information by neighborhood for specified year and month
+* Enabled users to access detailed crime data for specific neighborhoods
+* Integrated data visualization tools to illustrate crime patterns
+* Applied kernel density estimations to analyze crime locations within neighborhoods
 
 **Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas, Seaborn
 
@@ -446,31 +451,19 @@ density estimations on crime locations by neighbourhood searched.
 
 
 
+### MATLAB
 
+#### Gaussian elimination on systems of linear equations
+* Utilized row operations to transform matrices into upper triangular form
+* Facilitated easier variable solving through back substitution
+* Implemented matrix elimination to transition matrices from reduced echelon form to row reduced echelon form
+* Improved the efficiency and accuracy of solving linear systems with this algorithm
 
-
-
-
-## MATLAB Projects
-
-### MATLAB (Linear Algebra)
-
-#### Gaussian elimination - Personal (1<sup>st</sup>)
-
-Developed a **MATLAB** algorithm Gaussian elimination in solving **systems of linear equations**. It involves using row operations to transform the system's matrix into an **upper triangular form**, making it easier to solve for the variables through back substitution. It is also a procedure in matrix elimination to transform a matrix from its **reduced echelon form** to its **row reduced ecehelon form**. 
-
-#### Gauss-Jordan elimination - Personal (2<sup>nd</sup>)
-
-Developed a **MATLAB** algorithm in solving **systems of linear equations**, showcasing the ability to programmatically implement one of the most fundamental algorithms in linear algebra. This project encapsulates the development of a script capable of transforming any given matrix into its **reduced row echelon form**, thereby finding **solutions to linear equations** efficiently. 
-
-#### Matrix decomposition A = LU - Personal (3<sup>rd</sup>)
-
-Developed a **MATLAB** algorithm, which focuses on ecomposing a given **square matrix A** into the product of a **lower triangular matrix L** and an **upper triangular matrix U**. This decomposition is essential in numerical analysis for **solving linear equations**, **inverting matrices** and **computing determinants** efficiently.
-
-#### Homogenous equation Ax = 0 - Personal (4<sup>th</sup>)
-
-Developed a **MATLAB** algorithm, which focuses on **solving homogeneous linear equations** using various matrix decomposition techniques. This project focuses on the mathematical foundation and implementation of methods like **Gaussian elimination**, **Gauss-Jordan elimination** and **LU decomposition** to find the solution space of the system.
-
+#### Gauss-Jordan elimination on systems of linear equations
+* Ensured each row's first non-zero entry (from left to right) is one, creating leading ones
+* Use row operations to transform the matrix, including row swapping, scaling, and adding/subtracting rows
+* Transformed the matrix into RREF, where solutions to the linear system can be easily identified
+* Enhanced the process of finding solutions with improved automation and accuracy
 
 
 ### MATLAB (Single Variable Calculus)
@@ -479,73 +472,67 @@ Developed a **MATLAB** algorithm, which focuses on **solving homogeneous linear 
 
 ### MATLAB (Differential Equations)
 
-### First order differential equations - Personal (1<sup>st</sup>)
+### First order differential equations 
 
-### Second order differential equations - Personal (2<sup>nd</sup>)
+### Second order differential equations 
 
-### Partial differential equations - Personal (3<sup>rd</sup>)
-
-
+### Partial differential equations
 
 
 
 
-## R Projects
 
-### R (Crime Mapping)
 
-#### First Density Map Of Thefts - Associated with UCL (1<sup>st</sup>)
+### R 
 
-Used **R** to generate a density map illustrating thefts from vehicles in Vancouver throughout 2020. It utilizes crime data sourced from a specified CSV file, integrates a suitable base map, and overlays Vancouver's neighborhood boundaries and names for contextualization. The resulting map visually represents the spatial distribution of thefts from vehicles, aiding in the identification of hotspots and informing potential crime prevention strategies.
-
-**Libraries**: ggspatial, sf, sfhotspot, tidyverse
-
-#### A Density Map Of Fatal Shootings - Associated with UCL (2<sup>nd</sup>)
-
-Used **R** to generate a density map illustrating fatal shootings in New York City throughout 2019, utilizing crime data sourced from a specified CSV file. It incorporates NYPD precinct boundaries to provide spatial context and overlays the precinct numbers on the map, facilitating a clearer understanding of the distribution of fatal shootings across the city. The map aids in visualizing the concentration of fatal incidents and can inform law enforcement strategies and community engagement efforts aimed at addressing gun violence in New York City.
+#### A Density Map Of Vehicle Thefts 
+* Generated a density map illustrating thefts from vehicles in Vancouver throughout 2020, using crime data from a CSV file
+* Integrated a base map and overlaid Vancouver's neighborhood boundaries and names for clear contextualization
+* Visually represented the spatial distribution of thefts, aiding in hotspot identification and informing crime prevention strategies
 
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
-#### Incidence Rate Map Of Stalking Incidents - Associated with UCL (3<sup>rd</sup>)
+#### A Density Map Of Fatal Shootings 
+* Generated a density map illustrating fatal shootings in New York City throughout 2019, based on crime data from a CSV file
+* Incorporated NYPD precinct boundaries and overlaid precinct numbers on the map for enhanced spatial context
+* Visualized the concentration of fatal incidents to inform law enforcement strategies and community engagement efforts aimed at addressing gun violence
 
-Used **R** to generate a choropleth map depicting the incidence rate of stalking incidents in each police division across Queensland in 2018. By integrating stalking counts and population data for each division, the map offers insights into the relative prevalence of stalking crimes, aiding in identifying areas of heightened concern. Additionally, the map can display the names of the top 10 divisions with the highest stalking rates, providing further information to guide policy-making and resource allocation efforts.
+**Libraries**: ggspatial, sf, sfhotspot, tidyverse
+
+#### Incidence Rate Map Of Stalking Incidents 
+* Created a choropleth map showing stalking incident rates across Queensland police divisions in 2018, integrating incident counts and population data
+* Provided insights into the relative prevalence of stalking crimes, highlighting areas of heightened concern
+* Identified and displayed the names of the top 10 divisions with the highest stalking rates to guide policy-making and resource allocation
 
 **Libraries**: leaflet, sf, readxl, tidyverse
 
-#### Second Density Map Of Thefts - Associated with UCL (4<sup>th</sup>)
-
-Used **R** to generate a a density map illustrating the prevalence of two-wheeled vehicle theft specifically within Prague in 2022. By utilizing kernel density estimation (KDE) and statistically significant hotspots, the map highlights areas of heightened criminal activity, offering valuable insights for law enforcement and urban planning strategies. To ensure accuracy, the crime data is clipped to the city boundary of Prague, providing a focused analysis tailored to the city's geographic extent.
+#### Second Density Map Of Thefts 
+* Created a density map depicting two-wheeled vehicle theft prevalence in Prague during 2022
+* Used KDE to identify statistically significant hotspots, pinpointing areas of heightened criminal activity
+* Ensured accuracy by limiting crime data to Prague's city boundary, offering insights crucial for law enforcement and urban planning strategies
 
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
-#### Quarto Report of Crimes Types in Japan - Associated with UCL (5<sup>th</sup>)
-
-Produced a Quarto report in **R**, to analyze violent crime incidence rates across prefectures in Japan and examine the highest rates for each type of violent crime. The report presents the variation of crime rates among prefectures and explores the relationship between violent crime rates and average income, represented by gross domestic product per capita. Utilizing data from a dataset, the report employs descriptive statistics and visualizations to elucidate patterns and insights relevant to crime trends and socioeconomic factors at the prefecture level.
+#### Quarto Report of Crimes Types in Japan 
+* Created a Quarto report in R to analyze violent crime incidence rates across prefectures in Japan
+* Utilized descriptive statistics and visualizations to examine variations in crime rates and their relationship with gross domestic product per capita
+* Explored patterns and insights regarding crime trends and socioeconomic factors at the prefecture level through data analysis and visualization
 
 **Libraries**: ggbeeswarm, ggrepel, gt, rvest, tidyverse
 
-#### Quarto Report of Crimes Types in South West BCU London - Associated with UCL (6<sup>th</sup>)
-
-Produced a Quarto report in **R**, to analyze certain crime types within the South West BCU of London. The report identifies key crime types and high-risk areas within the BCU, utilizing visual representation through a table, maps and charts for each chosen crime. Recommendations are provided for the tasking team's deployment, focusing on prioritizing significant crime problems and patrol areas. The analysis is data-driven, ensuring that resource allocation is effectively aligned with current crime trends and geographic hotspots within the South West BCU.
-
-**Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
-
-#### Quarto Report of Crimes Types in West BCU London - Associated with UCL (6<sup>th</sup>)
-
-Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area Basic Command Unit (BCU) to assess the effectiveness of police targeting and deployment. It identifies priority crime types and hotspots for the Local Tasking Team, calculates vehicle theft incidence rates by ward to assist in community collaboration and explores the link between deprivation and violent and sexual crime rates to support potential government funding applications. Limitations of the data are also discussed to acknowledge their impact on the conclusions drawn.
+#### Quarto Report of Crimes Types in South West BCU London 
+* Created a detailed report in R analyzing specific crime types within the South West BCU of London
+* Utilized tables, maps, and charts to visually represent key crime types and high-risk areas
+* Provided data-driven recommendations for tasking team deployment, focusing on prioritizing crime problems and patrol areas based on current trends and geographic hotspots in the South West BCU
 
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
+#### Quarto Report of Crimes Types in West BCU London 
+* Created a Quarto report in R to analyze 2022 crime data for the West Area Basic Command Unit (BCU)
+* Identified priority crime types and hotspots for the Local Tasking Team, focusing on vehicle theft incidence rates by ward
+* Examined the relationship between deprivation levels and rates of violent and sexual crimes to inform potential government funding applications, while acknowledging limitations of the data
 
-
-
-
-
-
-## C# Projects
-
-### C# ()
-
+**Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
 
 
@@ -677,11 +664,11 @@ Produced a Quarto report in **R**, to analyze 2022 crime data for the West Area 
 * Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XXI - XXIV (Not Started)
 
 #### Harvard CS50
-* [Harvard CS50’s Introduction to Programming with Python – Full University Course](https://youtu.be/nLRL_NcnK-4?t=27266)
-* [Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://youtu.be/5NgNicANyqM?t=19)
-* [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://youtu.be/vzGllw18DkA?t=2)
-* [Harvard CS50 (2023) – Full Computer Science University Course](https://youtu.be/LfaMVlDaQ24?t=6)
-* [Harvard CS50 (2022) – Full Computer Science University Course](https://youtu.be/8mAITcNt710?t=19)
+* [Harvard CS50’s Introduction to Programming with Python – Full University Course](https://youtu.be/nLRL_NcnK-4?t=27266) (Completed)
+* [Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://youtu.be/5NgNicANyqM?t=19) (Completed)
+* [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://youtu.be/vzGllw18DkA?t=2) (Completed)
+* [Harvard CS50 (2023) – Full Computer Science University Course](https://youtu.be/LfaMVlDaQ24?t=6) (Completed)
+* [Harvard CS50 (2022) – Full Computer Science University Course](https://youtu.be/8mAITcNt710?t=19) (Completed)
 
 
 
