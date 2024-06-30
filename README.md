@@ -353,7 +353,7 @@ IGCSE (2020 to 2022)
 * Physical principles, operating parameters and small signal analysis of BJT and MOSFET
 * Internal architecture of a typical microprocessor system
 * Relationship between assembly language and machine code
-* The function of flip-flops, registers and memory, applications in sequential logic circuits.
+* The function of flip-flops, registers and memory, applications in sequential logic circuits
 * Description and analysis of electromagnetic fields applied electronic engineering
 * Electrical properties of semiconductors controlled and used in electronic device
 * Quantitative mathematical, scientific and engineering tools to the analysis of communications-related problems
