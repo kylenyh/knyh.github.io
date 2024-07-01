@@ -664,7 +664,6 @@ IGCSE (2020 to 2022)
 * Introduction To Probability And Statistics, Spring 2022: Unit III (Not Started)
 * Introduction To Probability And Statistics, Spring 2022: Unit IV (Not Started)
 
-
 [**MIT Computer Science and Programming (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * Introduction To Computer Science And Programming In Python, Fall 2016: Unit I - VI (Completed)
 * Introduction To Computer Science And Programming In Python, Fall 2016: Unit VII - XII (Completed)
@@ -684,8 +683,15 @@ IGCSE (2020 to 2022)
 [**MIT Computer Science and Algorithms (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 * Introduction To Algorithms, Fall 2016: Unit I - V (Not Started)
 * Introduction To Algorithms, Fall 2016: Unit VI - X (Not Started)
-* Introduction To Algorithms, Fall 2016: Unit XI - XV (Not Started)\
+* Introduction To Algorithms, Fall 2016: Unit XI - XV (Not Started)
 * Introduction To Algorithms, Fall 2010: Unit XVI - XX (Not Started)
+
+[**MIT Computer Science and Network Models (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/1-022-introduction-to-network-models-fall-2018/)
+* Introduction To Network Models, Fall 2018: Unit I - V (Not Started)
+* Introduction To Network Models, Fall 2018: Unit VI - X (Not Started)
+* Introduction To Network Models, Fall 2018: Unit XI - XV (Not Started)
+* Introduction To Network Models, Fall 2018: Unit XVI - XX (Not Started)
+* Introduction To Network Models, Fall 2018: Unit XXI - XXIV (Not Started)
 
 [**MIT Computer Science and Quantum Computing (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/)
 * Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit I - V (Not Started)
