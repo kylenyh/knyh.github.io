@@ -1,6 +1,6 @@
 
 
-## Profile Summary
+## Profile
 
 My academic and professional interests converge at the nexus of **physics**, **engineering**, **cybersecurity** and **computer science**, exploring how technological and engineering advancements can bolster security measures and strategies against crime. From a scientific and technological perspective, my interests lie in the physics of nuclear weapons, the physics of particle accelerators, the physics of quantum computers, the physics of quantum many-body systems, the mathematics of Fourier transform and Markoc processes, the mathematics of matrices, the mathematics of differential calculus, the achitecture of network and communication systems, the achitecture of computer hardware, the architecture of matrix structures in graph-networks.
 
@@ -658,7 +658,12 @@ IGCSE (2020 to 2022)
 * Differential Equations, Fall 2011: Unit III (Not Started)
 * Differential Equations, Fall 2011: Unit IV (Not Started)
 
-[**MIT Introduction To Probability And Statistics (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/pages/syllabus/)
+[**MIT Introduction To Probability And Statistics (Dept of Mathematics)**](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
+* Introduction To Probability, Spring 2022: Part I (Not Started)
+* Introduction To Probability, Spring 2022: Part II (Not Started)
+* Introduction To Probability, Spring 2022: Part III (Not Started)
+
+[**MIT Introduction To Probability (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)
 * Introduction To Probability And Statistics, Spring 2022: Unit I (Not Started)
 * Introduction To Probability And Statistics, Spring 2022: Unit II (Not Started)
 * Introduction To Probability And Statistics, Spring 2022: Unit III (Not Started)
