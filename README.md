@@ -1,6 +1,6 @@
 
 
-## Profile
+## Profile Summary
 
 My academic and professional interests converge at the nexus of **physics**, **engineering**, **cybersecurity** and **computer science**, exploring how technological and engineering advancements can bolster security measures and strategies against crime. From a scientific and technological perspective, my interests lie in the physics of nuclear weapons, the physics of particle accelerators, the physics of quantum computers, the physics of quantum many-body systems, the mathematics of Fourier transform and Markoc processes, the mathematics of matrices, the mathematics of differential calculus, the achitecture of network and communication systems, the achitecture of computer hardware, the architecture of matrix structures in graph-networks.
 
@@ -8,7 +8,7 @@ Outside my academic pursuits, I dedicate time to coding projects that challenge 
 
 
 
-## Skills
+## Skill Building
 
 #### Technical skills
 * Python
