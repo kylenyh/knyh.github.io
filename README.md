@@ -30,6 +30,7 @@ Outside my academic pursuits, I dedicate time to coding projects that challenge 
 * Problem analysis
 * Independence
 * Teamwork
+* Writing
 
 
 ## Published Physics Paper
