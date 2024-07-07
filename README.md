@@ -540,7 +540,7 @@ IGCSE (2020 to 2022)
 
 
 
-## Certifications
+## Courses (Certifications)
 
 #### MATLAB
 * [Mathworks - Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=99632912-8f58-4cab-a76c-9459d2555c5d&)
@@ -568,7 +568,7 @@ IGCSE (2020 to 2022)
 
 
 
-## Courses (Self-Learn)
+## Additional Courses (Self-Learn)
 
 #### MIT OpenCourseWare
 
