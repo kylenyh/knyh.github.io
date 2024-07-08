@@ -725,4 +725,10 @@ Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing c
 
 ## Additional Resources
 
-
+1. https://github.com/Asabeneh/30-Days-Of-Python
+2. https://github.com/JSSpaulding/rcrimeanalysis.git
+3. https://bradleyboehmke.github.io/HOML/intro.html
+4. https://github.com/ossu/computer-science
+5. https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year2moduleguide2324.pdf
+6. https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year3moduleguide2324.pdf
+7. https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year4moduleguide23241v1.pdf
