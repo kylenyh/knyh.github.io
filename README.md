@@ -725,10 +725,10 @@ Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing c
 
 ## Additional Resources
 
-1. https://github.com/Asabeneh/30-Days-Of-Python
-2. https://github.com/JSSpaulding/rcrimeanalysis.git
-3. https://bradleyboehmke.github.io/HOML/intro.html
-4. https://github.com/ossu/computer-science
-5. https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year2moduleguide2324.pdf
-6. https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year3moduleguide2324.pdf
-7. https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year4moduleguide23241v1.pdf
+1. [Python](https://github.com/Asabeneh/30-Days-Of-Python)
+2. [Crime Mapping](https://github.com/JSSpaulding/rcrimeanalysis.git)
+3. [Machine Learning R](https://bradleyboehmke.github.io/HOML/intro.html)
+4. [Computer Science](https://github.com/ossu/computer-science)
+5. [Imperial M CS & Maths Y2](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year2moduleguide2324.pdf)
+6. [Imperial M CS & Maths Y3](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year3moduleguide2324.pdf)
+7. [Imperial M CS & Maths Y4](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year4moduleguide23241v1.pdf)
