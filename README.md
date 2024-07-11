@@ -396,6 +396,12 @@ IGCSE (2020 to 2022)
 
 **Libraries**: Pygame, Sys, Random, Os, Stockfish
 
+#### Tic-Tac-Toe Game (Game Development)
+
+#### Pong Game (Game Development)
+
+#### Pac-Man (Game Development)
+
 #### A* Algorithm (Graph Theory)
 * Started with a priority queue to keep track of tentative distances from the start node to all other nodes
 * Implemented functions to find the shortest path between two points, considering various obstacles and optimizing the path based on cost functions
@@ -415,7 +421,7 @@ IGCSE (2020 to 2022)
 
 [Dijkstra Algorithm Code](https://pym.dev/p/2dsrj/)
 
-#### Bellman Ford Algorithm (Graph Theory)
+#### Bellman-Ford Algorithm (Graph Theory)
 * Implemented a code which initializes distances from the source node to all other nodes as infinity, except for the source node itself which is set to 0
 * Implemented a function that updates the shortest path distances if a shorter path through a node is found
 * Iterates through all edges multiple times, adjusting the shortest path estimates by considering each edge's weight
@@ -423,6 +429,22 @@ IGCSE (2020 to 2022)
 **Libraries**: No library used
 
 [Bellman Ford Algorithm Code](https://pym.dev/p/39xjt/)
+
+#### Breadth First Search Algorithm (Graph Theory)
+
+#### Depth First Search Algorithm (Graph Theory)
+
+#### Floyd-Warshall Algorithm (Graph Theory)
+
+#### Johnson's Algorithm (Graph Theory)
+
+#### Kruskal's Algorithm (Graph Theory)
+
+#### Prim's Algorithm (Graph Theory)
+
+#### Kosaraju's Algorithm (Graph Theory)
+
+#### Tarjan's Algorithm (Graph Theory)
 
 #### Crime Data Collection Survey (Programming for Crime Scientists)
 * Designed and implemented functions, lists and dictionaries to gather and analyze data on crime incidents
@@ -530,9 +552,36 @@ IGCSE (2020 to 2022)
 
 #### L’Hospital’s Rule and Improper Integrals (Single Variable Calculus)
 
-### MATLAB (Multivariable Calculus)
+#### Calculating Dot and Cross Product of Vectors (Multivariable Calculus)
 
-### MATLAB (Differential Equations)
+#### Calculating Angle between Vectors (Multivariable Calculus)
+
+#### 2D Area Calculation Using Determinants (Multivariable Calculus)
+
+#### 3D Volume Calculation Using Determinants (Multivariable Calculus)
+
+#### Equation of a Plane from Points (Multivariable Calculus)
+
+#### Intersection of Planes from Points (Multivariable Calculus)
+
+#### Distance from Point to Plane (Multivariable Calculus)
+
+#### Matrix Operations Simulator (Multivariable Calculus)
+
+#### Transformation Matrices (Multivariable Calculus)
+
+#### Matrix Inverse Calculator (Multivariable Calculus)
+
+#### Planes Intersection using Matrices (Multivariable Calculus)
+
+#### Matrix Determinant Calculator (Multivariable Calculus)
+
+#### Cramer's Rule for Linear Systems (Multivariable Calculus)
+
+#### Eigenvalues and Eigenvectors (Multivariable Calculus)
+
+#### Least Squares Fitting (Multivariable Calculus)
+
 
 
 
