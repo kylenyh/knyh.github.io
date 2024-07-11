@@ -508,9 +508,9 @@ IGCSE (2020 to 2022)
 
 #### Integration by Parts (Single Variable Calculus)
 
-#### Integration by Inverse Substituition (Single Variable Calculus)
+#### Integration by Inverse Trigonometric Substituition (Single Variable Calculus)
 
-#### Integration by Trigononemetric Substituition (Single Variable Calculus)
+#### Integration by Trigonometric Substituition (Single Variable Calculus)
 
 #### Integration by Long Division (Single Variable Calculus)
 
