@@ -378,7 +378,7 @@ IGCSE (2020 to 2022)
 
 ### Python
 
-#### Snake Game
+#### Snake Game (Game Development)
 * Implemented game logic to control the snake's movement, grow its length upon consuming food and die when tail touches its body
 * Used loops, conditional statements, classes, objects and data structures for the snake, food, game window and game score system 
 * Added a grid system to track the snake's movement in the game and food object random placement
@@ -388,7 +388,7 @@ IGCSE (2020 to 2022)
 
 [Snake Game Code](https://pym.dev/p/36vwz/)
 
-#### Chess Game
+#### Chess Game (Game Development)
 * Simulated and added the AI Stockfish chess engine library to determine optimal moves and challenge players with varying difficulty levels
 * Difficulty cutomization level can be set accordingly by changing the skill level in the game to create challenge for players 
 * Used classes, lists, objects, data structures and file manipulations to simulate the game pieces, chess rules, score system and the chess board
@@ -396,7 +396,7 @@ IGCSE (2020 to 2022)
 
 **Libraries**: Pygame, Sys, Random, Os, Stockfish
 
-#### A* Algorithm
+#### A* Algorithm (Graph Theory)
 * Started with a priority queue to keep track of tentative distances from the start node to all other nodes
 * Implemented functions to find the shortest path between two points, considering various obstacles and optimizing the path based on cost functions
 * Used a heuristic function to estimate the cost of the cheapest path from node n to the goal
@@ -406,7 +406,7 @@ IGCSE (2020 to 2022)
 
 [A* Algorithm Code](https://pym.dev/p/2vvmd/)
 
-#### Dijkstra Algorithm 
+#### Dijkstra Algorithm (Graph Theory)
 * Started with a priority queue to maintain nodes sorted by their tentative distance from the start node
 * Implemented a function that explores all reachable nodes from the start node, considering them in order of their distance from the start
 * Function selects the node with the smallest tentative distance and updates the distances to its neighbors until all nodes have been processed or the priority queue is empty
@@ -415,7 +415,7 @@ IGCSE (2020 to 2022)
 
 [Dijkstra Algorithm Code](https://pym.dev/p/2dsrj/)
 
-#### Bellman Ford Algorithm
+#### Bellman Ford Algorithm (Graph Theory)
 * Implemented a code which initializes distances from the source node to all other nodes as infinity, except for the source node itself which is set to 0
 * Implemented a function that updates the shortest path distances if a shorter path through a node is found
 * Iterates through all edges multiple times, adjusting the shortest path estimates by considering each edge's weight
@@ -424,7 +424,7 @@ IGCSE (2020 to 2022)
 
 [Bellman Ford Algorithm Code](https://pym.dev/p/39xjt/)
 
-#### Crime Data Collection Survey
+#### Crime Data Collection Survey (Programming for Crime Scientists)
 * Designed and implemented functions, lists and dictionaries to gather and analyze data on crime incidents
 * Developed an intuitive interface allowing participants to anonymously submit information
 * Contributed to a database supporting academic research and informing public safety strategies
@@ -438,7 +438,7 @@ IGCSE (2020 to 2022)
 **Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas, Seaborn, SciPy, Random, Math
 
 
-#### Crime Data Analysis of UK Neighborhoods
+#### Crime Data Analysis of UK Neighborhoods (Programming for Crime Scientists)
 * Developed an interface to retrieve crime information by neighborhood for specified year and month
 * Enabled users to access detailed crime data for specific neighborhoods
 * Integrated data visualization tools to illustrate crime patterns
@@ -454,30 +454,85 @@ IGCSE (2020 to 2022)
 
 ### MATLAB
 
-#### Gaussian elimination on systems of linear equations
+#### Gaussian elimination on systems of linear equations (Linear Algebra)
 * Utilized row operations to transform matrices into upper triangular form
 * Facilitated easier variable solving through back substitution
 * Implemented matrix elimination to transition matrices from reduced echelon form to row reduced echelon form
 * Improved the efficiency and accuracy of solving linear systems with this algorithm
 
-#### Gauss-Jordan elimination on systems of linear equations
+#### Gauss-Jordan elimination on systems of linear equations (Linear Algebra)
 * Ensured each row's first non-zero entry (from left to right) is one, creating leading ones
 * Use row operations to transform the matrix, including row swapping, scaling, and adding/subtracting rows
 * Transformed the matrix into RREF, where solutions to the linear system can be easily identified
 * Enhanced the process of finding solutions with improved automation and accuracy
 
+#### Differentiation with Chain Rule (Single Variable Calculus)
 
-### MATLAB (Single Variable Calculus)
+#### Differentiation with Product Rule (Single Variable Calculus)
+
+#### Differentiation with Quotient Rule (Single Variable Calculus)
+
+#### Limits and Continuity of Functions (Single Variable Calculus)
+
+#### Implicit Differentiation and Inverse Functions (Single Variable Calculus)
+
+#### Linear and Quadratic Approximation (Single Variable Calculus)
+
+#### Graph Sketching Exponential Functions (Single Variable Calculus)
+
+#### Graph Sketching Logarithmic Functions (Single Variable Calculus)
+
+#### Graph Sketching Quadratic Functions (Single Variable Calculus)
+
+#### Graph Sketching Linear Functions (Single Variable Calculus)
+
+#### Graph Sketching Modulus Functions (Single Variable Calculus)
+
+#### Graph Sketching Polynomial Functions (Single Variable Calculus)
+
+#### Graph Sketching Trigonometric Functions (Single Variable Calculus)
+
+#### Graph Sketching Inverse Trigonometric Functions (Single Variable Calculus)
+
+#### Graph Sketching Hyperbolic Functions (Single Variable Calculus)
+
+#### Graph Sketchin Inverse Hyperbolic Functions (Single Variable Calculus)
+
+#### Optimization Problem Solver (Single Variable Calculus)
+
+#### Related Rates Problem Solver (Single Variable Calculus)
+
+#### Newton Method Problem Solver (Single Variable Calculus)
+
+#### Mean Value Theorem Method Problem Solver (Single Variable Calculus)
+
+#### Integration by Parts (Single Variable Calculus)
+
+#### Integration by Inverse Substituition (Single Variable Calculus)
+
+#### Integration by Trigononemetric Substituition (Single Variable Calculus)
+
+#### Integration by Long Division (Single Variable Calculus)
+
+#### Integration by Partial Fractions (Single Variable Calculus)
+
+#### Integration by Polar Coordinates (Single Variable Calculus)
+
+#### Integration by Arc Length (Single Variable Calculus)
+
+#### Power Series Expansion (Single Variable Calculus)
+
+#### Maclaurin Series Expansion (Single Variable Calculus)
+
+#### Infinite Series Expansion (Single Variable Calculus)
+
+#### Comparison of Series and Integrals (Single Variable Calculus)
+
+#### L’Hospital’s Rule and Improper Integrals (Single Variable Calculus)
 
 ### MATLAB (Multivariable Calculus)
 
 ### MATLAB (Differential Equations)
-
-### First order differential equations 
-
-### Second order differential equations 
-
-### Partial differential equations
 
 
 
@@ -486,49 +541,49 @@ IGCSE (2020 to 2022)
 
 ### R 
 
-#### A Density Map Of Vehicle Thefts 
+#### A Density Map Of Vehicle Thefts (Crime Mapping)
 * Generated a density map illustrating thefts from vehicles in Vancouver throughout 2020, using crime data from a CSV file
 * Integrated a base map and overlaid Vancouver's neighborhood boundaries and names for clear contextualization
 * Visually represented the spatial distribution of thefts, aiding in hotspot identification and informing crime prevention strategies
 
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
-#### A Density Map Of Fatal Shootings 
+#### A Density Map Of Fatal Shootings (Crime Mapping)
 * Generated a density map illustrating fatal shootings in New York City throughout 2019, based on crime data from a CSV file
 * Incorporated NYPD precinct boundaries and overlaid precinct numbers on the map for enhanced spatial context
 * Visualized the concentration of fatal incidents to inform law enforcement strategies and community engagement efforts aimed at addressing gun violence
 
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
-#### Incidence Rate Map Of Stalking Incidents 
+#### Incidence Rate Map Of Stalking Incidents (Crime Mapping)
 * Created a choropleth map showing stalking incident rates across Queensland police divisions in 2018, integrating incident counts and population data
 * Provided insights into the relative prevalence of stalking crimes, highlighting areas of heightened concern
 * Identified and displayed the names of the top 10 divisions with the highest stalking rates to guide policy-making and resource allocation
 
 **Libraries**: leaflet, sf, readxl, tidyverse
 
-#### Second Density Map Of Thefts 
+#### Second Density Map Of Thefts (Crime Mapping)
 * Created a density map depicting two-wheeled vehicle theft prevalence in Prague during 2022
 * Used KDE to identify statistically significant hotspots, pinpointing areas of heightened criminal activity
 * Ensured accuracy by limiting crime data to Prague's city boundary, offering insights crucial for law enforcement and urban planning strategies
 
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
-#### Quarto Report of Crimes Types in Japan 
+#### Quarto Report of Crimes Types in Japan (Crime Mapping)
 * Created a Quarto report in R to analyze violent crime incidence rates across prefectures in Japan
 * Utilized descriptive statistics and visualizations to examine variations in crime rates and their relationship with gross domestic product per capita
 * Explored patterns and insights regarding crime trends and socioeconomic factors at the prefecture level through data analysis and visualization
 
 **Libraries**: ggbeeswarm, ggrepel, gt, rvest, tidyverse
 
-#### Quarto Report of Crimes Types in South West BCU London 
+#### Quarto Report of Crimes Types in South West BCU London (Crime Mapping)
 * Created a detailed report in R analyzing specific crime types within the South West BCU of London
 * Utilized tables, maps, and charts to visually represent key crime types and high-risk areas
 * Provided data-driven recommendations for tasking team deployment, focusing on prioritizing crime problems and patrol areas based on current trends and geographic hotspots in the South West BCU
 
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
-#### Quarto Report of Crimes Types in West BCU London 
+#### Quarto Report of Crimes Types in West BCU London (Crime Mapping)
 * Created a Quarto report in R to analyze 2022 crime data for the West Area Basic Command Unit (BCU)
 * Identified priority crime types and hotspots for the Local Tasking Team, focusing on vehicle theft incidence rates by ward
 * Examined the relationship between deprivation levels and rates of violent and sexual crimes to inform potential government funding applications, while acknowledging limitations of the data
