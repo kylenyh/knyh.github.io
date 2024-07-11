@@ -454,13 +454,13 @@ IGCSE (2020 to 2022)
 
 ### MATLAB
 
-#### Gaussian elimination on systems of linear equations (Linear Algebra)
+#### Gaussian Elimination on Systems of Linear Equations (Linear Algebra)
 * Utilized row operations to transform matrices into upper triangular form
 * Facilitated easier variable solving through back substitution
 * Implemented matrix elimination to transition matrices from reduced echelon form to row reduced echelon form
 * Improved the efficiency and accuracy of solving linear systems with this algorithm
 
-#### Gauss-Jordan elimination on systems of linear equations (Linear Algebra)
+#### Gauss-Jordan Elimination on Systems of Linear Equations (Linear Algebra)
 * Ensured each row's first non-zero entry (from left to right) is one, creating leading ones
 * Use row operations to transform the matrix, including row swapping, scaling, and adding/subtracting rows
 * Transformed the matrix into RREF, where solutions to the linear system can be easily identified
