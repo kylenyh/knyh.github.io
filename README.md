@@ -480,6 +480,24 @@ IGCSE (2020 to 2022)
 ### MATLAB
 
 #### Basic Operations of Matrices (Linear Algebra)
+* Performed basic matrix addition, substraction and multiplication
+* Used different matrix dimensions when executing the script 
+
+[Matrix Operations Code](https://pym.dev/p/226vz/)
+
+#### Gaussian Elimination on Matrix (Linear Algebra)
+* Defined a matrix A and displayed the original matrix
+* Performed row operations to transform the matrix into its Row-Echelon Form (REF) by finding pivot elements, swapping rows, normalizing pivot rows and eliminating other entries in the pivot columns
+* Generated the transformed matrix in Row-Echelon Form (REF)
+
+[Gaussian Method on Matrix Code](https://pym.dev/p/3cchm/)
+
+#### Gauss-Jordan Elimination on Matrix (Linear Algebra)
+* Defined a matrix A and displayed the original matrix
+* Performed row operations to transform the matrix into its Reduced Row-Echelon Form (RREF) by finding pivot elements, swapping rows, normalizing pivot rows and eliminating other entries in the pivot columns
+* Generated the transformed matrix in Reduced Row-Echelon Form (RREF)
+
+[Gauss-Jordan Method on Matrix Code](https://pym.dev/p/24gx6/)
 
 #### Gaussian Elimination on Systems of Linear Equations (Linear Algebra)
 * Utilized row operations to transform matrices into upper triangular form
@@ -487,11 +505,22 @@ IGCSE (2020 to 2022)
 * Implemented matrix elimination to transition matrices from reduced echelon form to row reduced echelon form
 * Improved the efficiency and accuracy of solving linear systems with this algorithm
 
+[Gaussian Method on Linear Equations Code](https://pym.dev/p/38g4q/)
+
 #### Gauss-Jordan Elimination on Systems of Linear Equations (Linear Algebra)
 * Ensured each row's first non-zero entry (from left to right) is one, creating leading ones
 * Used row operations to transform the matrix, including row swapping, scaling, and adding/subtracting rows
 * Transformed the matrix into RREF, where solutions to the linear system can be easily identified
 * Enhanced the process of finding solutions with improved automation and accuracy
+
+[Gauss-Jordan Method on Linear Equations Code](https://pym.dev/p/2rqjc/)
+
+#### Gauss-Jordan Elimination to Find Matrix Inverse (Linear Algebra)
+* Combined the original matrix A and the identity matrix I into an augmented matrix 
+* Transformed the augmented matrix through row operations, including row swapping, normalization and elimination
+* Extracted the inverse matrix from the transformed augmented matrix and displayed it in symbolic fraction form
+
+[Gauss-Jordan Method to Find Matrix Inverse Code](https://pym.dev/p/2wepx/)
 
 #### A = LU Factorization Method on Matrices (Linear Algebra)
 
@@ -558,10 +587,18 @@ IGCSE (2020 to 2022)
 
 
 #### Differentiation with Chain Rule (Single Variable Calculus)
+* Applied chain rule to differentiate various functions
+* Computed the derivative of a composite function, where one function is applied to the result of another function
+
+[Chain Rule](https://pym.dev/p/36znj/)
 
 #### Differentiation with Product Rule (Single Variable Calculus)
+* Applied product rule to differentiate various functions
+* Computed the derivative of the product of two functions
 
 #### Differentiation with Quotient Rule (Single Variable Calculus)
+* Applied quotient rule to differentiate various functions
+* Computed the derivative of a quotient of two functions
 
 #### Limits and Continuity of Functions (Single Variable Calculus)
 
