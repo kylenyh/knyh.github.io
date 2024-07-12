@@ -528,6 +528,8 @@ IGCSE (2020 to 2022)
 
 #### Mean Value Theorem Method Problem Solver (Single Variable Calculus)
 
+#### Basic Integration Computation (Single Variable Calculus)
+
 #### Integration by Parts (Single Variable Calculus)
 
 #### Integration by Inverse Trigonometric Substituition (Single Variable Calculus)
@@ -582,10 +584,71 @@ IGCSE (2020 to 2022)
 
 #### Least Squares Fitting (Multivariable Calculus)
 
+#### Graphing Functions of Two Variables (Multivariable Calculus)
 
+#### Level Curves and Contour Plots (Multivariable Calculus)
 
+#### Partial Derivatices Solver (Multivariable Calculus)
 
+#### Tangent Plane Approximation (Multivariable Calculus)
 
+#### Optimization of Functions (Multivariable Calculus)
+
+#### Second Derivative Test Simulation (Multivariable Calculus)
+
+#### Surface Approximation (Multivariable Calculus)
+
+#### Contour Plot Comparison (Multivariable Calculus)
+
+#### Total Differentials and Chain Rule (Multivariable Calculus)
+
+#### Gradient Descent for Optimization (Multivariable Calculus)
+
+#### Gradient Vector Field (Multivariable Calculus)
+
+#### Directional Derivatives Calculator (Multivariable Calculus)
+
+#### Gradient and Level Curves (Multivariable Calculus)
+
+#### Chain Rule with Multiple Variables (Multivariable Calculus)
+
+#### Optimization Using Gradient Ascent (Multivariable Calculus)
+
+#### Constrained Optimization Visualizer (Multivariable Calculus)
+
+#### Constrained Differentials Calculator (Multivariable Calculus)
+
+#### Optimization with Multiple Constraints (Multivariable Calculus)
+
+#### Constrained Surface Visualization (Multivariable Calculus)
+
+#### Basic Double Integral Computation (Multivariable Calculus)
+
+#### Double Integral Order Change Computation (Multivariable Calculus)
+
+#### Double Integrals in Polar Coordinates (Multivariable Calculus)
+
+#### Double Integrals Visualization (Multivariable Calculus)
+
+#### Change of Variables in Double Integrals (Multivariable Calculus)
+
+#### Vector Field Plotter (Multivariable Calculus)
+
+#### Geometric Interpretation of Line Integrals (Multivariable Calculus)
+
+#### Conservative Fields and Path Independence (Multivariable Calculus)
+
+#### Gradient Fields Visualization (Multivariable Calculus)
+
+#### Curl of a Vector Field (Multivariable Calculus)
+
+#### Green’s Theorem Visualizer (Multivariable Calculus)
+
+#### Planimeter Simulation (Multivariable Calculus)
+
+#### Normal Form of Green’s Theorem (Multivariable Calculus)
+
+#### Extended Green’s Theorem (Multivariable Calculus)
 
 
 ### R 
