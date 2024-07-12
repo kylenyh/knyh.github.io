@@ -476,6 +476,8 @@ IGCSE (2020 to 2022)
 
 ### MATLAB
 
+# Basic Operations of Matrices (Linear Algebra)
+
 #### Gaussian Elimination on Systems of Linear Equations (Linear Algebra)
 * Utilized row operations to transform matrices into upper triangular form
 * Facilitated easier variable solving through back substitution
@@ -484,9 +486,73 @@ IGCSE (2020 to 2022)
 
 #### Gauss-Jordan Elimination on Systems of Linear Equations (Linear Algebra)
 * Ensured each row's first non-zero entry (from left to right) is one, creating leading ones
-* Use row operations to transform the matrix, including row swapping, scaling, and adding/subtracting rows
+* Used row operations to transform the matrix, including row swapping, scaling, and adding/subtracting rows
 * Transformed the matrix into RREF, where solutions to the linear system can be easily identified
 * Enhanced the process of finding solutions with improved automation and accuracy
+
+#### A = LU Factorization Method on Matrices (Linear Algebra)
+
+#### Ax = 0 Homogeneous Method on Matrices (Linear Algebra)
+
+#### Matrix Transpose and Permutation (Linear Algebra)
+
+#### Vector Spaces and Subspaces of Matrices Visualization (Linear Algebra)
+
+#### Column Space and Nullspace of Matrices Visualization (Linear Algebra)
+
+#### Four Fundamental Subspaces of Matrices Visualization (Linear Algebra)
+
+#### Rank-1 Matrix Approximation (Linear Algebra)
+
+#### Small World Graphs and Matrix Spaces (Linear Algebra)
+
+#### Graph Theory and Incidence Matrices (Linear Algebra)
+
+#### Network Analysis Using Matrices (Linear Algebra)
+
+#### Pivot Variables and Special Solutions (Linear Algebra)
+
+#### Least Squares Solution (Linear Algebra)
+
+#### Matrix Rank Determination (Linear Algebra)
+
+#### Independence, Basis, Dimension of Matrices (Linear Algebra)
+
+#### Orthogonal Vectors Visualization (Linear Algebra)
+
+#### Orthonormal Vectors Visualization (Linear Algebra)
+
+#### Matrix Projections onto Subspaces (Linear Algebra)
+
+#### Determinants Solver on Matrices (Linear Algebra)
+
+#### Eigenvalues and Eigenvectors of Matrices (Linear Algebra)
+
+#### Orthogonal Matrices and Gram-Schmidt Process (Linear Algebra)
+
+#### Cramer's Rule on Systems of Linear Equations (Linear Algebra)
+
+#### Inverse Matrix Calculator (Linear Algebra)
+
+#### Volume Calculation using Determinants (Linear Algebra)
+
+#### Diagonalization of Matrices (Linear Algebra)
+
+#### Powers of a Matrix using Diagonalization (Linear Algebra)
+
+#### Differential Equations and Matrix Exponential (Linear Algebra)
+
+#### Markov Matrices and Steady-State Analysis (Linear Algebra)
+
+#### Fourier Series Visualization and Fourier Analysis (Linear Algebra)
+
+
+
+
+
+
+
+
 
 #### Differentiation with Chain Rule (Single Variable Calculus)
 
@@ -553,6 +619,14 @@ IGCSE (2020 to 2022)
 #### Comparison of Series and Integrals (Single Variable Calculus)
 
 #### L’Hospital’s Rule and Improper Integrals (Single Variable Calculus)
+
+
+
+
+
+
+
+#### Basic Operations of Vectors (Multivariable Calculus)
 
 #### Calculating Dot and Cross Product of Vectors (Multivariable Calculus)
 
