@@ -499,7 +499,7 @@ IGCSE (2020 to 2022)
 
 [Gauss-Jordan Method on Matrix Code](https://pym.dev/p/24gx6/)
 
-#### Gaussian Elimination on Systems of Linear Equations (Linear Algebra)
+#### Gaussian Elimination on Systems of Linear Equations Ax = b (Linear Algebra)
 * Utilized row operations to transform matrices into upper triangular form
 * Facilitated easier variable solving through back substitution
 * Implemented matrix elimination to transition matrices from reduced echelon form to row reduced echelon form
@@ -507,7 +507,7 @@ IGCSE (2020 to 2022)
 
 [Gaussian Method on Linear Equations Code](https://pym.dev/p/38g4q/)
 
-#### Gauss-Jordan Elimination on Systems of Linear Equations (Linear Algebra)
+#### Gauss-Jordan Elimination on Systems of Linear Equations Ax = b (Linear Algebra)
 * Ensured each row's first non-zero entry (from left to right) is one, creating leading ones
 * Used row operations to transform the matrix, including row swapping, scaling, and adding/subtracting rows
 * Transformed the matrix into RREF, where solutions to the linear system can be easily identified
@@ -515,7 +515,7 @@ IGCSE (2020 to 2022)
 
 [Gauss-Jordan Method on Linear Equations Code](https://pym.dev/p/2rqjc/)
 
-#### Gauss-Jordan Elimination to Find Matrix Inverse (Linear Algebra)
+#### Gauss-Jordan Elimination to Find Matrix Inverse [A|I] (Linear Algebra)
 * Combined the original matrix A and the identity matrix I into an augmented matrix 
 * Transformed the augmented matrix through row operations, including row swapping, normalization and elimination
 * Extracted the inverse matrix from the transformed augmented matrix and displayed it in symbolic fraction form
@@ -635,6 +635,8 @@ IGCSE (2020 to 2022)
 #### Mean Value Theorem Method Problem Solver (Single Variable Calculus)
 
 #### Basic Integration Computation (Single Variable Calculus)
+* Computed basic definite integrals
+* Computed basic indefinite integrals
 
 #### Integration by Parts (Single Variable Calculus)
 
@@ -667,6 +669,8 @@ IGCSE (2020 to 2022)
 
 
 #### Basic Operations of Vectors (Multivariable Calculus)
+* Performed basic vector addition, substraction and multiplication
+* Used different vector dimensions when executing the script 
 
 #### Calculating Dot and Cross Product of Vectors (Multivariable Calculus)
 
@@ -694,7 +698,7 @@ IGCSE (2020 to 2022)
 
 #### Cramer's Rule for Linear Systems (Multivariable Calculus)
 
-#### Eigenvalues and Eigenvectors (Multivariable Calculus)
+#### Eigenvalues and Eigenvectors of Matrices (Multivariable Calculus)
 
 #### Least Squares Fitting (Multivariable Calculus)
 
@@ -702,7 +706,7 @@ IGCSE (2020 to 2022)
 
 #### Level Curves and Contour Plots (Multivariable Calculus)
 
-#### Partial Derivatices Solver (Multivariable Calculus)
+#### Differentiation with Partial Derivatices (Multivariable Calculus)
 
 #### Tangent Plane Approximation (Multivariable Calculus)
 
@@ -738,7 +742,7 @@ IGCSE (2020 to 2022)
 
 #### Basic Double Integral Computation (Multivariable Calculus)
 
-#### Double Integral Order Change Computation (Multivariable Calculus)
+#### Double Integral with Order Change Computation (Multivariable Calculus)
 
 #### Double Integrals in Polar Coordinates (Multivariable Calculus)
 
