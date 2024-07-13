@@ -649,7 +649,7 @@ IGCSE (2020 to 2022)
 * Computed basic definite integrals
 * Computed basic indefinite integrals
 
-[Basic Definite and Indefinite Integrals](https://pym.dev/p/2u2x3/)
+[Basic Integration Code](https://pym.dev/p/2u2x3/)
 
 #### Integration by Parts (Single Variable Calculus)
 
@@ -716,7 +716,7 @@ IGCSE (2020 to 2022)
 * Defined matrices of different dimensions 
 * Performed scalar multiplication, tranpose and inverses on each matrix 
 
-[Matrix Transformation](https://pym.dev/p/3c4jf/)
+[Matrix Transformation Code](https://pym.dev/p/3c4jf/)
 
 #### Matrix Inverse Calculator (Multivariable Calculus)
 * Defined matrices of various sizes including standard square matrices (A, B, C), a diagonal matrix (D) and a singular matrix (E)
