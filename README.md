@@ -1015,8 +1015,9 @@ Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing c
 3. [Machine Learning R](https://bradleyboehmke.github.io/HOML/intro.html)
 4. [Machine Learning Python](https://scikit-learn.org/stable/)
 5. [Computer Science Full Course](https://github.com/ossu/computer-science)
-6. [Imperial M CS & Maths Y2](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year2moduleguide2324.pdf)
-7. [Imperial M CS & Maths Y3](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year3moduleguide2324.pdf)
-8. [Imperial M CS & Maths Y4](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year4moduleguide23241v1.pdf)
-9. [Case Interview Formulas](https://www.hackingthecaseinterview.com/pages/case-interview-formulas)
-10. 
+6. [Imperial CS & Maths Guide](https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-jmc/)
+7. [Imperial M CS & Maths Y2](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year2moduleguide2324.pdf)
+8. [Imperial M CS & Maths Y3](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year3moduleguide2324.pdf)
+9. [Imperial M CS & Maths Y4](https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/department-of-mathematics/public/study/current/year4moduleguide23241v1.pdf)
+10. [Case Interview Formulas](https://www.hackingthecaseinterview.com/pages/case-interview-formulas)
+
