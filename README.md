@@ -590,19 +590,30 @@ IGCSE (2020 to 2022)
 * Applied chain rule to differentiate various functions
 * Computed the derivative of a composite function, where one function is applied to the result of another function
 
-[Chain Rule](https://pym.dev/p/36znj/)
+[Chain Rule Code](https://pym.dev/p/3cbdq/)
 
 #### Differentiation with Product Rule (Single Variable Calculus)
 * Applied product rule to differentiate various functions
 * Computed the derivative of the product of two functions
 
+[Product Rule Code](https://pym.dev/p/2eygz/)
+
 #### Differentiation with Quotient Rule (Single Variable Calculus)
 * Applied quotient rule to differentiate various functions
 * Computed the derivative of a quotient of two functions
 
+[Quotient Rule Code](https://pym.dev/p/2ejqp/)
+
 #### Limits and Continuity of Functions (Single Variable Calculus)
+* Computed limits for a diverse set of functions including logarithmic, square root, piecewise, trigonometric and oscillatory functions as x approaches specific values
+
+[Limits of Functions Code](https://pym.dev/p/2nhut/)
 
 #### Implicit Differentiation and Inverse Functions (Single Variable Calculus)
+* Demonstrated how to find the derivative dy/dx for implicit functions 
+* Calculatesd the derivative of the inverse functions using implicit differentiation
+
+[Implicit Differentiation and Inverse Functions Code](https://pym.dev/p/2jhft/)
 
 #### Linear and Quadratic Approximation (Single Variable Calculus)
 
@@ -638,6 +649,8 @@ IGCSE (2020 to 2022)
 * Computed basic definite integrals
 * Computed basic indefinite integrals
 
+[Basic Definite and Indefinite Integrals](https://pym.dev/p/2u2x3/)
+
 #### Integration by Parts (Single Variable Calculus)
 
 #### Integration by Inverse Trigonometric Substituition (Single Variable Calculus)
@@ -670,11 +683,24 @@ IGCSE (2020 to 2022)
 
 #### Basic Operations of Vectors (Multivariable Calculus)
 * Performed basic vector addition, substraction and multiplication
-* Used different vector dimensions when executing the script 
+* Used different vector dimensions when executing the script
+
+[Vector Operations Code](https://pym.dev/p/2qqzk/)
 
 #### Calculating Dot and Cross Product of Vectors (Multivariable Calculus)
+* Defined multiple pairs of vectors 
+* Calculated the dot product for ten different pairs of vectors and displayed the results
+* Calculated the cross product for ten different pairs of vectors and displayed the results
+
+[Dot and Cross Product Code](https://pym.dev/p/2cf5w/)
 
 #### Calculating Angle between Vectors (Multivariable Calculus)
+* Defined multiple pairs of vectors 
+* Created a custom function to calculate the angle in degrees between two vectors
+* Function utilized the dot product and vector norms to compute the angle
+
+[Angle Between Vectors Code](https://pym.dev/p/2xkub/)
+
 
 #### 2D Area Calculation Using Determinants (Multivariable Calculus)
 
@@ -686,15 +712,25 @@ IGCSE (2020 to 2022)
 
 #### Distance from Point to Plane (Multivariable Calculus)
 
-#### Matrix Operations Simulator (Multivariable Calculus)
-
 #### Transformation Matrices (Multivariable Calculus)
+* Defined matrices of different dimensions 
+* Performed scalar multiplication, tranpose and inverses on each matrix 
+
+[Matrix Transformation](https://pym.dev/p/3c4jf/)
 
 #### Matrix Inverse Calculator (Multivariable Calculus)
+* Defined matrices of various sizes including standard square matrices (A, B, C), a diagonal matrix (D) and a singular matrix (E)
+* Computed the inverse of each matrix and displayed the result 
+
+[Matrix Inverse Code](https://pym.dev/p/2s22c/)
 
 #### Planes Intersection using Matrices (Multivariable Calculus)
 
 #### Matrix Determinant Calculator (Multivariable Calculus)
+* Defined matrices of various sizes including standard square matrices (A, B, C), a diagonal matrix (D) and a singular matrix (E)
+* Computed the determinant of each matrix and displayed the result 
+
+[Matrix Determinant Code](https://pym.dev/p/3d558/)
 
 #### Cramer's Rule for Linear Systems (Multivariable Calculus)
 
@@ -707,6 +743,10 @@ IGCSE (2020 to 2022)
 #### Level Curves and Contour Plots (Multivariable Calculus)
 
 #### Differentiation with Partial Derivatices (Multivariable Calculus)
+* Computed the partial derivatives with respect to one of the variables
+* Calculated partial derivatives of polynomials, exponentials, logarithms, trigonometric functions and rational functions
+
+[Partial Derivatives Code](https://pym.dev/p/3abay/)
 
 #### Tangent Plane Approximation (Multivariable Calculus)
 
