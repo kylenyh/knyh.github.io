@@ -373,6 +373,10 @@ IGCSE (2020 to 2022)
 * Principles of single-stage MOS amplifiers
 * Principles of differential MOS amplifiers
 
+### Quantum Computing
+
+
+### Cybersecurity
 
 ## Projects
 
