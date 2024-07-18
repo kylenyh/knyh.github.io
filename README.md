@@ -999,7 +999,7 @@ IGCSE (2020 to 2022)
 * Introduction To Probability And Statistics, Spring 2022: Unit III (Not Started)
 * Introduction To Probability And Statistics, Spring 2022: Unit IV (Not Started)
 
-[**MIT Introduction To Probability And Statistics (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
+[**MIT Introduction To Real Analysis (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
 * Introduction To Real Analysis, Fall 2020: Unit I - V (Not Started)
 * Introduction To Real Analysis, Fall 2020: Unit VI - X (Not Started)
 * Introduction To Real Analysis, Fall 2020: Unit XI - XIII (Not Started)
