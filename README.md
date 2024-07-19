@@ -374,9 +374,110 @@ IGCSE (2020 to 2022)
 * Principles of differential MOS amplifiers
 
 ### Quantum Computing
+* Understanding and manipulating quantum bits (qubits)
+* Exploring superposition and entanglement in qubits
+* Implementing single-qubit gates like Pauli-X, Pauli-Y, Pauli-Z and Hadamard
+* Using multi-qubit gates such as CNOT, Toffoli and SWAP
+* Designing and visualizing quantum circuits
+* Optimizing and finding equivalence in quantum circuits
+* Applying the Quantum Fourier Transform (QFT)
+* Applying Shor’s algorithm for factoring integers
+* Implementing Grover’s algorithm for database searching
+* Exploring quantum error correction codes, including Shor and Steane codes
+* Identifying and mitigating sources of noise in quantum systems
+* Techniques for reducing quantum decoherence
+* Conducting projective measurements in quantum systems
+* Utilizing Positive Operator-Valued Measures (POVM)
+* Performing measurements in different bases
+* Comparing quantum and classical complexity classes
+* Learning about quantum key distribution (QKD) protocols such as BB84 and E91
+* Measuring entropy and information in quantum systems with von Neumann entropy
+* Understanding and implementing quantum mutual information
+* Exploring the protocol and significance of quantum teleportation
+* Comparing the circuit model, MBQC and topological quantum computing
+* Investigating superconducting qubits, trapped ions, and photonic qubits
+* Simulating physical systems using quantum computers
+* Understanding principles and applications of quantum annealing
+* Comparing quantum and classical annealing techniques
+* Utilizing the Variational Quantum Eigensolver (VQE)
+* Exploring the Quantum Approximate Optimization Algorithm (QAOA)
+* Encoding data in quantum systems for machine learning
+* Developing quantum neural networks and support vector machines
+* Investigating quantum repeaters for quantum networking
+* Techniques for reconstructing quantum states in state tomography
+* Applying quantum metrology to enhance measurement precision
+* Techniques for quantum control and optimal control
+* Generating true randomness using quantum processes
+* Investigating quantum optics and states of light like squeezed states and entangled photons
+* Exploring quantum strategies in game theory
+* Comparing quantum and classical game theory
+* Understanding quantum speedup and practical limits
+* Studying relations between quantum and classical circuit complexity
+* Understanding the evolution of quantum systems over time
+* Simulating Hamiltonian evolution in quantum systems
+* Developing and applying quantum sensors for precision measurements
 
 
 ### Cybersecurity
+* Understanding the principles of cybersecurity
+* Identifying and mitigating various types of cyber threats
+* Implementing network security measures
+* Exploring encryption techniques and algorithms
+* Applying public key infrastructure (PKI)
+* Conducting risk assessment and management
+* Developing security policies and procedures
+* Implementing secure software development practices
+* Exploring the principles of ethical hacking
+* Conducting penetration testing and vulnerability assessments
+* Using intrusion detection and prevention systems (IDS/IPS)
+* Understanding firewalls and their configurations
+* Implementing multi-factor authentication (MFA)
+* Securing wireless networks
+* Protecting data in transit and at rest
+* Exploring endpoint security solutions
+* Understanding malware analysis and mitigation
+* Implementing secure access control mechanisms
+* Conducting digital forensics and incident response
+* nderstanding social engineering attacks and defenses
+* Exploring the principles of cryptographic protocols
+* Implementing secure coding practices
+* Protecting against Distributed Denial of Service (DDoS) attacks
+* Understanding threat intelligence and sharing
+* Exploring security information and event management (SIEM) systems
+* Implementing data loss prevention (DLP) solutions
+* Understanding compliance and regulatory requirements (e.g., GDPR, HIPAA)
+* Protecting cloud environments and services
+* Exploring identity and access management (IAM)
+* Implementing secure virtualization practices
+* Understanding the principles of zero trust architecture
+* Exploring blockchain technology for security applications
+* Protecting critical infrastructure systems
+* Understanding secure network architecture design
+* Implementing mobile security measures
+* Exploring biometric security solutions
+* Understanding the principles of security auditing and monitoring
+* Protecting against insider threats
+* Exploring the principles of privacy and data protection
+* Implementing secure email communication
+* Understanding phishing and spear-phishing attacks
+* Exploring secure file sharing and collaboration tools
+* Implementing secure remote access solutions
+* Understanding ransomware attacks and defenses
+* Exploring artificial intelligence and machine learning for cybersecurity
+* Protecting Internet of Things (IoT) devices and networks
+* Exploring threat hunting techniques
+* Understanding the principles of secure DevOps (DevSecOps)
+* Implementing security in software development life cycle (SDLC)
+* Exploring the principles of application security
+* Protecting against SQL injection and other web vulnerabilities
+* Understanding the principles of security testing
+* Implementing security awareness training programs
+* Exploring the principles of security governance
+* Understanding the principles of cyber resilience
+* Exploring the principles of security metrics and reporting
+* Implementing secure communication protocols
+* Understanding the principles of network segmentation
+* Exploring the principles of security in supply chain management
 
 ## Projects
 
