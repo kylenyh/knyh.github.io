@@ -438,7 +438,7 @@ IGCSE (2020 to 2022)
 * Understanding malware analysis and mitigation
 * Implementing secure access control mechanisms
 * Conducting digital forensics and incident response
-* nderstanding social engineering attacks and defenses
+* Understanding social engineering attacks and defenses
 * Exploring the principles of cryptographic protocols
 * Implementing secure coding practices
 * Protecting against Distributed Denial of Service (DDoS) attacks
