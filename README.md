@@ -564,7 +564,6 @@ IGCSE (2020 to 2022)
 
 **Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas, Seaborn, SciPy, Random, Math
 
-
 #### Crime Data Analysis of UK Neighborhoods (Programming for Crime Scientists)
 * Developed an interface to retrieve crime information by neighborhood for specified year and month
 * Enabled users to access detailed crime data for specific neighborhoods
@@ -757,18 +756,49 @@ IGCSE (2020 to 2022)
 [Basic Integration Code](https://pym.dev/p/2u2x3/)
 
 #### Integration by Parts (Single Variable Calculus)
+* Applied integration by parts formula in the script 
+* Created functions, computed their derivatives and integrals 
+* Displayed each step of the process for each result 
+
+[Integration By Parts Code](https://pym.dev/p/2nmfc/)
 
 #### Integration by Inverse Trigonometric Substituition (Single Variable Calculus)
+* Applied inverse trigonometric substituition formulas in the script 
+* Created functions, computed their derivatives and integrals 
+* Displayed each step of the process for each result 
+
+[Integration By Inverse Trigonometric Substituition Code](https://pym.dev/p/2ffe5/)
 
 #### Integration by Trigonometric Substituition (Single Variable Calculus)
+* Applied integration by trigonometric substituition formulas in the script 
+* Created functions, computed their derivatives and integrals 
+* Displayed each step of the process for each result 
+
+[Integration By Trigonometric Substituition Code](https://pym.dev/p/3c2eg/)
 
 #### Integration by Long Division (Single Variable Calculus)
+* Applied integration by long division method in the script 
+* Created functions, computed their quotients, remainders, divisors and integrals 
+* Displayed each step of the process for each result 
+
+[Integration By Long Division Code](https://pym.dev/p/2n8hh/)
 
 #### Integration by Partial Fractions (Single Variable Calculus)
+* Applied integration by partial fractions method in the script 
+* Created functions, computed their factorizations and integrals 
+* Displayed each step of the process for each result
+
+[Integration by Partial Fractions Code](https://pym.dev/p/32nqf/)
 
 #### Integration by Polar Coordinates (Single Variable Calculus)
+*
+*
+*
 
 #### Integration by Arc Length (Single Variable Calculus)
+*
+*
+*
 
 #### Power Series Expansion (Single Variable Calculus)
 
