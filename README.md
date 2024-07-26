@@ -321,7 +321,7 @@ IGCSE (2020 to 2022)
 * Linear algebra applications in orthogonal vectors and subspaces
 * Linear algebra applications in orthogonal matrices and Gram-Schmidt
 * Linear algebra applications in projection matrices and least squares
-* Linear algebra applications in complex matrices and fast Fourier transform
+* Linear algebra applications in complex matrices and Fast Fourier Transform
 * Linear algebra applications in graphs and networks 
 * Single variable calculus techniques in approximation and graph sketching
 * Single variable calculus techniques in optimization and related rates
