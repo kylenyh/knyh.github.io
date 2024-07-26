@@ -568,7 +568,7 @@ IGCSE (2020 to 2022)
 * Economic development and crime trends
 * Designing and conducting research projects in crime science
 
-## Projects
+## Projects (Technical)
 
 ### Python
 
