@@ -479,6 +479,54 @@ IGCSE (2020 to 2022)
 * Understanding the principles of network segmentation
 * Exploring the principles of security in supply chain management
 
+
+
+### Crime and Security Science 
+* Terrorist organizations and their ideologies
+* Fundamental principles of crime and security science
+* Conducting interviews with crime victims and witnesses
+* Strategies for crime prevention in developing nations
+* The role of government policies in crime prevention
+* The relationship between mental health and criminal behavior
+* The roles of intelligence agencies in combating terrorism
+* The impact of terrorism on global security
+* Crime mapping and its importance in crime prevention
+* Understanding the crime event and its components
+* Probability, ttatistics and modelling in crime science
+* Programming for crime scientists in crime analysis
+* Applications of machine learning in crime prediction
+* Advanced statistical techniques in crime data analysis
+* Application of probability theory in crime analysis
+* Approaches to solving complex crime problems
+* Security technologies in crime prevention
+* Practical applications of crime science in real-world settings
+* Developing security strategies for crime prevention
+* Understanding digital crimes and their preventions
+* Applications of data science in crime analysis
+* The influence of social networks on criminal behavior
+* The impact of scientific advancements on warfare and crime
+* Effectiveness of situational crime prevention
+* Decision-making processes in investigations
+* Practical applications of crime science theories
+* Strategies for reducing repeat offenses
+* Government policy impacts on crime rates
+* Forensic DNA analysis advancements
+* Preventing radicalization and extremism
+* Psychological impact of crime on victims
+* Methods for tracking illegal activities online
+* Technological solutions to organized crime
+* Legal frameworks for combating cybercrime
+* Role of family dynamics in criminal behavior
+* Role of social media in crime investigations
+* Role of education in preventing crime
+* Impact of cultural norms on crime rates
+* Role of international organizations in crime control
+* Science and technology in peacekeeping
+* Drug trafficking prevention strategies
+* Addressing global crime challenges
+* Economic development and crime trends
+* Designing and conducting research projects in crime science
+
 ## Projects
 
 ### Python
@@ -575,8 +623,14 @@ IGCSE (2020 to 2022)
 [Tasks 1 - 6 Code](https://pym.dev/p/2vwr4/)
 [Tasks 6 - 8 Code](https://pym.dev/p/2exbg/)
 
+#### Linear Regression Analysis of Moisture Dataset (Machine Learning)
+* Created a linear regression model and trained it based on the data from the datatset
+* Used the model to make predictions on the testing data and performance analysis 
+* Ran hypothesis tests to make conlusions on the data findings
 
+**Libraries**: Numpy, Matplotlib, Pandas, Statsmodels.api
 
+[Linear Regression Model Moisture Dataset Code](https://pym.dev/p/32f2s/)
 
 
 
