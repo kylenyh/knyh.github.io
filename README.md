@@ -479,6 +479,47 @@ IGCSE (2020 to 2022)
 * Understanding the principles of network segmentation
 * Exploring the principles of security in supply chain management
 
+### Machine Learning 
+* Supervised learning algorithms and their applications
+* Techniques in unsupervised machine learning models
+* Principles of reinforcement learning for tasks
+* Models and applications of deep learning
+* Architecture of neural networks in detail
+* Convolutional neural networks for image recognition
+* Recurrent neural networks for sequence data
+* Long Short-Term Memory networks for sequences
+* Natural language processing with machine learning
+* Sentiment analysis using various learning algorithms
+* Machine learning applications in image recognition
+* Algorithms for object detection in images
+* Transfer learning applications in neural networks
+* Generative adversarial networks for image generation
+* Support vector machines in classification
+* Decision tree algorithms for predictive modeling
+* Random forest classifiers for ensemble learning
+* Gradient boosting machines for improved accuracy
+* K-nearest neighbors for classification tasks
+* Principal component analysis for data reduction
+* K-means clustering methods for groupings
+* Hierarchical clustering techniques for data organization
+* Techniques for dimensionality reduction in datasets
+* Feature selection methods for model improvement
+* Evaluating and validating machine learning models
+* Cross-validation strategies for model accuracy
+* Overfitting and underfitting in learning models
+* Managing the bias-variance tradeoff effectively
+* Ensemble learning methods for model robustness
+* Techniques for hyperparameter tuning in models
+* Gradient descent optimization algorithms in practice
+* Bayesian optimization techniques for hyperparameters tuning
+* Analyzing and forecasting with time series
+* Anomaly detection using machine learning techniques
+* Predictive maintenance through machine learning models
+* Machine learning applications in healthcare field
+* Autonomous systems and robotics using AI
+* Recommendation systems powered by machine learning
+* Ethical considerations in machine learning applications
+* Explainability and interpretability of machine learning
 
 
 ### Crime and Security Science 
