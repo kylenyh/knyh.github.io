@@ -372,6 +372,30 @@ IGCSE (2020 to 2022)
 * Principles of analogue and digital signals and systems
 * Principles of single-stage MOS amplifiers
 * Principles of differential MOS amplifiers
+* Principles of network engineering
+* Network security protocols and encryption
+* TCP/IP protocol stack optimization
+* Wireless communication standards and protocols
+* Software-defined networking (SDN) architecture
+* Network traffic analysis and monitoring
+* High-speed data transmission technologies
+* IP address management and allocation
+* Network latency and bandwidth optimization
+* Fiber optic communication system design
+* Virtual Private Networks (VPN) implementation
+* Routing algorithms and network topologies
+* Network scalability and performance metrics
+* Domain Name System (DNS) configuration
+* Internet Service Provider (ISP) architecture
+* Network load balancing and redundancy
+* Quality of Service (QoS) assurance
+* Network intrusion detection and prevention
+* IPv6 addressing and transition strategies
+* Wireless mesh network design principles
+* Ethernet and Wi-Fi network standards
+* Bandwidth throttling and traffic shaping
+* Network access control (NAC) systems
+* Real-time data packet analysis
 
 ### Quantum Computing
 * Understanding and manipulating quantum bits (qubits)
