@@ -557,12 +557,8 @@ IGCSE (2020 to 2022)
 * The impact of terrorism on global security
 * Crime mapping and its importance in crime prevention
 * Understanding the crime event and its components
-* Probability, ttatistics and modelling in crime science
+* Probability, statistics and modelling in crime science
 * Programming for crime scientists in crime analysis
-* Applications of machine learning in crime prediction
-* Advanced statistical techniques in crime data analysis
-* Application of probability theory in crime analysis
-* Approaches to solving complex crime problems
 * Security technologies in crime prevention
 * Practical applications of crime science in real-world settings
 * Developing security strategies for crime prevention
