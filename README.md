@@ -31,7 +31,7 @@ Outside his academic pursuits, Kyle dedicates significant time to coding project
 * Writing
 
 
-## Published Physics Paper
+## Published Computer Science and Physics Paper
 
 #### Computational Double Pendulum (1<sup>st</sup>)
 [Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
