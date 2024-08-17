@@ -38,6 +38,8 @@ Outside his academic pursuits, Kyle dedicates significant time to coding project
 
 Wrote my first physics paper that presents the logic and analysis of a double pendulum system model, created using **Python** and **Physics** principles to simulate and illustrate the complex and chaotic behavior. It explores how slight variations in initial conditions can lead to significantly different trajectories, highlighting the unpredictable nature of chaotic systems.
 
+## Published Computer Science and Mathematics Paper
+
 
 ## Education
 
