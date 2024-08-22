@@ -691,11 +691,11 @@ IGCSE (2020 to 2022)
 
 **Libraries**: Numpy, Matplotlib, Pandas, Seaborn, Scikit
 
-[Linear Regression Model Moisture Dataset Code](https://pym.dev/p/32f2s/)
+[Moisture Regression Code](https://pym.dev/p/32f2s/)
 
 #### Baseball Regression Analysis (Machine Learning)
-*
-*
+* Created a multiple linear regression model and trained it based on self created data
+* Used the model to make predictions on the testing data and performance analysis 
 *
 
 **Libraries**: Numpy, Matplotlib, Pandas, Seaborn, Scikit
