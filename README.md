@@ -1110,6 +1110,8 @@ IGCSE (2020 to 2022)
 
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
+[Density Map Of Vehicle Thefts Code](https://pym.dev/p/25xym/)
+
 #### A Density Map Of Fatal Shootings (Crime Mapping)
 * Generated a density map illustrating fatal shootings in New York City throughout 2019, based on crime data from a CSV file
 * Incorporated NYPD precinct boundaries and overlaid precinct numbers on the map for enhanced spatial context
@@ -1117,26 +1119,25 @@ IGCSE (2020 to 2022)
 
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
-#### Incidence Rate Map Of Stalking Incidents (Crime Mapping)
+[Density Map Of Fatal Shootings Code](https://pym.dev/p/2vtq9/)
+
+#### An Incidence Rate Map Of Stalking Incidents (Crime Mapping)
 * Created a choropleth map showing stalking incident rates across Queensland police divisions in 2018, integrating incident counts and population data
 * Provided insights into the relative prevalence of stalking crimes, highlighting areas of heightened concern
 * Identified and displayed the names of the top 10 divisions with the highest stalking rates to guide policy-making and resource allocation
 
 **Libraries**: leaflet, sf, readxl, tidyverse
 
-#### Second Density Map Of Thefts (Crime Mapping)
+[Incidence Rate Map Of Stalking Incidents Code](https://pym.dev/p/2zj5m/)
+
+#### A Second Density Map Of Vehicle Thefts (Crime Mapping)
 * Created a density map depicting two-wheeled vehicle theft prevalence in Prague during 2022
 * Used KDE to identify statistically significant hotspots, pinpointing areas of heightened criminal activity
 * Ensured accuracy by limiting crime data to Prague's city boundary, offering insights crucial for law enforcement and urban planning strategies
 
+[Second Density Map Of Thefts Code](https://pym.dev/p/28chq/)
+
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
-
-#### Quarto Report of Crimes Types in Japan (Crime Mapping)
-* Created a Quarto report in R to analyze violent crime incidence rates across prefectures in Japan
-* Utilized descriptive statistics and visualizations to examine variations in crime rates and their relationship with gross domestic product per capita
-* Explored patterns and insights regarding crime trends and socioeconomic factors at the prefecture level through data analysis and visualization
-
-**Libraries**: ggbeeswarm, ggrepel, gt, rvest, tidyverse
 
 #### Quarto Report of Crimes Types in South West BCU London (Crime Mapping)
 * Created a detailed report in R analyzing specific crime types within the South West BCU of London
@@ -1145,6 +1146,8 @@ IGCSE (2020 to 2022)
 
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
+[Quarto Report of Crimes Types in South West BCU London Code](https://pym.dev/p/2gdrv/)
+
 #### Quarto Report of Crimes Types in West BCU London (Crime Mapping)
 * Created a Quarto report in R to analyze 2022 crime data for the West Area Basic Command Unit (BCU)
 * Identified priority crime types and hotspots for the Local Tasking Team, focusing on vehicle theft incidence rates by ward
@@ -1152,8 +1155,7 @@ IGCSE (2020 to 2022)
 
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
-
-
+[Quarto Report of Crime Types in West BCU London Code](https://pym.dev/p/3cmpf/)
 
 
 
