@@ -1157,7 +1157,14 @@ IGCSE (2020 to 2022)
 
 [Quarto Report of Crime Types in West BCU London Code](https://pym.dev/p/3cmpf/)
 
+#### Heart Disease Regression Analysis (Machine Learning)
+* Created a univariate binary logistic regression model between patient age and probability of getting heart disease
+* Canducted a model summary analysis to identify coefficient, intercept, p-value, z-value, standard error
+* Constructed a 95% confidence interval based on an age prediction to probability of getting a heart disease
 
+**Libraries**: Kmed
+
+[Heart Disease Regression Code](https://pym.dev/p/2pycm/)
 
 ## Courses (Certifications)
 
