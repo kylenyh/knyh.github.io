@@ -33,13 +33,16 @@ Outside his academic pursuits, Kyle dedicates significant time to coding project
 
 ## Published Computer Science and Physics Paper
 
-#### Computational Double Pendulum (1<sup>st</sup>)
+#### Computational Pendulum Simulation (1<sup>st</sup>)
 [Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
 
 Wrote my first physics paper that presents the logic and analysis of a double pendulum system model, created using **Python** and **Physics** principles to simulate and illustrate the complex and chaotic behavior. It explores how slight variations in initial conditions can lead to significantly different trajectories, highlighting the unpredictable nature of chaotic systems.
 
 ## Published Computer Science and Mathematics Paper
 
+#### Computational Chess Engine (1<sup>st</sup>)
+
+#### Computational Partial Differential Equations (2<sup>nd</sup>)
 
 ## Education
 
