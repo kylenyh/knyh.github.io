@@ -674,19 +674,35 @@ IGCSE (2020 to 2022)
 
 #### Breadth First Search Algorithm (Graph Theory)
 
+**Libraries**: No library used
+
 #### Depth First Search Algorithm (Graph Theory)
+
+**Libraries**: No library used
 
 #### Floyd-Warshall Algorithm (Graph Theory)
 
+**Libraries**: No library used
+
 #### Johnson's Algorithm (Graph Theory)
+
+**Libraries**: No library used
 
 #### Kruskal's Algorithm (Graph Theory)
 
+**Libraries**: No library used
+
 #### Prim's Algorithm (Graph Theory)
+
+**Libraries**: No library used
 
 #### Kosaraju's Algorithm (Graph Theory)
 
+**Libraries**: No library used
+
 #### Tarjan's Algorithm (Graph Theory)
+
+**Libraries**: No library used
 
 #### Crime Data Collection Survey (Programming for Crime Scientists)
 * Designed and implemented functions, lists and dictionaries to gather and analyze data on crime incidents
@@ -699,7 +715,7 @@ IGCSE (2020 to 2022)
 [Data Evaluation Code](https://pym.dev/p/29xdn/)
 [Data Dictionaries Code](https://pym.dev/p/39pxb/)
 
-**Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas, Seaborn, SciPy, Random, Math
+**Libraries**: numpy, matplotlib, csv, json, pickle, requests, pandas, seaborn, scipy, random, math
 
 #### Crime Data Analysis of UK Neighborhoods (Programming for Crime Scientists)
 * Developed an interface to retrieve crime information by neighborhood for specified year and month
@@ -707,7 +723,7 @@ IGCSE (2020 to 2022)
 * Integrated data visualization tools to illustrate crime patterns
 * Applied kernel density estimations to analyze crime locations within neighborhoods
 
-**Libraries**: Numpy, Matplotlib, CSV, JSON, Pickle, Requests, Pandas, Seaborn
+**Libraries**: numpy, matplotlib, csv, json, pickle, requests, pandas, seaborn
 
 [Tasks 1 - 6 Code](https://pym.dev/p/2vwr4/)
 [Tasks 6 - 8 Code](https://pym.dev/p/2exbg/)
@@ -717,7 +733,7 @@ IGCSE (2020 to 2022)
 * Used the model to make predictions on the testing data and performance analysis 
 * Ran hypothesis tests to make conlusions on the data findings
 
-**Libraries**: Numpy, Matplotlib, Pandas, Seaborn, Scikit
+**Libraries**: numpy, matplotlib, pandas, scipy, scikit, seaborn
 
 [Moisture Regression Code](https://pym.dev/p/32f2s/)
 
@@ -726,42 +742,42 @@ IGCSE (2020 to 2022)
 * Used the model to make predictions on the testing data and performance analysis 
 *
 
-**Libraries**: Numpy, Matplotlib, Pandas, Seaborn, Scikit
+**Libraries**: numpy, matplotlib, pandas, scipy, scikit
 
 #### Cancer Regression Analysis (Machine Learning)
 *
 *
 *
 
-**Libraries**: Numpy, Matplotlib, Pandas, Seaborn, Scikit
+**Libraries**: numpy, matplotlib, pandas, scipy, scikit
 
 #### House Price Prediction (Machine Learning)
 * Predicted how other variables would affect median house values
 * Provided a few data visualizations to showcase the data 
 * Performed a train test split on to make predicitons on data
 
-**Libraries**: Numpy, Matplotlib, Pandas, Scipy, Scikit
+**Libraries**: numpy, matplotlib, pandas, scipy, scikit
 
 #### Flight Price Prediction (Machine Learning)
 * Predicted how other variables would affect flight prices
 * Provided a few data visualizations to showcase the data 
 * Performed a train test split to make predicitons on data
 
-**Libraries**: Numpy, Matplotlib, Pandas, Scipy
+**Libraries**: numpy, matplotlib, pandas, scipy
 
 #### Stock Price Prediction (Machine Learning)
 * Predicted how other variables would affect stock prices
 * Provided a few data visualizations to showcase the data 
 * Performed a train test split to make predicitons on data
 
-**Libraries**: Numpy, Matplotlib, Pandas, Scipy
+**Libraries**: numpy, matplotlib, pandas, scipy
 
 #### Laptop Price Prediction (Machine Learning)
 * Predicted how other variables would affect laptop prices
 * Provided a few data visualizations to showcase the data 
 * Performed a train test split to make predicitons on data
 
-**Libraries**: Numpy, Matplotlib, Pandas, Scipy
+**Libraries**: numpy, matplotlib, pandas, scipy
 
 
 
@@ -774,6 +790,8 @@ IGCSE (2020 to 2022)
 
 [Matrix Operations Code](https://pym.dev/p/226vz/)
 
+**Libraries**: No library used
+
 #### Gaussian Elimination on Matrix (Linear Algebra)
 * Defined a matrix A and displayed the original matrix
 * Performed row operations to transform the matrix into its Row-Echelon Form (REF) by finding pivot elements, swapping rows, normalizing pivot rows and eliminating other entries in the pivot columns
@@ -781,12 +799,16 @@ IGCSE (2020 to 2022)
 
 [Gaussian Method on Matrix Code](https://pym.dev/p/3cchm/)
 
+**Libraries**: No library used
+
 #### Gauss-Jordan Elimination on Matrix (Linear Algebra)
 * Defined a matrix A and displayed the original matrix
 * Performed row operations to transform the matrix into its Reduced Row-Echelon Form (RREF) by finding pivot elements, swapping rows, normalizing pivot rows and eliminating other entries in the pivot columns
 * Generated the transformed matrix in Reduced Row-Echelon Form (RREF)
 
 [Gauss-Jordan Method on Matrix Code](https://pym.dev/p/24gx6/)
+
+**Libraries**: No library used
 
 #### Gaussian Elimination on Systems of Linear Equations Ax = b (Linear Algebra)
 * Utilized row operations to transform matrices into upper triangular form
@@ -796,6 +818,8 @@ IGCSE (2020 to 2022)
 
 [Gaussian Method on Linear Equations Code](https://pym.dev/p/38g4q/)
 
+**Libraries**: No library used
+
 #### Gauss-Jordan Elimination on Systems of Linear Equations Ax = b (Linear Algebra)
 * Ensured each row's first non-zero entry (from left to right) is one, creating leading ones
 * Used row operations to transform the matrix, including row swapping, scaling, and adding/subtracting rows
@@ -804,6 +828,8 @@ IGCSE (2020 to 2022)
 
 [Gauss-Jordan Method on Linear Equations Code](https://pym.dev/p/2rqjc/)
 
+**Libraries**: No library used
+
 #### Gauss-Jordan Elimination to Find Matrix Inverse [A|I] (Linear Algebra)
 * Combined the original matrix A and the identity matrix I into an augmented matrix 
 * Transformed the augmented matrix through row operations, including row swapping, normalization and elimination
@@ -811,61 +837,119 @@ IGCSE (2020 to 2022)
 
 [Gauss-Jordan Method to Find Matrix Inverse Code](https://pym.dev/p/2wepx/)
 
+**Libraries**: No library used
+
 #### A = LU Factorization Method on Matrices (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Ax = 0 Homogeneous Method on Matrices (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Matrix Transpose and Permutation (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Vector Spaces and Subspaces of Matrices Visualization (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Column Space and Nullspace of Matrices Visualization (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Four Fundamental Subspaces of Matrices Visualization (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Rank-1 Matrix Approximation (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Small World Graphs and Matrix Spaces (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Graph Theory and Incidence Matrices (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Network Analysis Using Matrices (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Pivot Variables and Special Solutions (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Least Squares Solution (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Matrix Rank Determination (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Independence, Basis, Dimension of Matrices (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Orthogonal Vectors Visualization (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Orthonormal Vectors Visualization (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Matrix Projections onto Subspaces (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Determinants Solver on Matrices (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Eigenvalues and Eigenvectors of Matrices (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Orthogonal Matrices and Gram-Schmidt Process (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Cramer's Rule on Systems of Linear Equations (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Inverse Matrix Calculator (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Volume Calculation using Determinants (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Diagonalization of Matrices (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Powers of a Matrix using Diagonalization (Linear Algebra)
+
+**Libraries**: No library used
 
 #### Differential Equations and Matrix Exponential (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Markov Matrices and Steady-State Analysis (Linear Algebra)
 
+**Libraries**: No library used
+
 #### Fourier Series Visualization and Fourier Analysis (Linear Algebra)
+
+**Libraries**: No library used
 
 
 
@@ -1187,13 +1271,32 @@ IGCSE (2020 to 2022)
 
 #### Heart Disease Regression Analysis (Machine Learning)
 * Created a univariate binary logistic regression model between patient age and probability of getting heart disease
-* Canducted a model summary analysis to identify coefficient, intercept, p-value, z-value, standard error
+* Conducted a model summary analysis to identify coefficient, intercept, p-value, z-value, standard error
 * Constructed a 95% confidence interval based on an age prediction to probability of getting a heart disease
 
-**Libraries**: Kmed
+**Libraries**: kmed
 
 [Heart Disease Regression Code](https://pym.dev/p/2pycm/)
 
+#### Flower Species Hypothesis Testing (Machine Learning)
+* Applied data visualization tools to showcase observed frequencies across each species 
+* Conducted a Chi-square goodness of fitness test to make comparisons between 3 flower species categories 
+* Summarized the Chi-square test analysis to make conclusions on hypotheses statements
+
+[Flower Species Hypothesis Testing Code](https://pym.dev/p/3ceyt/)
+
+**Libraries**: ggplot2, ggstatsplot
+
+#### Flower Species Hypothesis Testing 2 (Machine Learning)
+* Applied data visualization tools to showcase observations across 
+* Conducted a Chi-square independence test to make comparisons between 3 flower species categories 
+* Summarized the Chi-square test analysis to make conclusions on hypotheses statements
+
+[Flower Species Hypothesis Testing 2 Code](https://pym.dev/p/2fyzu/)
+
+**Libraries**: ggplot2, ggstatsplot
+
+  
 ## Courses (Certifications)
 
 #### MATLAB
