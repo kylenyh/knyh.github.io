@@ -626,7 +626,7 @@ IGCSE (2020 to 2022)
 * Added a grid system to track the snake's movement in the game and food object random placement
 * Made a few changes to the game by allowing to snake to move through the walls without dying 
 
-**Libraries**: Math, Pygame 
+**Libraries**: math, pygame 
 
 [Snake Game Code](https://pym.dev/p/36vwz/)
 
@@ -636,7 +636,7 @@ IGCSE (2020 to 2022)
 * Used classes, lists, objects, data structures and file manipulations to simulate the game pieces, chess rules, score system and the chess board
 * Game includes a game move tracker which records every move made by the player 
 
-**Libraries**: Pygame, Sys, Random, Os, Stockfish
+**Libraries**: pygame, sys, random, os, stockfish
 
 #### Tic-Tac-Toe Game (Game Development)
 
