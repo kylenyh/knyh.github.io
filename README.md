@@ -31,18 +31,43 @@ Outside his academic pursuits, Kyle dedicates significant time to coding project
 * Writing
 
 
-## Published Computer Science and Physics Paper
+## Published Computer Science and Physics Papers
 
 #### Computational Pendulum Simulation (1<sup>st</sup>)
-[Double Pendulum Paper](https://www.academia.edu/116050319/Computational_Double_Pendulum_Physics)
+[Computational Pendulum Physics Paper]()
 
-Wrote my first physics paper that presents the logic and analysis of a double pendulum system model, created using **Python** and **Physics** principles to simulate and illustrate the complex and chaotic behavior. It explores how slight variations in initial conditions can lead to significantly different trajectories, highlighting the unpredictable nature of chaotic systems.
+This project investigates the intricate dynamics of pendulums via the creation of simulations implemented in Python. By employing classical mechanics principles, the Python code simulates the motion of pendulums through the resolution of the coupled differential equations that dictate its dynamics. The simulations effectively illustrates the system's susceptibility to initial conditions, showcasing how minor alterations can result in significantly divergent trajectories. This susceptibility highlights the inherent unpredictability of chaotic systems, wherein long-term forecasting becomes impractical despite the presence of deterministic governing equations. The utilized Python code incorporates numerical techniques, such as the Runge-Kutta method, to estimate the motion over time, thereby facilitating precise and reliable simulations. This paper elucidates fundamental physical concepts like energy conservation and angular momentum, with the simulation furnishing a visual manifestation of these principles in operation.
 
-## Published Computer Science and Mathematics Paper
+This project was significantly shaped by my self-study using MIT OpenCourseWare. Courses such as MIT Classical Mechanics, MIT Single Variable Calculus, MIT Multivariable Calculus, MIT Python Programming provided the essential knowledge and skills necessary for developing and coding these pendulum physics simulations.
+
+#### Computational Collision Simulation (2<sup>nd</sup>)
+[Computational Collision Physics Paper]()
+
+This project paper delves into the fundamental tenets of collision physics through the creation and execution of a simulation based on Python. Emphasizing both elastic and inelastic collisions, the simulation replicates the dynamics of colliding entities in one and two dimensions, effectively demonstrating the principles of momentum and kinetic energy conservation. By applying classical mechanics, particularly Newtonian motion laws, this paper investigates the mechanisms of momentum and energy transfer during collisions, along with the consequences of various collision types on these conserved quantities. The simulation is designed to accommodate an array of collision categories, including perfectly elastic and perfectly inelastic interactions while offering visual representations of the outcomes. Through these simulations, the project evaluates the influence of parameters such as mass, velocity and impact angle
+on collision results. 
+
+This project was significantly shaped by my self-study using MIT OpenCourseWare. Courses such as MIT Classical Mechanics, MIT Single Variable Calculus, MIT Multivariable Calculus, MIT Python Programming provided the essential knowledge and skills necessary for developing and coding these collision physics simulations.
+
+## Published Computer Science and Mathematics Papers
 
 #### Computational Chess Engine (1<sup>st</sup>)
+[Mathematical Chess Engine Paper]()
+
+This project paper delineates the design and execution of a chess engine predicated on Python, which is meticulously developed across three principal files: Smart Move Finder, Chess Main Engine and Chess User Interface. The engine synthesizes sophisticated mathematical constructs, incorporating combinatorial principles, linear algebraic methods and game theory theoretical frameworks. By leveraging these mathematical paradigms, the engine proficiently generates permissible moves, assesses board configurations and formulates strategic decisions to replicate intelligent gameplay. Beyond mathematical principles, the engine applies physics to emulate the dynamics and interactions of chess pieces, establishing analogies between tangible physical phenomena and virtual game operations. The architecture of the engine embodies a profound comprehension of both the theoretical underpinnings and practical dimensions of chess, culminating in a program adept at analyzing and reacting to intricate game scenarios with accuracy.
+
+This project was significantly shaped by my self-study using MIT OpenCourseWare. Courses such as MIT Modern Algebra, MIT Single Variable Calculus, MIT Multivariable Calculus, MIT Python Programming provided the essential knowledge and skills necessary for developing and coding this mathematical chess engine.
 
 #### Computational Partial Differential Equations (2<sup>nd</sup>)
+[Mathematical Partial Differential Equations Paper]()
+
+This project paper 
+
+This project was significantly shaped by my self-study using MIT OpenCourseWare. Courses such as MIT Differential Equations, MIT Single Variable Calculus, MIT Multivariable Calculus, MIT Python Programming provided the essential knowledge and skills necessary for developing and coding this mathematical chess engine.
+
+
+#### Computational Elliptic Curve Cryptograhy (2<sup>nd</sup>)
+[Mathematical Elliptic Curve Cryptograhy Paper]()
+
 
 ## Education
 
