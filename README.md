@@ -1303,7 +1303,7 @@ IGCSE (2020 to 2022)
 
 [Tv Sales Regression Code](https://pym.dev/p/22sf3/)
 
-**Libraries**: No libraries used 
+**Libraries**: No library used 
 
 #### Marketing Sales Regression Analysis (Machine Learning)
 * Extracted relevant columns to perform regression analysis 
