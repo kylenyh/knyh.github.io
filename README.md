@@ -77,7 +77,7 @@ This project was significantly shaped by my self-study using MIT OpenCourseWare.
 Bachelor of Science - Crime and Security Science (2023 to 2026)
 
 #### Departments
-Department of Security and Crime Science, Department of Engineering Sciences 
+Department of Security and Crime Science, Faculty of Engineering Sciences 
 
 #### Societies
 * UCL Artificial Intelligence Society
