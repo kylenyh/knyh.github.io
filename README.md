@@ -2,9 +2,9 @@
 
 ## Profile Summary
 
-Kyle's focus on cybersecurity is deeply rooted in the exploration of advanced topics such as advanced computer architecture, network and web Security and cryptography engineering. He is keen on understanding how complexity and system performance engineering can be leveraged to fortify cybersecurity frameworks. Additionally, Kyle is interested in the mathematical foundations that underpin these areas, such as calculus, ring theory, number theory, group theory, probability theory, differential equations, artificial intelligence and machine learning. Furthermore, his curiosity extends to emerging technologies like quantum computing, where he seeks to explore their potential impact on cybersecurity and the physics applications behind it. Kyle's other interests in cybersecurity include ethical hacking, penetration testing and privacy engineering in sofware systems.
+Kyle's focus on cybersecurity is deeply rooted in the exploration of advanced topics such as advanced computer architecture, network and web security and cryptography engineering. He is keen on understanding how complexity and system performance engineering can be leveraged to fortify cybersecurity frameworks. Additionally, Kyle is interested in the mathematical foundations that underpin these areas, such as calculus, algebra theory, number theory, probability theory, differential equations, artificial intelligence and machine learning. Furthermore, his curiosity extends to emerging technologies like quantum computing, where he seeks to explore their potential impact on cybersecurity and technology. Kyle's other interests in cybersecurity include ethical hacking, penetration testing and privacy engineering in sofware systems.
 
-Outside his academic pursuits, Kyle dedicates significant time to coding projects that challenge his skills and deepen his understanding of computing and programming principles. He is also committed to self-learning cybersecurity, coding, mathematics and quantum physics during his down time. 
+Outside his academic pursuits, Kyle dedicates significant time to coding projects that challenge his skills and deepen his understanding of computing and programming principles. He is also committed to self-learning cybersecurity, coding, mathematics and quantum physics or computing during his down time. 
 
 ## Skill Building
 
@@ -1279,7 +1279,7 @@ IGCSE (2020 to 2022)
 [Heart Disease Regression Code](https://pym.dev/p/2pycm/)
 
 #### Flower Species Hypothesis Testing (Machine Learning)
-* Applied data visualization tools to showcase observed frequencies across each species 
+* Applied data visualization tools to showcase observed frequencies across each flower species 
 * Conducted a Chi-square goodness of fitness test to make comparisons between 3 flower species categories 
 * Summarized the Chi-square test analysis to make conclusions on hypotheses statements
 
@@ -1288,7 +1288,7 @@ IGCSE (2020 to 2022)
 **Libraries**: ggplot2, ggstatsplot
 
 #### Flower Species Hypothesis Testing 2 (Machine Learning)
-* Applied data visualization tools to showcase observations across 
+* Applied data visualization tools to showcase observations across each flower species 
 * Conducted a Chi-square independence test to make comparisons between 3 flower species categories 
 * Summarized the Chi-square test analysis to make conclusions on hypotheses statements
 
@@ -1296,7 +1296,25 @@ IGCSE (2020 to 2022)
 
 **Libraries**: ggplot2, ggstatsplot
 
-  
+#### Tv Sales Regression Analysis (Machine Learning)
+* Extracted relevant columns to perform regression analysis 
+* Created a simple linear regression model to quantify the relationship between TV advertising and sales
+* Summarized the simple linear regression model to make conclusions on hypotheses statements
+
+[Tv Sales Regression Code](https://pym.dev/p/22sf3/)
+
+**Libraries**: No libraries used 
+
+#### Marketing Sales Regression Analysis (Machine Learning)
+* Extracted relevant columns to perform regression analysis 
+* Created a multiple linear regression model to quantify the relationship between different marketing trends and sales
+* Summarized the multiple linear regression model to make conclusions on hypotheses statements
+
+[Marketing Sales Regression Code](https://pym.dev/p/3a2ws/)
+
+**Libraries**: datarium
+
+
 ## Courses (Certifications)
 
 #### MATLAB
