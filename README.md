@@ -6,7 +6,7 @@ Kyle's focus on cybersecurity is deeply rooted in the exploration of advanced to
 
 Outside his academic pursuits, Kyle dedicates significant time to coding projects that challenge his skills and deepen his understanding of computing and programming principles. He is also committed to self-learning cybersecurity, coding, mathematics and quantum physics or computing during his down time. 
 
-## Skill Building
+## Skills
 
 #### Technical skills
 * Python
