@@ -1297,7 +1297,7 @@ IGCSE (2020 to 2022)
 **Libraries**: ggplot2, ggstatsplot
 
 #### Tv Sales Regression Analysis (Machine Learning)
-* Extracted relevant columns to perform regression analysis 
+* Imported a datatset to perform simple regression analysis 
 * Created a simple linear regression model to quantify the relationship between TV advertising and sales
 * Summarized the simple linear regression model to make conclusions on hypotheses statements
 
@@ -1314,6 +1314,50 @@ IGCSE (2020 to 2022)
 
 **Libraries**: datarium
 
+#### Apple Weight Comparison T-test Analysis (Machine Learning)
+* Created a sample dataset of 20 apples to conduct mean weight analysis 
+* Conducted a one sample t-test to make comparison between actual mean weight of apples and hypothesized mean weight of apples
+* Used the one sample t-test results to make conclusions on hypotheses statements
+
+[Apple Weight Comparison T-test Code](https://pym.dev/p/23usu/)
+
+**Libraries**: No library used
+
+#### Apple Weight from Orchards Comparison T-test Analysis (Machine Learning)
+* Created a sample dataset of 30 apples from 2 orchards to conduct mean weight analysis 
+* Conducted a two sample t-test to make comparison between mean weight of apples across orchards
+* Used the two sample t-test results to make conclusions on hypotheses statements
+
+[Apple Weight from Orchards Comparison T-test Code](https://pym.dev/p/36vg2/)
+
+**Libraries**: ggplot2
+
+#### Participants Weight Diet Comparison T-test Analysis (Machine Learning)
+* Created a sample dataset of 30 participants' weights before and after diet programme to conduct mean weight analysis 
+* Conducted a paired sample t-test to make comparison between mean weight of participants before and after diet programme 
+* Used the paired sample t-test results to make conclusions on hypotheses statements
+
+[Participants Weight Diet Comparison T-test Code](https://pym.dev/p/3cyn3/)
+
+**Libraries**: ggplot2
+
+#### Plant Crop Growth Comparison Anova-test Analysis (Machine Learning)
+* Created a sample dataset of 15 plants and their growth from fertlizer types to conduct mean growth analysis 
+* Conducted a one way anova-test to make comparison between mean growth of plants and 3 fertilizer types 
+* Used the one way anova-test results to make conclusions on hypotheses statements
+
+[Plant Crop Growth Comparison Anova-test Code](https://pym.dev/p/2dbbs/)
+
+**Libraries**: ggplot2
+
+#### Plant Crop Yield Comparison Anova-test Analysis (Machine Learning)
+* Created a sample dataset of 50 plants and their growth from fertlizer types and water levels to conduct mean growth analysis 
+* Conducted a two way anova-test to make comparison between crop yield of plants and 3 fertilizer types and water levels
+* Used the two way anova-test results to make conclusions on hypotheses statements
+
+[Plant Crop Yield Comparison Anova-test Code](https://pym.dev/p/26gjq/)
+
+**Libraries**: ggplot2
 
 ## Courses (Certifications)
 
