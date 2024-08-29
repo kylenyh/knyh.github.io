@@ -4,7 +4,7 @@
 
 Kyle's focus on cybersecurity is deeply rooted in the exploration of advanced topics such as advanced computer architecture, network and web security and cryptography engineering. He is keen on understanding how complexity and system performance engineering can be leveraged to fortify cybersecurity frameworks. Additionally, Kyle is interested in the mathematical foundations that underpin these areas, such as calculus, algebra theory, number theory, probability theory, information theory, complexity theory, differential equations, artificial intelligence and machine learning. Furthermore, his curiosity extends to emerging technologies like quantum computing, where he seeks to explore their potential impact on cybersecurity and technology. Kyle's other interests in cybersecurity include ethical hacking, penetration testing and privacy engineering in sofware systems.
 
-Outside his academic pursuits, Kyle dedicates significant time to coding projects that challenge his skills and deepen his understanding of computing and programming principles. He is also committed to self-learning cybersecurity, coding, mathematics and quantum physics or computing during his down time. 
+Outside his academic pursuits, Kyle dedicates significant time to coding projects that challenge his skills and deepen his understanding of computing and programming principles. He is also committed to self-learning cybersecurity, coding, mathematics and quantum physics or quantum computing during his down time. 
 
 ## Skills
 
