@@ -2,7 +2,7 @@
 
 ## Profile Summary
 
-Kyle's focus on cybersecurity is deeply rooted in the exploration of advanced topics such as advanced computer architecture, network and web security and cryptography engineering. He is keen on understanding how complexity and system performance engineering can be leveraged to fortify cybersecurity frameworks. Additionally, Kyle is interested in the mathematical foundations that underpin these areas, such as calculus, algebra theory, number theory, probability theory, information theory, complexity theory, differential equations, artificial intelligence and machine learning. Furthermore, his curiosity extends to emerging technologies like quantum computing, where he seeks to explore their potential impact on cybersecurity and technology. Kyle's other interests in cybersecurity include ethical hacking, penetration testing and privacy engineering in sofware systems.
+Kyle's interest in cybersecurity is deeply rooted in the exploration of advanced topics such as advanced computer architecture, network and web security and cryptography engineering. He is keen on understanding how complexity and system performance engineering can be leveraged to fortify cybersecurity frameworks. Additionally, Kyle is interested in the mathematical foundations that underpin these areas, such as calculus, algebra theory, number theory, probability theory, information theory, complexity theory, differential equations, artificial intelligence and machine learning. Furthermore, his curiosity extends to emerging technologies like quantum computing, where he seeks to explore their potential impact on cybersecurity and technology. Kyle's other interests in cybersecurity include ethical hacking, penetration testing and privacy engineering in sofware systems.
 
 Outside his academic pursuits, Kyle dedicates significant time to coding projects that challenge his skills and deepen his understanding of computing and programming principles. He is also committed to self-learning cybersecurity, coding, mathematics and quantum physics or quantum computing during his down time. 
 
@@ -740,42 +740,57 @@ IGCSE (2020 to 2022)
 #### Baseball Regression Analysis (Machine Learning)
 * Created a multiple linear regression model and trained it based on self created data
 * Used the model to make predictions on the testing data and performance analysis 
-*
+* Ran hypothesis tests to make conlusions on the data findings
 
 **Libraries**: numpy, matplotlib, pandas, scipy, scikit
 
 #### Cancer Regression Analysis (Machine Learning)
-*
-*
-*
+* Created a binary logistic regression model and trained it based on the data from the datatset
+* Used the model to make predictions on the testing data and performance analysis 
+* Provided a classification report analysis of the model performance
 
 **Libraries**: numpy, matplotlib, pandas, scipy, scikit
+
+[Cancer Regression Code](https://pym.dev/p/35xdt/)
+
+#### Diabetes Regression Analysis (Machine Learning)
+* Created a binary logistic regression model and trained it based on the data from the datatset
+* Used the model to make predictions on the testing data and performance analysis 
+* Provided a classification report analysis of the model performance
+
+**Libraries**: numpy, matplotlib, pandas, scipy, scikit
+
+[Diabetes Regression Code](https://pym.dev/p/38gj3/)
 
 #### House Price Prediction (Machine Learning)
 * Predicted how other variables would affect median house values
 * Provided a few data visualizations to showcase the data 
-* Performed a train test split on to make predicitons on data
+* Performed a train test split to make predictions on data
 
 **Libraries**: numpy, matplotlib, pandas, scipy, scikit
+
+[House Price Prediction Code](https://pym.dev/p/23kfc/)
 
 #### Flight Price Prediction (Machine Learning)
 * Predicted how other variables would affect flight prices
 * Provided a few data visualizations to showcase the data 
-* Performed a train test split to make predicitons on data
+* Performed a train test split to make predictions on data
 
 **Libraries**: numpy, matplotlib, pandas, scipy
+
+[Flight Price Prediction Code](https://pym.dev/p/29bzt/)
 
 #### Stock Price Prediction (Machine Learning)
 * Predicted how other variables would affect stock prices
 * Provided a few data visualizations to showcase the data 
-* Performed a train test split to make predicitons on data
+* Performed a train test split to make predictions on data
 
 **Libraries**: numpy, matplotlib, pandas, scipy
 
 #### Laptop Price Prediction (Machine Learning)
 * Predicted how other variables would affect laptop prices
 * Provided a few data visualizations to showcase the data 
-* Performed a train test split to make predicitons on data
+* Performed a train test split to make predictions on data
 
 **Libraries**: numpy, matplotlib, pandas, scipy
 
