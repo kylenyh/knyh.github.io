@@ -1284,15 +1284,6 @@ IGCSE (2020 to 2022)
 
 [Quarto Report of Crime Types in West BCU London Code](https://pym.dev/p/3cmpf/)
 
-#### Heart Disease Regression Analysis (Machine Learning)
-* Created a univariate binary logistic regression model between patient age and probability of getting heart disease
-* Conducted a model summary analysis to identify coefficient, intercept, p-value, z-value, standard error
-* Constructed a 95% confidence interval based on an age prediction to probability of getting a heart disease
-
-**Libraries**: kmed
-
-[Heart Disease Regression Code](https://pym.dev/p/2pycm/)
-
 #### Flower Species Hypothesis Testing (Machine Learning)
 * Applied data visualization tools to showcase observed frequencies across each flower species 
 * Conducted a Chi-square goodness of fitness test to make comparisons between 3 flower species categories 
@@ -1321,7 +1312,7 @@ IGCSE (2020 to 2022)
 **Libraries**: No library used 
 
 #### Marketing Sales Regression Analysis (Machine Learning)
-* Extracted relevant columns to perform regression analysis 
+* Extracted relevant columns to perform multiple regression analysis 
 * Created a multiple linear regression model to quantify the relationship between different marketing trends and sales
 * Summarized the multiple linear regression model to make conclusions on hypotheses statements
 
@@ -1329,12 +1320,21 @@ IGCSE (2020 to 2022)
 
 **Libraries**: datarium
 
+#### Heart Disease Regression Analysis (Machine Learning)
+* Created a univariate binary logistic regression model between patient age and probability of getting heart disease
+* Conducted a model summary analysis to identify coefficient, intercept, p-value, z-value, standard error
+* Constructed a 95% confidence interval based on an age prediction to probability of getting a heart disease
+
+**Libraries**: kmed
+
+[Heart Disease Regression Code](https://pym.dev/p/2pycm/)
+
 #### Apple Weight Comparison T-test Analysis (Machine Learning)
 * Created a sample dataset of 20 apples to conduct mean weight analysis 
 * Conducted a one sample t-test to make comparison between actual mean weight of apples and hypothesized mean weight of apples
 * Used the one sample t-test results to make conclusions on hypotheses statements
 
-[Apple Weight Comparison T-test Code](https://pym.dev/p/23usu/)
+[Apple Weight Comparison T-test Code](https://pym.dev/p/39v4m/)
 
 **Libraries**: No library used
 
@@ -1343,7 +1343,7 @@ IGCSE (2020 to 2022)
 * Conducted a two sample t-test to make comparison between mean weight of apples across orchards
 * Used the two sample t-test results to make conclusions on hypotheses statements
 
-[Apple Weight from Orchards Comparison T-test Code](https://pym.dev/p/36vg2/)
+[Apple Weight from Orchards Comparison T-test Code](https://pym.dev/p/2afs3/)
 
 **Libraries**: ggplot2
 
@@ -1352,7 +1352,7 @@ IGCSE (2020 to 2022)
 * Conducted a paired sample t-test to make comparison between mean weight of participants before and after diet programme 
 * Used the paired sample t-test results to make conclusions on hypotheses statements
 
-[Participants Weight Diet Comparison T-test Code](https://pym.dev/p/3cyn3/)
+[Participants Weight Diet Comparison T-test Code](https://pym.dev/p/2teat/)
 
 **Libraries**: ggplot2
 
@@ -1361,7 +1361,7 @@ IGCSE (2020 to 2022)
 * Conducted a one way anova-test to make comparison between mean growth of plants and 3 fertilizer types 
 * Used the one way anova-test results to make conclusions on hypotheses statements
 
-[Plant Crop Growth Comparison Anova-test Code](https://pym.dev/p/2dbbs/)
+[Plant Crop Growth Comparison Anova-test Code](https://pym.dev/p/2xsph/)
 
 **Libraries**: ggplot2
 
@@ -1370,9 +1370,37 @@ IGCSE (2020 to 2022)
 * Conducted a two way anova-test to make comparison between crop yield of plants and 3 fertilizer types and water levels
 * Used the two way anova-test results to make conclusions on hypotheses statements
 
-[Plant Crop Yield Comparison Anova-test Code](https://pym.dev/p/26gjq/)
+[Plant Crop Yield Comparison Anova-test Code](https://pym.dev/p/2cybn/)
 
 **Libraries**: ggplot2
+
+#### Trees Height Pearson Correlation Test Analysis (Machine Learning)
+* Imported a trees dataset to conduct linear correlation analysis between girth and height
+* Conducted a Pearson correlation test to test the linear correlation between girth and height
+* Used the Pearson correlation test results to make conclusions on hypotheses statements
+
+[Trees Height Pearson Correlation Test Code](https://pym.dev/p/34x48/)
+
+**Libraries**: ggplot2
+
+#### Car Galons Per Hour Spearman Rank Correlation Test Analysis (Machine Learning)
+* Imported a cars dataset to conduct rank correlation analysis between galons per hour and horsepower
+* Conducted a Spearman Rank correlation test to test the monotonic correlation between girth and height
+* Used the Spearman Rank correlation test results to make conclusions on hypotheses statements
+
+[Car Galons Per Hour Spearman Rank Correlation Test Code](https://pym.dev/p/29vgq/)
+
+**Libraries**: ggplot2
+
+#### Student Test Time Kruskall Wallis Test Analysis (Machine Learning)
+* Created a sample dataset 15 students in 3 different groups to conduct median difference analysis between the groups and mean test times
+* Conducted a Kruskall Wallis test to differences in the median values among groups A, B, C
+* Used the Kruskall Wallis test results to make conclusions on hypotheses statements
+
+[Student Test Time Kruskall Wallis Test Code](https://pym.dev/p/2vapy/)
+
+**Libraries**: ggplot2
+
 
 ## Courses (Certifications)
 
