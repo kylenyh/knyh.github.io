@@ -1284,50 +1284,68 @@ IGCSE (2020 to 2022)
 
 [Quarto Report of Crime Types in West BCU London Code](https://pym.dev/p/3cmpf/)
 
-#### Flower Species Hypothesis Testing (Machine Learning)
+#### Hypothesis Testing (Machine Learning)
 * Applied data visualization tools to showcase observed frequencies across each flower species 
 * Conducted a Chi-square goodness of fitness test to make comparisons between 3 flower species categories 
 * Summarized the Chi-square test analysis to make conclusions on hypotheses statements
 
-[Flower Species Hypothesis Testing Code](https://pym.dev/p/3ceyt/)
+[Flower Species Hypothesis Testing Code]()
 
 **Libraries**: ggplot2, ggstatsplot
 
-#### Flower Species Hypothesis Testing 2 (Machine Learning)
-* Applied data visualization tools to showcase observations across each flower species 
-* Conducted a Chi-square independence test to make comparisons between 3 flower species categories 
-* Summarized the Chi-square test analysis to make conclusions on hypotheses statements
+#### Product Preference Hypothesis Testing (Machine Learning)
+* Created a Chi-square independence test model between between gender and product preferences
+* Created a histogram model to quantify the relationship between gender and product preferences
+* Used the Chi-square independence test results to make conclusions on hypotheses statements
 
-[Flower Species Hypothesis Testing 2 Code](https://pym.dev/p/2fyzu/)
+[Product Preference Hypothesis Testing Code](https://pym.dev/p/34qjb/)
 
-**Libraries**: ggplot2, ggstatsplot
+**Libraries**: ggplot2, dplyr, tidyr
 
-#### Tv Sales Regression Analysis (Machine Learning)
-* Imported a datatset to perform simple regression analysis 
-* Created a simple linear regression model to quantify the relationship between TV advertising and sales
-* Summarized the simple linear regression model to make conclusions on hypotheses statements
+#### Exam Score Regression Analysis (Machine Learning)
+* Created a simple linear regression model between between hours studied and exam score
+* Created a simple linear regression model to quantify the relationship between hours studied and exam score
+* Used the simple linear regression results to make conclusions on hypotheses statements
 
-[Tv Sales Regression Code](https://pym.dev/p/22sf3/)
+[Exam Score Regression Code](https://pym.dev/p/3852w/)
 
-**Libraries**: No library used 
+**Libraries**: ggplot2
 
-#### Marketing Sales Regression Analysis (Machine Learning)
-* Extracted relevant columns to perform multiple regression analysis 
-* Created a multiple linear regression model to quantify the relationship between different marketing trends and sales
-* Summarized the multiple linear regression model to make conclusions on hypotheses statements
+#### Person Income Regression Analysis (Machine Learning)
+* Created a multiple linear regression model between between age, education and experience with income
+* Created a multiple linear regression model to quantify the relationship between age, education and experience with income
+* Used the logistic regression results to make conclusions on hypotheses statements
 
-[Marketing Sales Regression Code](https://pym.dev/p/3a2ws/)
+[Person Income Regression Code](https://pym.dev/p/2zrjm/)
 
-**Libraries**: datarium
+**Libraries**: ggplot2
 
 #### Heart Disease Regression Analysis (Machine Learning)
-* Created a univariate binary logistic regression model between patient age and probability of getting heart disease
-* Conducted a model summary analysis to identify coefficient, intercept, p-value, z-value, standard error
-* Constructed a 95% confidence interval based on an age prediction to probability of getting a heart disease
+* Created a binary logistic regression model between patient age, BMI level and probability of getting heart disease
+* Conducted a logistic regression analysis to identify probability of patients getting cancer based on age and BMI level
+* Used the logistic regression results to make conclusions on hypotheses statements
 
-**Libraries**: kmed
+**Libraries**: ggplot2
 
-[Heart Disease Regression Code](https://pym.dev/p/2pycm/)
+[Heart Disease Regression Code](https://pym.dev/p/2cbau/)
+
+#### Satisfaction Levels Regression Analysis (Machine Learning)
+* Created an ordinal logistic regression model between hours of training and satisfaction levels
+* Conducted an ordinal logistic regression analysis to identify probability between hours of training and satisfaction levels
+* Used the ordinal logistic regression results to make conclusions on hypotheses statements
+
+**Libraries**: MASS, tidyr, ggplot2
+
+[Satisfaction Levels Regression Code](https://pym.dev/p/2nuhz/)
+
+#### [Product Preferences Regression Analysis (Machine Learning)
+* Created a nominal logistic regression model between age and product preferences
+* Conducted a nominal logistic regression analysis to identify probability between age and product preferences
+* Used the nominal logistic regression results to make conclusions on hypotheses statements
+
+**Libraries**: nnet, tidyr, ggplot2
+
+[Product Preferences Regression Code](https://pym.dev/p/3anua/))
 
 #### Apple Weight Comparison T-test Analysis (Machine Learning)
 * Created a sample dataset of 20 apples to conduct mean weight analysis 
