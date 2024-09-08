@@ -41,7 +41,7 @@ This project investigates the intricate dynamics of pendulums via the creation o
 This project was significantly shaped by my self-study using MIT OpenCourseWare. Courses such as MIT Classical Mechanics, MIT Single Variable Calculus, MIT Multivariable Calculus, MIT Python Programming provided the essential knowledge and skills necessary for developing and coding these pendulum physics simulations.
 
 #### Computational Collision Simulation (2<sup>nd</sup>)
-[Computational Collision Physics Paper]()
+[Computational Collision Physics Paper](https://www.academia.edu/123663289/Computational_Physics_Collision_Project)
 
 This project paper delves into the fundamental tenets of collision physics through the creation and execution of a simulation based on Python. Emphasizing both elastic and inelastic collisions, the simulation replicates the dynamics of colliding entities in one and two dimensions, effectively demonstrating the principles of momentum and kinetic energy conservation. By applying classical mechanics, particularly Newtonian motion laws, this paper investigates the mechanisms of momentum and energy transfer during collisions, along with the consequences of various collision types on these conserved quantities. The simulation is designed to accommodate an array of collision categories, including perfectly elastic and perfectly inelastic interactions while offering visual representations of the outcomes. Through these simulations, the project evaluates the influence of parameters such as mass, velocity and impact angle
 on collision results. 
