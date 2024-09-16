@@ -40,7 +40,7 @@ This project focuses on collision physics which is simulated through Python. Usi
 
 ## Published Computer Science and Mathematics Papers
 
-#### Computational Mathematics Differential Equations Project(1<sup>st</sup>)
+#### Computational Mathematics Differential Equations Project (1<sup>st</sup>)
 [Optimization Problem With Differential Equations Paper](https://www.academia.edu/123906379/Computational_Mathematics_Differential_Equations_Project)
 
 This project is about applying differential equations in Python to tackle a self-created optimization problem. The main objective of this project is to either minimize or maximize objective functions while accommodating a range of physical or mathematical constraints delineated by first-order, higher-order and partial differential equations, which will be introduced and explained in this paper. Furthermore, results of the solution for the optimization problem will be provided and these will be further emphasized on and explained in the reflection and conclusion sections of the paper.
