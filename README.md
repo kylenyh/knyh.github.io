@@ -1319,7 +1319,7 @@ IGCSE (2020 to 2022)
 
 **Libraries**: nnet, tidyr, ggplot2
 
-[Product Preferences Regression Code](https://pym.dev/p/3anua/))
+[Product Preferences Regression Code](https://pym.dev/p/3anua/)
 
 #### Apple Weight Comparison T-test Analysis (Machine Learning)
 * Created a sample dataset of 20 apples to conduct mean weight analysis 
