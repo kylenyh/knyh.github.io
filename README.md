@@ -1263,7 +1263,7 @@ IGCSE (2020 to 2022)
 * Conducted a Chi-square goodness of fitness test to make comparisons between 3 flower species categories 
 * Summarized the Chi-square test analysis to make conclusions on hypotheses statements
 
-[Flower Species Hypothesis Testing Code]()
+[Flower Species Hypothesis Testing Code](https://pym.dev/p/38xrs/)
 
 **Libraries**: ggplot2, ggstatsplot
 
@@ -1335,16 +1335,16 @@ IGCSE (2020 to 2022)
 * Conducted a two sample t-test to make comparison between mean weight of apples across orchards
 * Used the two sample t-test results to make conclusions on hypotheses statements
 
-[Apple Weight from Orchards Comparison T-test Code](https://pym.dev/p/2afs3/)
+[Apple Weight from Orchards Comparison T-test Code](https://pym.dev/p/2b95h/)
 
 **Libraries**: ggplot2
 
 #### Participants Weight Diet Comparison T-test Analysis (Machine Learning)
-* Created a sample dataset of 30 participants' weights before and after diet programme to conduct mean weight analysis 
-* Conducted a paired sample t-test to make comparison between mean weight of participants before and after diet programme 
+* Created a sample dataset of 30 participants' weights before and after diet programme to conduct mean student test score analysis 
+* Conducted a paired sample t-test to make comparison between mean score of students test scores before and after study programme 
 * Used the paired sample t-test results to make conclusions on hypotheses statements
 
-[Participants Weight Diet Comparison T-test Code](https://pym.dev/p/2teat/)
+[Students Scores Comparison T-test Code](https://pym.dev/p/33er4/)
 
 **Libraries**: ggplot2
 
@@ -1385,13 +1385,13 @@ IGCSE (2020 to 2022)
 **Libraries**: ggplot2
 
 #### Student Test Time Kruskall Wallis Test Analysis (Machine Learning)
-* Created a sample dataset 15 students in 3 different groups to conduct median difference analysis between the groups and mean test times
-* Conducted a Kruskall Wallis test to differences in the median values among groups A, B, C
+* Created a sample dataset of 45 customers from 3 different stores to conduct median difference analysis between the stores and median customers' satisfaction ratings
+* Conducted a Kruskall Wallis test to differences in the median values of customer satisfaction ratings among stores A, B, C
 * Used the Kruskall Wallis test results to make conclusions on hypotheses statements
 
-[Student Test Time Kruskall Wallis Test Code](https://pym.dev/p/2vapy/)
+[Customer Satisfaction Ratings Kruskall Wallis Test Code](https://pym.dev/p/2jzr9/)
 
-**Libraries**: ggplot2
+**Libraries**: ggplot2, reshape2
 
 
 ## Courses (Certifications)
