@@ -1393,6 +1393,24 @@ IGCSE (2020 to 2022)
 
 **Libraries**: ggplot2, reshape2
 
+#### Weight Loss Measurements Wilcoxon Test Analysis (Machine Learning)
+* Created a sample dataset of 30 patients from 3 different stores to conduct median weight loss value analysis
+* Conducted a One Sample Wilcoxon test to compare differences in the actual median values of patients' weight loss and hypothesized median values of patients' weight loss
+* Used the One Sample Wilcoxon test results to make conclusions on hypotheses statements
+
+[Weight Loss Measurements Wilcoxon Test Code](https://pym.dev/p/2ftqu/)
+
+**Libraries**: ggplot2
+
+#### Weight Loss Measurements 2 Wilcoxon Test Analysis (Machine Learning)
+* Created a sample dataset of 60 patients from 2 different groups to conduct median weight loss value analysis
+* Conducted a two Sample Wilcoxon test to compare differences in the distributions of patients' weight loss values across groups A and B
+* Used the Two Sample Wilcoxon test results to make conclusions on hypotheses statements
+
+[Weight Loss Measurements 2 Wilcoxon Test Code](https://pym.dev/p/24mzz/)
+
+**Libraries**: ggplot2
+
 
 ## Courses (Certifications)
 
