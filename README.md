@@ -547,49 +547,6 @@ IGCSE (2020 to 2022)
 * Ethical considerations in machine learning applications
 * Explainability and interpretability of machine learning
 
-
-### Crime and Security Science 
-* Terrorist organizations and their ideologies
-* Fundamental principles of crime and security science
-* Conducting interviews with crime victims and witnesses
-* Strategies for crime prevention in developing nations
-* The role of government policies in crime prevention
-* The relationship between mental health and criminal behavior
-* The roles of intelligence agencies in combating terrorism
-* The impact of terrorism on global security
-* Crime mapping and its importance in crime prevention
-* Understanding the crime event and its components
-* Probability, statistics and modelling in crime science
-* Programming for crime scientists in crime analysis
-* Security technologies in crime prevention
-* Practical applications of crime science in real-world settings
-* Developing security strategies for crime prevention
-* Understanding digital crimes and their preventions
-* Applications of data science in crime analysis
-* The influence of social networks on criminal behavior
-* The impact of scientific advancements on warfare and crime
-* Effectiveness of situational crime prevention
-* Decision-making processes in investigations
-* Practical applications of crime science theories
-* Strategies for reducing repeat offenses
-* Government policy impacts on crime rates
-* Forensic DNA analysis advancements
-* Preventing radicalization and extremism
-* Psychological impact of crime on victims
-* Methods for tracking illegal activities online
-* Technological solutions to organized crime
-* Legal frameworks for combating cybercrime
-* Role of family dynamics in criminal behavior
-* Role of social media in crime investigations
-* Role of education in preventing crime
-* Impact of cultural norms on crime rates
-* Role of international organizations in crime control
-* Science and technology in peacekeeping
-* Drug trafficking prevention strategies
-* Addressing global crime challenges
-* Economic development and crime trends
-* Designing and conducting research projects in crime science
-
 ## Projects (Technical)
 
 ### Python
@@ -1408,15 +1365,6 @@ IGCSE (2020 to 2022)
 * Used the One Sample Wilcoxon test results to make conclusions on hypotheses statements
 
 [Weight Loss Measurements Wilcoxon Test Code](https://pym.dev/p/2ftqu/)
-
-**Libraries**: ggplot2
-
-#### Weight Loss Measurements 2 Wilcoxon Test Analysis (Machine Learning)
-* Created a sample dataset of 60 patients from 2 different groups to conduct median weight loss value analysis
-* Conducted a two Sample Wilcoxon test to compare differences in the distributions of patients' weight loss values across groups A and B
-* Used the Two Sample Wilcoxon test results to make conclusions on hypotheses statements
-
-[Weight Loss Measurements 2 Wilcoxon Test Code](https://pym.dev/p/24mzz/)
 
 **Libraries**: ggplot2
 
