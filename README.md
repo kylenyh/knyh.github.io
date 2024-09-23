@@ -1366,6 +1366,15 @@ IGCSE (2020 to 2022)
 
 **Libraries**: ggplot2
 
+#### Student Test Score Anova-test Analysis (Machine Learning)
+* Created a sample dataset of 45 students under 3 different teaching methods to conduct mean test score analysis 
+* Conducted a Friedman anova-test to make comparison between students and 3 teaching methods and students' median test scores
+* Used the Friedman anova-test results to make conclusions on hypotheses statements
+
+[Student Test Score Anova-test Code](https://pym.dev/p/383yq/)
+
+**Libraries**: ggplot2, reshape2
+
 #### Trees Height Pearson Correlation Test Analysis (Machine Learning)
 * Imported a trees dataset to conduct linear correlation analysis between girth and height
 * Conducted a Pearson correlation test to test the linear correlation between girth and height
@@ -1408,6 +1417,24 @@ IGCSE (2020 to 2022)
 * Used the Two Sample Wilcoxon test results to make conclusions on hypotheses statements
 
 [Weight Loss Measurements 2 Wilcoxon Test Code](https://pym.dev/p/24mzz/)
+
+**Libraries**: ggplot2
+
+#### Weight Loss Measurements 2 Wilcoxon Test Analysis (Machine Learning)
+* Created a sample dataset of 60 patients from 2 different groups to conduct median weight loss value analysis
+* Conducted a two Sample Wilcoxon test to compare differences in the distributions of patients' weight loss values across groups A and B
+* Used the Two Sample Wilcoxon test results to make conclusions on hypotheses statements
+
+[Weight Loss Measurements 2 Wilcoxon Test Code](https://pym.dev/p/24mzz/)
+
+**Libraries**: ggplot2
+
+#### Customer Satisfaction Ratings Mann Whitney U Test Analysis (Machine Learning)
+* Created a sample dataset of 30 customers from 2 different stores to conduct customer satisfaction ratings analysis
+* Conducted a two Sample Wilcoxon test to compare the distributions of customer satisfaction ratings between Store A and Store B
+* Used the Mann Whitney U Test test results to make conclusions on hypotheses statements
+
+[Customer Satisfaction Ratings Mann Whitney U Test Code](https://pym.dev/p/25jks/)
 
 **Libraries**: ggplot2
 
