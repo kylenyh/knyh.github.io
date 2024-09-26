@@ -8,13 +8,13 @@ Outside his academic pursuits, Kyle dedicates significant time to coding project
 
 ## Skills
 
-#### Technical skills
+### Technical skills
 Python, C#, MATLAB, R, MS Office Suite, LaTeX
 
-#### Language skills
+### Language skills
 English (Fluent), Mandarin (Conversational), Malay (Conversational)
 
-#### Soft skills
+### Soft skills
 Creativity, Critical thinking, Problem solving, Problem analysis, Independence, Teamwork
 
 ## Published Computer Science and Physics Papers
