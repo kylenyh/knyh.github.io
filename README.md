@@ -1163,23 +1163,38 @@ IGCSE (2020 to 2022)
 
 #### Crime Mapping Projects
 
-* Vehicle Theft Density Map (Vancouver, 2020) - Mapped vehicle thefts with neighborhood overlays.
-**Libraries**: ggspatial, sf, sfhotspot, tidyverse
+# Crime Mapping and Analysis Projects
 
-* Fatal Shootings Density Map (New York City, 2019) - Visualized shootings with precinct overlays.
-**Libraries**: ggspatial, sf, sfhotspot, tidyverse
+## Density Maps
 
-* Stalking Incidence Rate Map (Queensland, 2018) - Choropleth of stalking incident rates by division.
-**Libraries**: leaflet, sf, readxl, tidyverse
+### Vehicle Theft Density Map (Vancouver, 2020)
+- **Description**: Mapped vehicle thefts with neighborhood overlays.
+- **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `tidyverse`
 
-Two-Wheeled Vehicle Theft Density Map (Prague, 2022) - Mapped hotspots for two-wheeled vehicle thefts.
-**Libraries**: ggspatial, sf, sfhotspot, tidyverse
+### Fatal Shootings Density Map (New York City, 2019)
+- **Description**: Visualized shootings with precinct overlays.
+- **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `tidyverse`
 
-Quarto Report of Crime Types (South West BCU London, 2022) - Created a detailed report in R analyzing specific crime types.
-**Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
+### Two-Wheeled Vehicle Theft Density Map (Prague, 2022)
+- **Description**: Mapped hotspots for two-wheeled vehicle thefts.
+- **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `tidyverse`
 
-Quarto Report of Crime Types (West BCU London, 2022) - Created a detailed report identifying priority crime types and hotspots.
-**Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
+## Incidence Rate Maps
+
+### Stalking Incidence Rate Map (Queensland, 2018)
+- **Description**: Choropleth of stalking incident rates by division.
+- **Libraries**: `leaflet`, `sf`, `readxl`, `tidyverse`
+
+## Quarto Crime Reports
+
+### Quarto Report of Crime Types (South West BCU London, 2022)
+- **Description**: Created a detailed report in R analyzing specific crime types.
+- **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `gt`, `tidyverse`
+
+### Quarto Report of Crime Types (West BCU London, 2022)
+- **Description**: Created a detailed report identifying priority crime types and hotspots.
+- **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `gt`, `tidyverse`
+
 
 
 #### Hypothesis Testing (Machine Learning)
