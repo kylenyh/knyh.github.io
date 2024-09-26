@@ -1161,59 +1161,26 @@ IGCSE (2020 to 2022)
 
 ### R 
 
-#### A Density Map Of Vehicle Thefts (Crime Mapping)
-* Generated a density map illustrating thefts from vehicles in Vancouver throughout 2020, using crime data from a CSV file
-* Integrated a base map and overlaid Vancouver's neighborhood boundaries and names for clear contextualization
-* Visually represented the spatial distribution of thefts, aiding in hotspot identification and informing crime prevention strategies
+#### Crime Mapping Projects
 
+* Vehicle Theft Density Map (Vancouver, 2020) - Mapped vehicle thefts with neighborhood overlays.
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
-[Density Map Of Vehicle Thefts Code](https://pym.dev/p/25xym/)
-
-#### A Density Map Of Fatal Shootings (Crime Mapping)
-* Generated a density map illustrating fatal shootings in New York City throughout 2019, based on crime data from a CSV file
-* Incorporated NYPD precinct boundaries and overlaid precinct numbers on the map for enhanced spatial context
-* Visualized the concentration of fatal incidents to inform law enforcement strategies and community engagement efforts aimed at addressing gun violence
-
+* Fatal Shootings Density Map (New York City, 2019) - Visualized shootings with precinct overlays.
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
-[Density Map Of Fatal Shootings Code](https://pym.dev/p/2vtq9/)
-
-#### An Incidence Rate Map Of Stalking Incidents (Crime Mapping)
-* Created a choropleth map showing stalking incident rates across Queensland police divisions in 2018, integrating incident counts and population data
-* Provided insights into the relative prevalence of stalking crimes, highlighting areas of heightened concern
-* Identified and displayed the names of the top 10 divisions with the highest stalking rates to guide policy-making and resource allocation
-
+* Stalking Incidence Rate Map (Queensland, 2018) - Choropleth of stalking incident rates by division.
 **Libraries**: leaflet, sf, readxl, tidyverse
 
-[Incidence Rate Map Of Stalking Incidents Code](https://pym.dev/p/2zj5m/)
-
-#### A Second Density Map Of Vehicle Thefts (Crime Mapping)
-* Created a density map depicting two-wheeled vehicle theft prevalence in Prague during 2022
-* Used KDE to identify statistically significant hotspots, pinpointing areas of heightened criminal activity
-* Ensured accuracy by limiting crime data to Prague's city boundary, offering insights crucial for law enforcement and urban planning strategies
-
-[Second Density Map Of Thefts Code](https://pym.dev/p/28chq/)
-
+Two-Wheeled Vehicle Theft Density Map (Prague, 2022) - Mapped hotspots for two-wheeled vehicle thefts.
 **Libraries**: ggspatial, sf, sfhotspot, tidyverse
 
-#### Quarto Report of Crimes Types in South West BCU London (Crime Mapping)
-* Created a detailed report in R analyzing specific crime types within the South West BCU of London
-* Utilized tables, maps, and charts to visually represent key crime types and high-risk areas
-* Provided data-driven recommendations for tasking team deployment, focusing on prioritizing crime problems and patrol areas based on current trends and geographic hotspots in the South West BCU
-
+Quarto Report of Crime Types (South West BCU London, 2022) - Created a detailed report in R analyzing specific crime types.
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
-[Quarto Report of Crimes Types in South West BCU London Code](https://pym.dev/p/2gdrv/)
-
-#### Quarto Report of Crimes Types in West BCU London (Crime Mapping)
-* Created a Quarto report in R to analyze 2022 crime data for the West Area Basic Command Unit (BCU)
-* Identified priority crime types and hotspots for the Local Tasking Team, focusing on vehicle theft incidence rates by ward
-* Examined the relationship between deprivation levels and rates of violent and sexual crimes to inform potential government funding applications, while acknowledging limitations of the data
-
+Quarto Report of Crime Types (West BCU London, 2022) - Created a detailed report identifying priority crime types and hotspots.
 **Libraries**: ggspatial, sf, sfhotspot, gt, tidyverse
 
-[Quarto Report of Crime Types in West BCU London Code](https://pym.dev/p/3cmpf/)
 
 #### Hypothesis Testing (Machine Learning)
 * Applied data visualization tools to showcase observed frequencies across each flower species 
