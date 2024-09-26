@@ -1159,13 +1159,8 @@ IGCSE (2020 to 2022)
 #### Extended Green’s Theorem (Multivariable Calculus)
 
 
-### R 
 
-#### Crime Mapping Projects
-
-# Crime Mapping and Analysis Projects
-
-## Density Maps
+## R (Crime Mapping and Analysis Projects)
 
 ### Vehicle Theft Density Map (Vancouver, 2020)
 - **Description**: Mapped vehicle thefts with neighborhood overlays.
@@ -1179,13 +1174,9 @@ IGCSE (2020 to 2022)
 - **Description**: Mapped hotspots for two-wheeled vehicle thefts.
 - **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `tidyverse`
 
-## Incidence Rate Maps
-
 ### Stalking Incidence Rate Map (Queensland, 2018)
 - **Description**: Choropleth of stalking incident rates by division.
 - **Libraries**: `leaflet`, `sf`, `readxl`, `tidyverse`
-
-## Quarto Crime Reports
 
 ### Quarto Report of Crime Types (South West BCU London, 2022)
 - **Description**: Created a detailed report in R analyzing specific crime types.
