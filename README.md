@@ -1160,29 +1160,29 @@ IGCSE (2020 to 2022)
 
 
 
-## R (Crime Mapping and Analysis Projects)
+### R (Crime Mapping and Analysis Projects)
 
-### Vehicle Theft Density Map (Vancouver, 2020)
+#### Vehicle Theft Density Map (Vancouver, 2020)
 - **Description**: Mapped vehicle thefts with neighborhood overlays.
 - **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `tidyverse`
 
-### Fatal Shootings Density Map (New York City, 2019)
+#### Fatal Shootings Density Map (New York City, 2019)
 - **Description**: Visualized shootings with precinct overlays.
 - **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `tidyverse`
 
-### Two-Wheeled Vehicle Theft Density Map (Prague, 2022)
+#### Two-Wheeled Vehicle Theft Density Map (Prague, 2022)
 - **Description**: Mapped hotspots for two-wheeled vehicle thefts.
 - **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `tidyverse`
 
-### Stalking Incidence Rate Map (Queensland, 2018)
+#### Stalking Incidence Rate Map (Queensland, 2018)
 - **Description**: Choropleth of stalking incident rates by division.
 - **Libraries**: `leaflet`, `sf`, `readxl`, `tidyverse`
 
-### Quarto Report of Crime Types (South West BCU London, 2022)
+#### Quarto Report of Crime Types (South West BCU London, 2022)
 - **Description**: Created a detailed report in R analyzing specific crime types.
 - **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `gt`, `tidyverse`
 
-### Quarto Report of Crime Types (West BCU London, 2022)
+#### Quarto Report of Crime Types (West BCU London, 2022)
 - **Description**: Created a detailed report identifying priority crime types and hotspots.
 - **Libraries**: `ggspatial`, `sf`, `sfhotspot`, `gt`, `tidyverse`
 
