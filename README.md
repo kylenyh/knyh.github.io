@@ -35,7 +35,7 @@ This project is about applying differential equations in Python to tackle a self
 
 ### University College London (UCL)
 
-**Qualification**: BSc - Crime and Security Science (2023 to 2026)
+**Qualification**: BSc - Crime and Security Science (2023 - 2026)
 
 **Department**: Department of Security and Crime Science, Faculty of Engineering Sciences 
 
@@ -51,48 +51,27 @@ Project in Security and Crime Prevention
 **Year 3 Modules**: Cybercrime, Data Science for Crime Scientists, Criminal Investigation and Intelligence,
 Security and Crime Science Research Project
 
-### [University of Warwick]
 
-#### Qualification
-International Foundation Programme - Computer Science (2022 to 2023)
+### University of Warwick
 
-#### Department
-Department of Engineering 
+**Qualification**: IFP - Computer Science (2022 - 2023)
 
-#### Societies
-* Warwick Computing Society
-* Warwick Maths Society
-* Warwick Physics Society
-* Warwick Malaysian Student Association
+**Department**: Department of Engineering 
 
-#### Modules
-* Further Mathematics and Statistics
-* Pure Mathematics
-* Computer Science
-* English for Academic Purposes
-* Inquiry and Research Skills
+**Societies**: Warwick Computing Society, Warwick Maths Society, Warwick Physics Society, Warwick Malaysian Student Association
+
+**Modules**: Further Mathematics and Statistics, Pure Mathematics, Computer Science, English for Academic Purposes, 
+Inquiry and Research Skills
 
 
-### [St Joseph Instituition International School]
+### St Joseph Instituition International School
 
-#### Qualification
-IGCSE (2020 to 2022)
+**Qualification**: IGCSE (2020 - 2022)
 
-#### Extra-curriculars
-* Competitive Mathematics squad
-* Chess
-* Exploring the Blockchain
-* Football
+**Societies**: Competitive Mathematics squad, Chess, Exploring the Blockchain, Football
 
-#### Subjects
-* International Mathematics
-* Physics
-* Chemistry
-* First Language English
-* English Literature
-* Economics
-* Foreign Language Mandarin
-* Geography 
+**Societies**: International Mathematics, Physics, Chemistry, First Language English,
+English Literature, Economics, Foreign Language Mandarin, Geography 
 
 
   
