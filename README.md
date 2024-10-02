@@ -22,20 +22,20 @@ Creativity, Critical thinking, Problem solving, Problem analysis, Independence, 
 #### Computational Physics Collision Simulation (1<sup>st</sup>)
 [Computational Collision Physics Paper](https://www.academia.edu/123663289/Computational_Physics_Collision_Project)
 
-This project focuses on collision physics which is simulated through Python. Using both elastic and inelastic collisions, the simulation presents the dynamics of colliding entities in one and two dimensions, effectively demonstrating the principles of momentum and kinetic energy conservation. By applying classical mechanics, particularly Newtonian motion laws, this paper looks into the mechanisms of momentum and energy transfer during collisions, along with the consequences of various collision types on these parameters. The simulation is designed to not only accommodate simulate elastic and inelastic collisions but also offer visual representations of the outcomes. Through these simulations, the project evaluates the influence of parameters such as mass, velocity and impact angle on collision results. 
+This project focuses on collision physics which is simulated through Python. Using both elastic and inelastic collisions, the simulation presents the dynamics of colliding entities in one and two dimensions, effectively demonstrating the principles of momentum and kinetic energy conservation. By applying classical mechanics, particularly Newtonian motion laws, this paper at the mechanisms of momentum and energy transfer during collisions, along with the consequences of various collision types on these parameters. The simulation is designed to not only accommodate simulate elastic and inelastic collisions but also offer visual representations of the outcomes. Through these simulations, the project paper evaluates the influence of parameters such as mass, velocity and impact angle on collision results. 
 
 ## Published Computer Science and Mathematics Papers
 
 #### Computational Mathematics Differential Equations Project (1<sup>st</sup>)
 [Optimization Problem With Differential Equations Paper](https://www.academia.edu/123906379/Computational_Mathematics_Differential_Equations_Project)
 
-This project is about applying differential equations in Python to tackle a self-created optimization problem. The main objective of this project is to either minimize or maximize objective functions while accommodating a range of physical or mathematical constraints delineated by first-order, higher-order and partial differential equations, which will be introduced and explained in this paper. Furthermore, results of the solution for the optimization problem will be provided and these will be further emphasized on and explained in the reflection and conclusion sections of the paper.
+This project is about applying differential equations in Python to tackle a self-created optimization problem. The main objective of this project is to either minimize or maximize objective functions while accommodating a range of physical or mathematical constraints delineated by first-order, higher-order and partial differential equations, which are introduced and explained in this paper. Furthermore, results of the solution for the optimization problem are provided and these are emphasized on and explained in the reflection and conclusion sections of the paper.
 
 ## Education
 
 ### University College London (UCL)
 
-**Qualification**: BSc - Crime and Security Science (2023 - 2026)
+**Qualification**: BSc Crime and Security Science (2023 - 2026)
 
 **Department**: Department of Security and Crime Science, 
 Faculty of Engineering Sciences 
@@ -59,7 +59,7 @@ Security and Crime Science Research Project
 
 ### University of Warwick
 
-**Qualification**: IFP - Computer Science (2022 - 2023)
+**Qualification**: IFP Computer Science (2022 - 2023)
 
 **Department**: Department of Computer Science, Faculty of Engineering
 
