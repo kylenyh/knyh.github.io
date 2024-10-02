@@ -1005,48 +1005,27 @@ IGCSE (2020 to 2022)
 
 ## Additional Courses (Self-Learn)
 
-#### MIT OpenCourseWare
+#### MIT OpenCourseWare (Department of Physics)
+* [MIT Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) (Completed)
+* [MIT Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
+* [MIT Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/)
+* [MIT Statistical Physics](https://ocw.mit.edu/courses/res-8-010-introduction-to-statistical-physics-summer-2018/) (Completed)
 
-[**MIT Quantum Physics I (Dept of Physics)**](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)
+#### MIT OpenCourseWare (Department of Mathematics)
+* [MIT Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+* [MIT Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) (Completed)
+* [MIT Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+* [MIT Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+* [MIT Introduction To Probability And Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/) (Completed)
 
-[**MIT Quantum Physics II (Dept of Physics)**](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
-
-[**MIT Quantum Physics III (Dept of Physics)**](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/)
-
-[**MIT Statistical Physics (Dept of Physics)**](https://ocw.mit.edu/courses/res-8-010-introduction-to-statistical-physics-summer-2018/)
-
-[**MIT Nuclear Physics (Dept of Nuclear Science and Engineering)**](https://ocw.mit.edu/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/)
-
-[**MIT Linear Algebra (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
-
-
-[**MIT Single Variable Calculus (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
-
-
-[**MIT Multivariable Calculus (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
-
-
-[**MIT Differential Equations (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
-
-[**MIT Introduction To Probability (Dept of Mathematics)**](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
-
-[**MIT Introduction To Probability And Statistics (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)
-
-[**MIT Introduction To Real Analysis (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
-
-[**MIT Computer Science and Programming (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-
-[**MIT Computer Science and Mathematics (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
-  
-[**MIT Computer Science and Software Systems (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
-
-[**MIT Computer Science and Data Science (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-
-[**MIT Computer Science and Algorithms (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
-
-[**MIT Computer Science and Network Models (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/1-022-introduction-to-network-models-fall-2018/)
-
-[**MIT Computer Science and Quantum Computing (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/)
+#### MIT OpenCourseWare (Department of Electrical Engineering and Computer Science)
+* [MIT Computer Science and Programming](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) (Completed)
+* [MIT Computer Science and Mathematics](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) (Completed)
+* [MIT Computer Science and Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
+* [MIT Computer Science and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+* [MIT Computer Science and Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+* [MIT Computer Science and Network Models](https://ocw.mit.edu/courses/1-022-introduction-to-network-models-fall-2018/)
+* [MIT Computer Science and Quantum Computing](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/)
 
 #### Harvard CS50
 * [Harvard CS50’s Introduction to Programming with Python – Full University Course](https://youtu.be/nLRL_NcnK-4?t=27266) (Completed)
