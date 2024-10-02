@@ -34,6 +34,7 @@ This project is about applying differential equations in Python to tackle a self
 ## Education
 
 ### University College London (UCL)
+
 **Qualification**: BSc - Crime and Security Science (2023 to 2026)
 **Department**: Department of Security and Crime Science, Faculty of Engineering Sciences 
 **Societies**: UCL Artificial Intelligence Society, UCL Blockchain Labs Society, UCL Physics Society, UCL Malaysian Society
