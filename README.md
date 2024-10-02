@@ -33,7 +33,7 @@ This project is about applying differential equations in Python to tackle a self
 
 ## Education
 
-#### University College London (UCL)
+### University College London (UCL)
 
 **Qualification**: BSc - Crime and Security Science (2023 - 2026)
 
@@ -57,7 +57,7 @@ Criminal Investigation and Intelligence,
 Security and Crime Science Research Project
 
 
-#### University of Warwick
+### University of Warwick
 
 **Qualification**: IFP - Computer Science (2022 - 2023)
 
@@ -71,7 +71,7 @@ Computer Science, English for Academic Purposes,
 Inquiry and Research Skills
 
 
-#### St Joseph Instituition International School
+### St Joseph Instituition International School
 
 **Qualification**: IGCSE (2020 - 2022)
 
