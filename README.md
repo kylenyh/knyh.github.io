@@ -37,7 +37,8 @@ This project is about applying differential equations in Python to tackle a self
 
 **Qualification**: BSc - Crime and Security Science (2023 - 2026)
 
-**Department**: Department of Security and Crime Science, Faculty of Engineering Sciences 
+**Department**: Department of Security and Crime Science, 
+Faculty of Engineering Sciences 
 
 **Societies**: UCL Artificial Intelligence Society, UCL Blockchain Labs Society, UCL Physics Society, 
 UCL Malaysian Society
@@ -47,10 +48,12 @@ Probability and Statistics I, Crime and Society, Introduction to Crime and Secur
 Programming for Crime Scientists
 
 **Year 2 Modules**: Systems and Problem Solving, Situational Crime Prevention, Probability and Statistics II,
-Psychology and Crime, Introduction to Research, Security Technologies, Organised Crime,
+Psychology and Crime, 
+Introduction to Research, Security Technologies, Organised Crime,
 Project in Security and Crime Prevention
 
-**Year 3 Modules**: Cybercrime, Data Science for Crime Scientists, Criminal Investigation and Intelligence,
+**Year 3 Modules**: Cybercrime, Data Science for Crime Scientists, 
+Criminal Investigation and Intelligence,
 Security and Crime Science Research Project
 
 
@@ -63,18 +66,21 @@ Security and Crime Science Research Project
 **Societies**: Warwick Computing Society, Warwick Maths Society, Warwick Physics Society, 
 Warwick Malaysian Student Association
 
-**Modules**: Further Mathematics and Statistics, Pure Mathematics, Computer Science, 
-English for Academic Purposes, Inquiry and Research Skills
+**Modules**: Further Mathematics and Statistics, Pure Mathematics, 
+Computer Science, English for Academic Purposes, 
+Inquiry and Research Skills
 
 
 ### St Joseph Instituition International School
 
 **Qualification**: IGCSE (2020 - 2022)
 
-**Societies**: Competitive Mathematics squad, Chess, Exploring the Blockchain, Football
+**Societies**: Competitive Mathematics squad, Chess, 
+Exploring the Blockchain, Football
 
-**Societies**: International Mathematics, Physics, Chemistry, First Language English,
-English Literature, Economics, Foreign Language Mandarin, Geography 
+**Societies**: International Mathematics, Physics, Chemistry, 
+First Language English, English Literature, Economics, 
+Foreign Language Mandarin, Geography 
 
 
   
