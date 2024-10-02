@@ -537,181 +537,6 @@ IGCSE (2020 to 2022)
 
 ### Python
 
-#### Snake Game (Game Development)
-* Implemented game logic to control the snake's movement, grow its length upon consuming food and die when tail touches its body
-* Used loops, conditional statements, classes, objects and data structures for the snake, food, game window and game score system 
-* Added a grid system to track the snake's movement in the game and food object random placement
-* Made a few changes to the game by allowing to snake to move through the walls without dying 
-
-**Libraries**: math, pygame 
-
-[Snake Game Code](https://pym.dev/p/36vwz/)
-
-#### Chess Game (Game Development)
-* Simulated and added the AI Stockfish chess engine library to determine optimal moves and challenge players with varying difficulty levels
-* Difficulty cutomization level can be set accordingly by changing the skill level in the game to create challenge for players 
-* Used classes, lists, objects, data structures and file manipulations to simulate the game pieces, chess rules, score system and the chess board
-* Game includes a game move tracker which records every move made by the player 
-
-**Libraries**: pygame, sys, random, os, stockfish
-
-#### Tic-Tac-Toe Game (Game Development)
-
-#### Pong Game (Game Development)
-
-#### Pac-Man (Game Development)
-
-#### A* Algorithm (Graph Theory)
-* Started with a priority queue to keep track of tentative distances from the start node to all other nodes
-* Implemented functions to find the shortest path between two points, considering various obstacles and optimizing the path based on cost functions
-* Used a heuristic function to estimate the cost of the cheapest path from node n to the goal
-* For each neighbor node, tenative g-score is calculated from the start node to find total cost
-
-**Libraries**: No library used
-
-[A* Algorithm Code](https://pym.dev/p/2vvmd/)
-
-#### Dijkstra Algorithm (Graph Theory)
-* Started with a priority queue to maintain nodes sorted by their tentative distance from the start node
-* Implemented a function that explores all reachable nodes from the start node, considering them in order of their distance from the start
-* Function selects the node with the smallest tentative distance and updates the distances to its neighbors until all nodes have been processed or the priority queue is empty
-
-**Libraries**: No library used
-
-[Dijkstra Algorithm Code](https://pym.dev/p/2dsrj/)
-
-#### Bellman-Ford Algorithm (Graph Theory)
-* Implemented a code which initializes distances from the source node to all other nodes as infinity, except for the source node itself which is set to 0
-* Implemented a function that updates the shortest path distances if a shorter path through a node is found
-* Iterates through all edges multiple times, adjusting the shortest path estimates by considering each edge's weight
-
-**Libraries**: No library used
-
-[Bellman Ford Algorithm Code](https://pym.dev/p/39xjt/)
-
-#### Breadth First Search Algorithm (Graph Theory)
-
-**Libraries**: No library used
-
-#### Depth First Search Algorithm (Graph Theory)
-
-**Libraries**: No library used
-
-#### Floyd-Warshall Algorithm (Graph Theory)
-
-**Libraries**: No library used
-
-#### Johnson's Algorithm (Graph Theory)
-
-**Libraries**: No library used
-
-#### Kruskal's Algorithm (Graph Theory)
-
-**Libraries**: No library used
-
-#### Prim's Algorithm (Graph Theory)
-
-**Libraries**: No library used
-
-#### Kosaraju's Algorithm (Graph Theory)
-
-**Libraries**: No library used
-
-#### Tarjan's Algorithm (Graph Theory)
-
-**Libraries**: No library used
-
-#### Crime Data Collection Survey (Programming for Crime Scientists)
-* Designed and implemented functions, lists and dictionaries to gather and analyze data on crime incidents
-* Developed an intuitive interface allowing participants to anonymously submit information
-* Contributed to a database supporting academic research and informing public safety strategies
-* Aimed to provide insights into crime patterns through comprehensive data analysis with graphs and scatter plots
-
-[Dataset Text File](https://pym.dev/p/2w5ke/)
-[Data Fill Code](https://pym.dev/p/22uz8/)
-[Data Evaluation Code](https://pym.dev/p/29xdn/)
-[Data Dictionaries Code](https://pym.dev/p/39pxb/)
-
-**Libraries**: numpy, matplotlib, csv, json, pickle, requests, pandas, seaborn, scipy, random, math
-
-#### Crime Data Analysis of UK Neighborhoods (Programming for Crime Scientists)
-* Developed an interface to retrieve crime information by neighborhood for specified year and month
-* Enabled users to access detailed crime data for specific neighborhoods
-* Integrated data visualization tools to illustrate crime patterns
-* Applied kernel density estimations to analyze crime locations within neighborhoods
-
-**Libraries**: numpy, matplotlib, csv, json, pickle, requests, pandas, seaborn
-
-[Tasks 1 - 6 Code](https://pym.dev/p/2vwr4/)
-[Tasks 6 - 8 Code](https://pym.dev/p/2exbg/)
-
-#### Moisture Regression Analysis (Machine Learning)
-* Created a linear regression model and trained it based on the data from the datatset
-* Used the model to make predictions on the testing data and performance analysis 
-* Ran hypothesis tests to make conlusions on the data findings
-
-**Libraries**: numpy, matplotlib, pandas, scipy, scikit, seaborn
-
-[Moisture Regression Code](https://pym.dev/p/32f2s/)
-
-#### Baseball Regression Analysis (Machine Learning)
-* Created a multiple linear regression model and trained it based on self created data
-* Used the model to make predictions on the testing data and performance analysis 
-* Ran hypothesis tests to make conlusions on the data findings
-
-**Libraries**: numpy, matplotlib, pandas, scipy, scikit
-
-#### Cancer Regression Analysis (Machine Learning)
-* Created a binary logistic regression model and trained it based on the data from the datatset
-* Used the model to make predictions on the testing data and performance analysis 
-* Provided a classification report analysis of the model performance
-
-**Libraries**: numpy, matplotlib, pandas, scipy, scikit
-
-[Cancer Regression Code](https://pym.dev/p/35xdt/)
-
-#### Diabetes Regression Analysis (Machine Learning)
-* Created a binary logistic regression model and trained it based on the data from the datatset
-* Used the model to make predictions on the testing data and performance analysis 
-* Provided a classification report analysis of the model performance
-
-**Libraries**: numpy, matplotlib, pandas, scipy, scikit
-
-[Diabetes Regression Code](https://pym.dev/p/38gj3/)
-
-#### House Price Prediction (Machine Learning)
-* Predicted how other variables would affect median house values
-* Provided a few data visualizations to showcase the data 
-* Performed a train test split to make predictions on data
-
-**Libraries**: numpy, matplotlib, pandas, scipy, scikit
-
-[House Price Prediction Code](https://pym.dev/p/23kfc/)
-
-#### Flight Price Prediction (Machine Learning)
-* Predicted how other variables would affect flight prices
-* Provided a few data visualizations to showcase the data 
-* Performed a train test split to make predictions on data
-
-**Libraries**: numpy, matplotlib, pandas, scipy
-
-[Flight Price Prediction Code](https://pym.dev/p/29bzt/)
-
-#### Stock Price Prediction (Machine Learning)
-* Predicted how other variables would affect stock prices
-* Provided a few data visualizations to showcase the data 
-* Performed a train test split to make predictions on data
-
-**Libraries**: numpy, matplotlib, pandas, scipy
-
-#### Laptop Price Prediction (Machine Learning)
-* Predicted how other variables would affect laptop prices
-* Provided a few data visualizations to showcase the data 
-* Performed a train test split to make predictions on data
-
-**Libraries**: numpy, matplotlib, pandas, scipy
-
-
 
 
 ### MATLAB
@@ -1178,157 +1003,50 @@ IGCSE (2020 to 2022)
 #### edX
 * [HarvardX - Data Science: R Basics](https://courses.edx.org/certificates/9d69f8954649476b836f78ea8934e39d)
 
-
-
 ## Additional Courses (Self-Learn)
 
 #### MIT OpenCourseWare
 
 [**MIT Quantum Physics I (Dept of Physics)**](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/)
-* Quantum Physics I, Spring 2016: Part I (Completed)
-* Quantum Physics I, Spring 2016: Part II (Ongoing)
-* Quantum Physics I, Spring 2016: Part III (Not Started)
 
 [**MIT Quantum Physics II (Dept of Physics)**](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
-* Quantum Physics II, Spring 2013: Topic I (Not Started)
-* Quantum Physics II, Spring 2013: Topic II (Not Started)
-* Quantum Physics II, Spring 2013: Topic III (Not Started)
-* Quantum Physics II, Spring 2013: Topic IV (Not Started)
-* Quantum Physics II, Spring 2013: Topic V (Not Started)
-* Quantum Physics II, Spring 2013: Topic VI (Not Started)
-* Quantum Physics II, Spring 2013: Topic VII (Not Started)'
 
 [**MIT Quantum Physics III (Dept of Physics)**](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/)
-* Quantum Physics III, Spring 2018: Part I (Not Started)
-* Quantum Physics III, Spring 2018: Part II (Not Started)
-* Quantum Physics III, Spring 2018: Part III (Not Started)
 
 [**MIT Statistical Physics (Dept of Physics)**](https://ocw.mit.edu/courses/res-8-010-introduction-to-statistical-physics-summer-2018/)
-* Introduction To Statistical Physics, Spring 2018: Topic I (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic II (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic III (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic IV (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic V (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic VI (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic VII (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic VIII (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic IX (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic X (Not Started)
-* Introduction To Statistical Physics, Spring 2018: Topic XI (Not Started)
-
 
 [**MIT Nuclear Physics (Dept of Nuclear Science and Engineering)**](https://ocw.mit.edu/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic I (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic II (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic III (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic IV (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic V (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic VI (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic VII (Not Started)
-* Introduction To Applied Nuclear Physics, Spring 2012: Topic VIII (Not Started)
-
 
 [**MIT Linear Algebra (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
-* Linear Algebra, Fall 2011: Unit I (Completed)
-* Linear Algebra, Fall 2011: Unit II (Completed)
-* Linear Algebra, Fall 2011: Unit III (Ongoing)
 
 
 [**MIT Single Variable Calculus (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
-* Single Variable Calculus, Fall 2010: Unit I, Part A (Completed)
-* Single Variable Calculus, Fall 2010: Unit I, Part B (Completed)
-* Single Variable Calculus, Fall 2010: Unit II, Part A (Completed)
-* Single Variable Calculus, Fall 2010: Unit II, Part B (Completed)
-* Single Variable Calculus, Fall 2010: Unit II, Part C (Completed)
-* Single Variable Calculus, Fall 2010: Unit III, Part A (Completed)
-* Single Variable Calculus, Fall 2010: Unit III, Part B (Completed)
-* Single Variable Calculus, Fall 2010: Unit III, Part C (Completed)
-* Single Variable Calculus, Fall 2010: Unit IV, Part A (Completed)
-* Single Variable Calculus, Fall 2010: Unit IV, Part B (Completed)
-* Single Variable Calculus, Fall 2010: Unit IV, Part C (Completed)
-* Single Variable Calculus, Fall 2010: Unit V, Part A (Completed)
-* Single Variable Calculus, Fall 2010: Unit V, Part B ((Completed)
 
 
 [**MIT Multivariable Calculus (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
-* Multivariable Calculus, Fall 2010: Unit I, Part A (Completed)
-* Multivariable Calculus, Fall 2010: Unit I, Part B (Completed)
-* Multivariable Calculus, Fall 2010: Unit I, Part C (Completed)
-* Multivariable Calculus, Fall 2010: Unit II, Part A (Completed)
-* Multivariable Calculus, Fall 2010: Unit II, Part B (Completed)
-* Multivariable Calculus, Fall 2010: Unit II, Part C (Completed)
-* Multivariable Calculus, Fall 2010: Unit III, Part A (Completed)
-* Multivariable Calculus, Fall 2010: Unit III, Part B (Not Started)
-* Multivariable Calculus, Fall 2010: Unit III, Part C (Not Started)
-* Multivariable Calculus, Fall 2010: Unit IV, Part A (Not Started)
-* Multivariable Calculus, Fall 2010: Unit IV, Part B (Not Started)
-* Multivariable Calculus, Fall 2010: Unit IV, Part C (Not Started)
 
 
 [**MIT Differential Equations (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
-* Differential Equations, Fall 2011: Unit I (Not Started)
-* Differential Equations, Fall 2011: Unit II (Not Started)
-* Differential Equations, Fall 2011: Unit III (Not Started)
-* Differential Equations, Fall 2011: Unit IV (Not Started)
 
 [**MIT Introduction To Probability (Dept of Mathematics)**](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
-* Introduction To Probability, Spring 2022: Part I (Not Started)
-* Introduction To Probability, Spring 2022: Part II (Not Started)
-* Introduction To Probability, Spring 2022: Part III (Not Started)
 
 [**MIT Introduction To Probability And Statistics (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)
-* Introduction To Probability And Statistics, Spring 2022: Unit I (Not Started)
-* Introduction To Probability And Statistics, Spring 2022: Unit II (Not Started)
-* Introduction To Probability And Statistics, Spring 2022: Unit III (Not Started)
-* Introduction To Probability And Statistics, Spring 2022: Unit IV (Not Started)
 
 [**MIT Introduction To Real Analysis (Dept of Mathematics)**](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
-* Introduction To Real Analysis, Fall 2020: Unit I - V (Not Started)
-* Introduction To Real Analysis, Fall 2020: Unit VI - X (Not Started)
-* Introduction To Real Analysis, Fall 2020: Unit XI - XIII (Not Started)
 
 [**MIT Computer Science and Programming (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* Introduction To Computer Science And Programming In Python, Fall 2016: Unit I - VI (Completed)
-* Introduction To Computer Science And Programming In Python, Fall 2016: Unit VII - XII (Completed)
 
 [**MIT Computer Science and Mathematics (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
-* Introduction To Mathematics for Computer Science, Fall 2010: Unit I - V (Not Started)
-* Introduction To Mathematics for Computer Science, Fall 2010: Unit VI - X (Not Started)
-* Introduction To Mathematics for Computer Science, Fall 2010: Unit XI - XV (Not Started)
-* Introduction To Mathematics for Computer Science, Fall 2010: Unit XVI - XX (Not Started)
-* Introduction To Mathematics for Computer Science, Fall 2010: Unit XXI - XXV (Not Started)
   
 [**MIT Computer Science and Software Systems (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
-* Introduction To Performance Engineering Of Software Systems, Fall 2018: Unit I - V (Not Started)
-* Introduction To Performance Engineering Of Software Systems, Fall 2018: Unit VI - X (Not Started)
-* Introduction To Performance Engineering Of Software Systems Fall 2018: Unit XI - XV (Not Started)
-* Introduction To Performance Engineering Of Software Systems, Fall 2018: Unit XVI - XX (Not Started)
-* Introduction To Performance Engineering Of Software Systems, Fall 2018: Unit XXI - XXIV (Not Started)
 
 [**MIT Computer Science and Data Science (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-* Introduction To Computational Thinking And Data Science, Fall 2016: Unit I - V (Not Started)
-* Introduction To Computational Thinking And Data Science, Fall 2016: Unit VI - X (Not Started)
-* Introduction To Computational Thinking And Data Science, Fall 2016: Unit XI - XV (Not Started)
 
 [**MIT Computer Science and Algorithms (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
-* Introduction To Algorithms, Fall 2016: Unit I - V (Not Started)
-* Introduction To Algorithms, Fall 2016: Unit VI - X (Not Started)
-* Introduction To Algorithms, Fall 2016: Unit XI - XV (Not Started)
-* Introduction To Algorithms, Fall 2010: Unit XVI - XX (Not Started)
 
 [**MIT Computer Science and Network Models (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/1-022-introduction-to-network-models-fall-2018/)
-* Introduction To Network Models, Fall 2018: Unit I - V (Not Started)
-* Introduction To Network Models, Fall 2018: Unit VI - X (Not Started)
-* Introduction To Network Models, Fall 2018: Unit XI - XV (Not Started)
-* Introduction To Network Models, Fall 2018: Unit XVI - XX (Not Started)
-* Introduction To Network Models, Fall 2018: Unit XXI - XXIV (Not Started)
 
 [**MIT Computer Science and Quantum Computing (Dept of Electrical Engineering and Computer Science)**](https://ocw.mit.edu/courses/6-845-quantum-complexity-theory-fall-2010/)
-* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit I - V (Not Started)
-* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit VI - X (Not Started)
-* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XI - XV (Not Started)
-* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XVI - XX (Not Started)
-* Introduction to Quantum Computational Complexity Theory, Fall 2010: Unit XXI - XXIV (Not Started)
 
 #### Harvard CS50
 * [Harvard CS50’s Introduction to Programming with Python – Full University Course](https://youtu.be/nLRL_NcnK-4?t=27266) (Completed)
@@ -1336,8 +1054,6 @@ IGCSE (2020 to 2022)
 * [Harvard CS50’s Web Programming with Python and JavaScript – Full University Course](https://youtu.be/vzGllw18DkA?t=2) (Completed)
 * [Harvard CS50 (2023) – Full Computer Science University Course](https://youtu.be/LfaMVlDaQ24?t=6) (Completed)
 * [Harvard CS50 (2022) – Full Computer Science University Course](https://youtu.be/8mAITcNt710?t=19) (Completed)
-
-
 
 ## Hobbies
 Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing chess, Stock investment
