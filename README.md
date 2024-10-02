@@ -19,7 +19,7 @@ Creativity, Critical thinking, Problem solving, Problem analysis, Independence, 
 
 ## Published Computer Science and Physics Papers
 
-#### Computational Collision Simulation (1<sup>st</sup>)
+#### Computational Physics Collision Simulation (1<sup>st</sup>)
 [Computational Collision Physics Paper](https://www.academia.edu/123663289/Computational_Physics_Collision_Project)
 
 This project focuses on collision physics which is simulated through Python. Using both elastic and inelastic collisions, the simulation presents the dynamics of colliding entities in one and two dimensions, effectively demonstrating the principles of momentum and kinetic energy conservation. By applying classical mechanics, particularly Newtonian motion laws, this paper looks into the mechanisms of momentum and energy transfer during collisions, along with the consequences of various collision types on these parameters. The simulation is designed to not only accommodate simulate elastic and inelastic collisions but also offer visual representations of the outcomes. Through these simulations, the project evaluates the influence of parameters such as mass, velocity and impact angle on collision results. 
