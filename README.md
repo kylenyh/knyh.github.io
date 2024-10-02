@@ -33,13 +33,12 @@ This project is about applying differential equations in Python to tackle a self
 
 ## Education
 
-### [University College London (UCL)](https://www.ucl.ac.uk/) (1<sup>st</sup>)
+### [University College London (UCL)]
 
 #### Qualification 
 Bachelor of Science - Crime and Security Science (2023 to 2026)
 
-#### Departments
-Department of Security and Crime Science, Faculty of Engineering Sciences 
+Departments: Department of Security and Crime Science, Faculty of Engineering Sciences 
 
 #### Societies
 * UCL Artificial Intelligence Society
@@ -74,7 +73,7 @@ Department of Security and Crime Science, Faculty of Engineering Sciences
 * Criminal Investigation and Intelligence
 * Security and Crime Science Research Project
 
-### [University of Warwick](https://warwick.ac.uk/) (2<sup>nd</sup>)
+### [University of Warwick]
 
 #### Qualification
 International Foundation Programme - Computer Science (2022 to 2023)
@@ -96,7 +95,7 @@ Department of Engineering
 * Inquiry and Research Skills
 
 
-### [St Joseph Instituition International School](https://www.sji-international.edu.my/) (3<sup>rd</sup>)
+### [St Joseph Instituition International School]
 
 #### Qualification
 IGCSE (2020 to 2022)
