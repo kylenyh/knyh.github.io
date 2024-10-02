@@ -39,10 +39,12 @@ This project is about applying differential equations in Python to tackle a self
 
 **Department**: Department of Security and Crime Science, Faculty of Engineering Sciences 
 
-**Societies**: UCL Artificial Intelligence Society, UCL Blockchain Labs Society, UCL Physics Society, UCL Malaysian Society
+**Societies**: UCL Artificial Intelligence Society, UCL Blockchain Labs Society, UCL Physics Society, 
+UCL Malaysian Society
 
-**Year 1 Modules**: Crime Mapping, Understanding the Crime Event, Qualitative Methods, Probability and Statistics I,
-Crime and Society, Introduction to Crime and Security science, Terrorism, Programming for Crime Scientists
+**Year 1 Modules**: Crime Mapping, Understanding the Crime Event, Qualitative Methods, 
+Probability and Statistics I, Crime and Society, Introduction to Crime and Security science, Terrorism, 
+Programming for Crime Scientists
 
 **Year 2 Modules**: Systems and Problem Solving, Situational Crime Prevention, Probability and Statistics II,
 Psychology and Crime, Introduction to Research, Security Technologies, Organised Crime,
@@ -56,12 +58,13 @@ Security and Crime Science Research Project
 
 **Qualification**: IFP - Computer Science (2022 - 2023)
 
-**Department**: Department of Engineering 
+**Department**: Department of Computer Science, Faculty of Engineering
 
-**Societies**: Warwick Computing Society, Warwick Maths Society, Warwick Physics Society, Warwick Malaysian Student Association
+**Societies**: Warwick Computing Society, Warwick Maths Society, Warwick Physics Society, 
+Warwick Malaysian Student Association
 
-**Modules**: Further Mathematics and Statistics, Pure Mathematics, Computer Science, English for Academic Purposes, 
-Inquiry and Research Skills
+**Modules**: Further Mathematics and Statistics, Pure Mathematics, Computer Science, 
+English for Academic Purposes, Inquiry and Research Skills
 
 
 ### St Joseph Instituition International School
@@ -489,11 +492,9 @@ English Literature, Economics, Foreign Language Mandarin, Geography
 * Ethical considerations in machine learning applications
 * Explainability and interpretability of machine learning
 
-## Projects (Technical)
+## Projects
 
 ### Python
-
-
 
 ### MATLAB
 
@@ -993,10 +994,9 @@ English Literature, Economics, Foreign Language Mandarin, Geography
 ## Hobbies
 Coding, Physics, Watching documentaries/football, Traveling, E-gaming, Playing chess, Stock investment
 
-
 ## Achievements
-* IGCSE, Science Award | St Joseph Institution International School
-* UCMAS, Math Award | Mental Math Competitions
+* IGCSE Science Award, St Joseph Institution International School
+* UCMAS Math Award, Mental Math Competitions
 
 ## Additional Resources
 
