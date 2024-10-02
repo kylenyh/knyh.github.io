@@ -92,7 +92,7 @@ Foreign Language Mandarin, Geography
 
 ## Physics Membership
 
-#### Institute of Physics 
+### Institute of Physics 
 
 **Roles**: Associate member of the UK physics community (September 2024 - )
 
