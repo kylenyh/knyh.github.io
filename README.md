@@ -87,11 +87,14 @@ Foreign Language Mandarin, Geography
 **Community service project (2021)** - 12 Hour Run, raised funds for ‘Refugee Community’
 **Community service project (2019)** - Raised funds for underprivileged community, contributed to environment clean up
 
-## Institute of Physics (September 2024 - )
-* Currently an associate member within the physics communnity in the UK
-* Looking to attend webinars, conferences, and workshops on cutting-edge physics topics
-* Looking to network with fellow physicists and industry professionals to gain knowledge and research ideas
-  
+## Physics Membership
+
+### Institute of Physics 
+
+**Roles**: Associate member of the UK physics community (September 2024 - )
+
+**Interests**: Semiconductor physics, Computational phyics, Quantum physics, Nuclear physics, Particle Physics 
+
 ## Personal Interests
 
 ### Physics 
