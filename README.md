@@ -33,7 +33,7 @@ This project is about applying differential equations in Python to tackle a self
 
 ## Education
 
-### University College London (UCL)
+#### University College London (UCL)
 
 **Qualification**: BSc - Crime and Security Science (2023 - 2026)
 
@@ -57,7 +57,7 @@ Criminal Investigation and Intelligence,
 Security and Crime Science Research Project
 
 
-### University of Warwick
+#### University of Warwick
 
 **Qualification**: IFP - Computer Science (2022 - 2023)
 
@@ -71,7 +71,7 @@ Computer Science, English for Academic Purposes,
 Inquiry and Research Skills
 
 
-### St Joseph Instituition International School
+#### St Joseph Instituition International School
 
 **Qualification**: IGCSE (2020 - 2022)
 
@@ -82,7 +82,7 @@ Exploring the Blockchain, Football
 First Language English, English Literature, Economics, 
 Foreign Language Mandarin, Geography 
 
-#### Community Outreach Programme
+#### Community Outreach Programme (High School)
 
 **Refugee Outreach Campaign (2022)** - Raised donations, collection of recycling items for international refugees
 
@@ -92,7 +92,7 @@ Foreign Language Mandarin, Geography
 
 ## Physics Membership
 
-### Institute of Physics 
+#### Institute of Physics 
 
 **Roles**: Associate member of the UK physics community (September 2024 - )
 
