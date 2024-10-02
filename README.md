@@ -78,11 +78,19 @@ Inquiry and Research Skills
 **Societies**: Competitive Mathematics squad, Chess, 
 Exploring the Blockchain, Football
 
-**Societies**: International Mathematics, Physics, Chemistry, 
+**Subjects**: International Mathematics, Physics, Chemistry, 
 First Language English, English Literature, Economics, 
 Foreign Language Mandarin, Geography 
 
+#### Community Outreach Programme
+**Refugee Outreach Campaign (2022)** - Raised donations, collection of recycling items for international refugees
+**Community service project (2021)** - 12 Hour Run, raised funds for ‘Refugee Community’
+**Community service project (2019)** - Raised funds for underprivileged community, contributed to environment clean up
 
+## Institute of Physics (September 2024 - )
+* Currently an associate member within the physics communnity in the UK
+* Looking to attend webinars, conferences, and workshops on cutting-edge physics topics
+* Looking to network with fellow physicists and industry professionals to gain knowledge and research ideas
   
 ## Personal Interests
 
