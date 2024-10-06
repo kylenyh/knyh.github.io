@@ -534,6 +534,10 @@ This graph theory GitHub repository contains a collection of graph theory algori
 
 [kylenyh Graph Theory Github](https://github.com/kylenyh/Graph-Theory-Personal)
 
+#### Python (Machine Learning - Personal)
+
+[kylenyh machine learning Github](https://github.com/kylenyh/Machine-Learning-Personal)
+
 ### R
 
 #### R (Crime Mapping - UCL)
