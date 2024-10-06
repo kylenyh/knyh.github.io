@@ -4,7 +4,7 @@
 
 Kyle's interest in cybersecurity is deeply rooted in the exploration of advanced topics such as advanced computer architecture, network and web security and cryptography engineering. He is keen on understanding how complexity and system performance engineering can be leveraged to fortify cybersecurity frameworks. Additionally, Kyle is interested in the mathematical foundations that underpin these areas, such as calculus, algebra theory, number theory, probability theory, information theory, complexity theory, differential equations, artificial intelligence and machine learning. Furthermore, his curiosity extends to emerging technologies like quantum computing, where he seeks to explore their potential impact on cybersecurity and other areas of technology. Kyle's other interests in cybersecurity include ethical hacking, penetration testing and privacy engineering in sofware systems.
 
-Outside his academic pursuits, Kyle dedicates time to coding projects in his down time to challenge his skills and deepen his understanding of computing and programming principles. He is also committed to self-learning cybersecurity, mathematics and quantum physics or quantum computing during his down time. 
+Outside his academic pursuits, Kyle dedicates time to coding projects in his down time to challenge his skills and deepen his understanding of computing and programming principles. He is also committed to self-learning cybersecurity, mathematics and quantum physics or quantum computing. 
 
 ## Skills
 
@@ -82,7 +82,7 @@ Exploring the Blockchain, Football
 First Language English, English Literature, Economics, 
 Foreign Language Mandarin, Geography 
 
-#### Community Outreach Programme (High School)
+#### Community Outreach Programme
 
 **Refugee Outreach Campaign (2022)** - Raised donations, collection of recycling items for international refugees
 
@@ -96,12 +96,12 @@ Foreign Language Mandarin, Geography
 
 **Roles**: Associate member of the UK physics community (September 2024 - )
 
-**Interests**: Semiconductor physics, Computational phyics, Quantum physics, Nuclear physics, Particle Physics 
+**Interests**: Semiconductor physics, Computational phyics, Quantum physics, Nuclear physics, Particle Physics, Condensed Matter Physics, Solid State Physics
 
 ## Personal Interests
 
 ### Physics 
-* Principles of quantum physics
+* Understanding the principles of quantum physics
 * Quantum superposition of interacting quantum particles 
 * Quantum entanglement of interacting quantum particles 
 * Quantum many-body systems of interacting quantum particles 
@@ -118,7 +118,7 @@ Foreign Language Mandarin, Geography
 * Quantum field theory of quantum fields 
 * Quantum matrix theory of quantum matrices 
 * Quantum theory of matter in quantum states and systems 
-* Principles of plasma physics
+* Understanding the principles of plasma physics
 * Plasma approximation as a state of matter
 * Plasma ionization degree as a state of matter
 * Plasma density degree as a state of matter
@@ -126,7 +126,7 @@ Foreign Language Mandarin, Geography
 * Plasma potential as a state of matter
 * Plasma magnetization as a state of matter
 * Plasma modelling as a state of matter
-* Principles of fluid physics
+* Understanding the principles of fluid physics
 * Newtonian equations of fluids
 * Non-Newtonian equations of fluids
 * Navier-Stokes equations of fluids 
@@ -153,7 +153,7 @@ Foreign Language Mandarin, Geography
 * Radioactive decay of radioactive elements
 * Mechanics of nuclear reactors for experiments
 * Mechanics of nuclear weapons for warfare 
-* Principles of condensed matter physics
+* Understanding the principles of condensed matter physics
 * Crystallography properties of solid and liquid matter objects
 * Electronic structure properties of solid and liquid matter objects
 * Superconductivity properties of solid and liquid matter objects
@@ -161,7 +161,7 @@ Foreign Language Mandarin, Geography
 * Lattice properties of solid and liquid matter objects
 * Magnetic properties of solid and liquid matter objects
 * Experimental techniques of solid and liquid matter objects
-* Principles of solid state physics
+* Understanding the principles of solid state physics
 * Crystallography properties of solid matter objects
 * Electronic structure properties of solid matter objects
 * Superconductivity properties of solid matter objects
@@ -170,13 +170,13 @@ Foreign Language Mandarin, Geography
 * Magnetic properties of solid matter objects
 * Thermal properties of solid matter objects
 * Experimental techniques of solid matter objects
-* Principles of thermodynamics physics
+* Understanding the principles of thermodynamics physics
 * Laws of thermodynamics and energy changes in systems 
 * Equilibrium thermodynamics of systems 
 * Non-equillibrium thermodynamics of systems 
 * Thermodynamical system models of matter states
 * Thermodynamical states and processes of system models
-* Principles of statistical physics
+* Understanding the principles of statistical physics
 * Particle statistics of atomic motion 
 * Chemical reactions of statistical systems 
 * Flow of particles and heat in statistical systems 
@@ -188,7 +188,7 @@ Foreign Language Mandarin, Geography
 * Monte Carlo method applications in statistical systems
 * Stochastic method applications in statistical systems
 * Non-equillibrium thermodynamics of statistical system processes
-* Principles of semiconductor physics
+* Understanding the principles of semiconductor physics
 * Electronic band structures of semiconductor materials
 * Conductivity band structures of semiconductor materials
 * Energy band structures of semiconductor materials
@@ -204,10 +204,8 @@ Foreign Language Mandarin, Geography
 * Wave equation for electric and magnetic fields
 * Transformations of electric and magnetic fields
 
-
-
 ### Computer Science
-* Principles of quantum computing
+* Understanding the principles of quantum computing
 * Quantum algorithm simulations in quantum systems
 * Quantum circuit simulations in quantum systems
 * Quantum logic gate simulations in quantum systems
@@ -251,21 +249,20 @@ Foreign Language Mandarin, Geography
 * Database design techniques in computing
 * Types of databases used in computing
 * Roles of databases in computing
-* Principles of architecture systems in computing
-* Principles of cybersecurity in computing
-* Principles of hardware in computing
-* Principles of algorithms in computing
-* Principles of computational techniques in computing
-
+* Understanding the principles of architecture systems in computing
+* Understanding the principles of cybersecurity in computing
+* Understanding the principles of hardware in computing
+* Understanding the principles of algorithms in computing
+* Understanding the principles of computational techniques in computing
 
 ### Mathematics
 * Mathematical analysis of limits, sequences, series, functions
 * Systems of linear equations and matrices in multi-dimensions
-* Principles of vector spaces and linear transformations 
-* Principles of modelling and data analysis
-* Principles of multi-dimensional vector calculus and differential operators
-* Principles of statistical interference and modelling in computers
-* Principles of statistical theory to develop and evaluate optimum statistical procedures 
+* Understanding the principles of vector spaces and linear transformations 
+* Understanding the principles of modelling and data analysis
+* Understanding the principles of multi-dimensional vector calculus and differential operators
+* Understanding the principles of statistical interference and modelling in computers
+* Understanding the principles of statistical theory to develop and evaluate optimum statistical procedures 
 * Applications of group theory and rings
 * Lebesgue's theory of measure and integration in partial differential equations
 * Mathematical theory of analyzing complex model systems
@@ -306,9 +303,8 @@ Foreign Language Mandarin, Geography
 * Multivariable calculus techniques in solving Fourier series equations
 * Multivariable calculus techniques in solving first-order systems
 
-
 ### Engineering 
-* Principles of electrical engineering
+* Understanding the principles of electrical engineering
 * Computer modelling techniques used to solve and evaluate the performance of engineering systems
 * Kirchhoff’s current and voltage laws to calculate currents and voltages
 * The concept of power in AC and DC circuits in real transformers and other circuits
@@ -335,11 +331,11 @@ Foreign Language Mandarin, Geography
 * Analysis of low-frequency response in discrete-circuit amplifiers
 * Analysis and design of opto-electronics sytstems and optical communications systems
 * Analysis and design of photonic systems and sub-systems
-* Principles of analogue and digital electronics and associated components
-* Principles of analogue and digital signals and systems
-* Principles of single-stage MOS amplifiers
-* Principles of differential MOS amplifiers
-* Principles of network engineering
+* Understanding the principles of analogue and digital electronics and associated components
+* Understanding the principles of analogue and digital signals and systems
+* Understanding the principles of single-stage MOS amplifiers
+* Understanding the principles of differential MOS amplifiers
+* Understanding the principles of network engineering
 * Network security protocols and encryption
 * TCP/IP protocol stack optimization
 * Wireless communication standards and protocols
@@ -388,7 +384,7 @@ Foreign Language Mandarin, Geography
 * Comparing the circuit model, MBQC and topological quantum computing
 * Investigating superconducting qubits, trapped ions, and photonic qubits
 * Simulating physical systems using quantum computers
-* Understanding principles and applications of quantum annealing
+* Understanding the principles and applications of quantum annealing
 * Comparing quantum and classical annealing techniques
 * Utilizing the Variational Quantum Eigensolver (VQE)
 * Exploring the Quantum Approximate Optimization Algorithm (QAOA)
@@ -407,7 +403,6 @@ Foreign Language Mandarin, Geography
 * Understanding the evolution of quantum systems over time
 * Simulating Hamiltonian evolution in quantum systems
 * Developing and applying quantum sensors for precision measurements
-
 
 ### Cybersecurity
 * Understanding the principles of cybersecurity
@@ -506,7 +501,6 @@ Foreign Language Mandarin, Geography
 * Analyzing and forecasting with time series
 * Anomaly detection using machine learning techniques
 * Predictive maintenance through machine learning models
-* Machine learning applications in healthcare field
 * Autonomous systems and robotics using AI
 * Recommendation systems powered by machine learning
 * Ethical considerations in machine learning applications
@@ -515,6 +509,80 @@ Foreign Language Mandarin, Geography
 ## Projects
 
 ### Python
+
+#### Python (Programming for Crime Scientists - UCL)
+
+This programming for crime scientists GitHub repository contains Python programming projects focused on fundamental programming concepts such as data structures, types, iteration and file input/output. In addition to these core principles, it includes the use of mathematical and statistical packages to analyze real-world crime-related datasets. These datasets include crime reports, survey data and community data, providing practical applications of computational methods. Weekly lab exercises were provided for the module and I leverage on these experiences to refine my programming skills and analytical techniques for crime data analysis. Please refer to the github repository below to view the source code of the projects I worked on. 
+
+[kylenyh Programming for Crime Scientists UCL Github](https://github.com/kylenyh/Programming-for-Crime-Scientists-UCL)
+
+#### Python (Quantum Physics - Personal)
+
+#### Python (Quantum Computing - Personal)
+
+#### Python (Classical Physics - Personal)
+
+#### Python (Game Development - Personal)
+
+This game development GitHub repository showcases several Python-based projects, including a chess engine, snake game and pong game, each designed with unique mechanics and gameplay. The chess engine incorporates Stockfish engine for strategic gameplay, while the snake and pong games demonstrate smooth animations and responsive controls using the Pygame library. These projects reflect my skills in Python programming, game physics implementation and algorithmic problem-solving. The repository is a growing portfolio of my work, with plans to add new features, such as enhanced game modes and additional levels. Please refer to the github repository below to view the source code of present projects and future projects. 
+
+[kylenyh Game Development Github](https://github.com/kylenyh/Game-Development-Personal)
+
+#### Python (Graph Theory - Personal)
+
+This graph theory GitHub repository contains a collection of graph theory algorithms implemented in Python. It features well-known algorithms like Dijkstra’s for shortest paths, DFS/BFS algorithms for graph traversal and Kruskal’s algorithm for minimum spanning trees, among others. These implementations cover essential graph theory concepts such as connectivity, graph coloring and network flow. The repository leverages Python for efficient manipulation and visualization of graph data. The algorithms are optimized for performance, with a focus on time complexity and scalability. Ongoing work includes expanding the repository with more advanced algorithms. Please refer to the github repository below to view the source code of present projects and future projects. 
+
+[kylenyh Graph Theory Github](https://github.com/kylenyh/Graph-Theory-Personal)
+
+### R
+
+#### R (Crime Mapping - UCL)
+
+This crime mapping UCL Github repository showcases my work on crime mapping using Geographic Information System (GIS) techniques, implemented in R. It includes projects focused on analyzing geographical data and visualizing crime patterns, with a strong emphasis on different mapping methods such as heatmaps, choropleth maps, and hotspot analysis. The repository also demonstrates cartographic skills, addressing the strengths and weaknesses of various crime mapping techniques. By applying GIS principles, I explore the practical uses of crime mapping, providing insights into crime trends and spatial distribution. Please refer to the github repository below to view the source code of the projects. 
+
+[kylenyh Crime Mapping UCL Github](https://github.com/kylenyh/Crime-Mapping-UCL)
+
+### R (Probability, Statistics and Modelling I - UCL)
+
+This probability, statistics and modelling I UCL Github repository contains a collection of R scripts focused on applying quantitative analysis to real-world crime phenomena. The projects include various statistical tests and probability distributions, such as binomial distribution, chi-square tests, t-tests, ANOVA and Poisson distribution. These tools enable rigorous data analysis, fostering an intuitive understanding of uncertainty and providing insights into crime-related datasets. By exploring these quantitative concepts, I demonstrate how data can be formally represented and interpreted to uncover patterns and trends in crime. The repository reflects my work from UCL’s module on quantitative reasoning, providing a solid foundation in both theoretical and practical aspects of crime data analysis. Please refer to the github repository below to view the source code of the projects. 
+
+[kylenyh Probability, Statistics and Modelling I UCL Github](https://github.com/kylenyh/Probability-Statistics-and-Modelling-1-UCL)
+
+### R (Probability, Statistics and Modelling II - UCL)
+
+This probability, statistics and modelling II UCL Github repository features a collection of R scripts that apply statistical modeling techniques to crime and security science data. The repository covers a wide range of models and tests, including binary and ordinal logistic regressions, multiple linear regression, non-parametric tests (e.g., Mann-Whitney U, Wilcoxon) and correlation tests (Pearson and Spearman). These scripts illustrate the use of generalized linear models with various link functions, emphasizing statistical inference, intuition and interpretation. Each project builds on concepts from UCL’s Probability, Statistics and Modelling I module on statistical analysis, which builds on the foundation of applying quantitative methods to statistically interpret and analyze real-world crime datasets. Please refer to the github repository below to view the source code of the projects. 
+
+[kylenyh Probability, Statistics and Modelling II UCL Github](https://github.com/kylenyh/Probability-Statistics-and-Modelling-2-UCL)
+
+### R (Data Science for Crime Scientists - UCL)
+
+[kylenyh Data Science for Crime Scientists UCL Github](https://github.com/kylenyh/Data-Science-for-Crime-Scientists-UCL)
+
+### MATLAB
+
+#### MATLAB (Linear Algebra - MIT)
+
+This linear algebra MIT Github repository contains MATLAB-based projects that apply concepts from MIT’s Linear Algebra (18.06SC) course. It covers topics such as matrix operations, vector spaces, eigenvalues, eigenvectors, and linear transformations. The projects focus on solving systems of linear equations, exploring the properties of matrices, and applying linear algebra techniques to real-world problems. Each script demonstrates a practical understanding of the key principles and computations involved in linear algebra, building upon self-learned material. This repository provides a comprehensive exploration of foundational linear algebra concepts, showing their utility in both theoretical and applied contexts. Please refer to the github repository below to view the source code of the projects. 
+
+[kylenyh Linear Algebra MIT Github](https://github.com/kylenyh/Linear-Algebra-MIT)
+
+#### MATLAB (Single Variable Calculus - MIT)
+
+This single variable calculus MIT Github repository features MATLAB-based projects derived from my self-learning of MIT’s Single Variable Calculus (18.01SC) course. The projects focus on fundamental calculus topics, including limits, derivatives, integrals, and series. Through hands-on computations, I explore real-world applications of calculus such as curve sketching, optimization problems, and calculating areas under curves. The scripts demonstrate a practical understanding of how these core principles apply to both theoretical and applied problems. This repository reflects my engagement with calculus concepts and showcases how MATLAB can be used to visualize and solve calculus-related challenges. Please refer to the github repository below to view the source code of the projects. 
+
+[kylenyh Single Variable Calculus MIT Github](https://github.com/kylenyh/Single-Variable-Calculus-MIT)
+
+#### MATLAB (Multivariable Calculus - MIT)
+
+This multivariable calculus MIT Github repository contains MATLAB-based projects from my self-learning of MIT’s Multivariable Calculus (18.02SC) course. Topics include partial derivatives, gradients, multiple integrals, and vector calculus. The projects emphasize practical applications such as calculating flux, understanding vector fields, and solving optimization problems involving several variables. Each script showcases a computational approach to visualizing surfaces, integrating functions over complex regions, and working with vector-valued functions. This repository demonstrates my ability to apply multivariable calculus concepts to real-world problems, combining theory with MATLAB’s powerful computational tools. Please refer to the github repository below to view the source code of the projects. 
+
+[kylenyh Multivariable Calculus MIT Github](https://github.com/kylenyh/Multivariable-Calculus-MIT)
+
+#### MATLAB (Differential Equations - MIT)
+
+This differential equations MIT GitHub repository incldues MATLAB-based projects from my self-learning of MIT's Differential Equations (18.03SC) course. This course provided a comprehensive introduction to the theory and applications of differential equations. My MATLAB projects demonstrate a variety of techniques for solving both ordinary and partial differential equations. These works showcase methods such as separation of variables, eigenvalue problems and numerical simulations. Each project highlights my understanding of the subject and my ability to implement solutions in MATLAB. Additionally, I have focused on real-world applications of differential equations in fields like physics and engineering. Please refer to the github repository below to view the source code of the projects. 
+
+[kylenyh Differential Equations MIT Github](https://github.com/kylenyh/Multivariable-Calculus-MIT)
 
 ### MATLAB
 
@@ -947,11 +1015,6 @@ Foreign Language Mandarin, Geography
 #### Extended Green’s Theorem (Multivariable Calculus)
 
 
-
-### R (Crime Mapping and Analysis Projects)
-
-
-### R (Statistical Testing and Analysis Projects)
 
 
 ## Courses (Certifications)
