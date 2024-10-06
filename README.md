@@ -542,19 +542,19 @@ This crime mapping UCL Github repository showcases my work on crime mapping usin
 
 [kylenyh Crime Mapping UCL Github](https://github.com/kylenyh/Crime-Mapping-UCL)
 
-### R (Probability, Statistics and Modelling I - UCL)
+#### R (Probability, Statistics and Modelling I - UCL)
 
 This probability, statistics and modelling I UCL Github repository contains a collection of R scripts focused on applying quantitative analysis to real-world crime phenomena. The projects include various statistical tests and probability distributions, such as binomial distribution, chi-square tests, t-tests, ANOVA and Poisson distribution. These tools enable rigorous data analysis, fostering an intuitive understanding of uncertainty and providing insights into crime-related datasets. By exploring these quantitative concepts, I demonstrate how data can be formally represented and interpreted to uncover patterns and trends in crime. The repository reflects my work from UCL’s module on quantitative reasoning, providing a solid foundation in both theoretical and practical aspects of crime data analysis. Please refer to the github repository below to view the source code of the projects. 
 
 [kylenyh Probability, Statistics and Modelling I UCL Github](https://github.com/kylenyh/Probability-Statistics-and-Modelling-1-UCL)
 
-### R (Probability, Statistics and Modelling II - UCL)
+#### R (Probability, Statistics and Modelling II - UCL)
 
 This probability, statistics and modelling II UCL Github repository features a collection of R scripts that apply statistical modeling techniques to crime and security science data. The repository covers a wide range of models and tests, including binary and ordinal logistic regressions, multiple linear regression, non-parametric tests (e.g., Mann-Whitney U, Wilcoxon) and correlation tests (Pearson and Spearman). These scripts illustrate the use of generalized linear models with various link functions, emphasizing statistical inference, intuition and interpretation. Each project builds on concepts from UCL’s Probability, Statistics and Modelling I module on statistical analysis, which builds on the foundation of applying quantitative methods to statistically interpret and analyze real-world crime datasets. Please refer to the github repository below to view the source code of the projects. 
 
 [kylenyh Probability, Statistics and Modelling II UCL Github](https://github.com/kylenyh/Probability-Statistics-and-Modelling-2-UCL)
 
-### R (Data Science for Crime Scientists - UCL)
+#### R (Data Science for Crime Scientists - UCL)
 
 [kylenyh Data Science for Crime Scientists UCL Github](https://github.com/kylenyh/Data-Science-for-Crime-Scientists-UCL)
 
