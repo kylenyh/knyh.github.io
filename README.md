@@ -2,7 +2,7 @@
 
 ## Profile Summary
 
-Kyle's interest in cybersecurity is deeply rooted in the exploration of advanced topics such as advanced computer architecture, network and web security and cryptography engineering. He is keen on understanding how complexity and system performance engineering can be leveraged to fortify cybersecurity frameworks. Additionally, Kyle is interested in the mathematical foundations that underpin these areas, such as calculus, algebra theory, number theory, probability theory, information theory, complexity theory, differential equations, artificial intelligence and machine learning. Furthermore, his curiosity extends to emerging technologies like quantum computing, where he seeks to explore their potential impact on cybersecurity and other areas of technology. Kyle's other interests in cybersecurity include ethical hacking, penetration testing and privacy engineering in sofware systems.
+Kyle's interest in cybersecurity is deeply rooted in the exploration of advanced topics such as advanced computer architecture, network and web security and cryptography engineering. He is keen on understanding how complexity and system performance engineering can be leveraged to fortify cybersecurity frameworks. Additionally, Kyle is interested in the mathematical foundations that underpin these areas, such as calculus, linear algebra, algebra theory, number theory, probability theory, information theory, complexity theory, differential equations, artificial intelligence and machine learning. Furthermore, his curiosity extends to emerging technologies like quantum computing, where he seeks to explore their potential impact on cybersecurity and other areas of technology. Kyle's other interests in cybersecurity include ethical hacking, penetration testing and privacy engineering in sofware systems.
 
 Outside his academic pursuits, Kyle dedicates time to coding projects in his down time to challenge his skills and deepen his understanding of computing and programming principles. He is also committed to self-learning cybersecurity, mathematics and quantum physics or quantum computing. 
 
@@ -518,7 +518,15 @@ This programming for crime scientists GitHub repository contains Python programm
 
 #### Python (Quantum Physics - Personal)
 
+This quantum physics Github repository is a fork of a quantum physics and quantum optics repository designed to provide hands-on learning through interactive Jupyter notebooks. The content primarily focuses on the fundamental principles of quantum mechanics and quantum optics, with practical implementations using QuTiP (Quantum Toolbox in Python), which is a powerful Python library for simulating quantum systems. The primary goal of this repository is to facilitate self-learning for those interested in quantum physics, quantum computing and quantum optics through real-world demonstrations, coding exercises and interactive simulations. I have been leveraging these materials to deepen my understanding of both theoretical and computational aspects of quantum mechanics. Please refer to the github repository below to view the source code of the Jupyter notebooks. 
+
+[kylenyh Quantum Physics Github](https://github.com/kylenyh/qutip-lectures)
+
 #### Python (Quantum Computing - Personal)
+
+This quantum computing Github repository is a fork of a comprehensive learning resource focused on the linear algebra and mathematical prerequisites necessary for understanding quantum computing. The materials are structured as Jupyter notebooks and Python scripts, providing an interactive and practical approach to mastering the foundational concepts required for quantum computation. The content is ideal for both beginners and those with a foundational knowledge of mathematics who want to deepen their understanding of the computational aspects of quantum theory. I have been self-learning through the Jupyter notebooks provided here, exploring the key mathematical tools needed for quantum computing, while leveraging the Python scripts for hands-on experience with quantum algorithms and simulations. Please refer to the github repository below to view the source code of the Jupyter notebooks. 
+
+[kylenyh Quantum Computing Github](https://github.com/kylenyh/linear_algebra_for_quantum_computing)
 
 #### Python (Classical Physics - Personal)
 
