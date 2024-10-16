@@ -512,7 +512,7 @@ Foreign Language Mandarin, Geography
 
 #### Python (Programming for Crime Scientists - UCL)
 
-This programming for crime scientists GitHub repository contains Python programming projects focused on fundamental programming concepts such as data structures, types, iteration and file input/output. In addition to these core principles, it includes the use of mathematical and statistical packages to analyze real-world crime-related datasets. These datasets include crime reports, survey data and community data, providing practical applications of computational methods. Weekly lab exercises were provided for the module and I leverage on these experiences to refine my programming skills and analytical techniques for crime data analysis. Please refer to the github repository below to view the source code of the projects I worked on. 
+This programming for crime scientists GitHub repository contains Python programming projects focused on fundamental programming concepts such as data structures, types, iteration and file input/output. In addition to these core principles, it includes the use of mathematical and statistical packages to analyze real-world crime-related datasets. These datasets include crime reports, survey data and community data, providing practical applications of computational methods. Weekly lab exercises were provided for the module and I leveraged on these experiences to refine my programming skills and analytical techniques for crime data analysis. Please refer to the github repository below to view the source code of the projects I worked on. 
 
 [kylenyh Programming for Crime Scientists UCL Github](https://github.com/kylenyh/Programming-for-Crime-Scientists-UCL)
 
